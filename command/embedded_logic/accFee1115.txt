@@ -1,0 +1,2400 @@
+[DEBUG][EMBED] random data length is 1196
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1473
+[INFO][EMBED] Total fee is 3867.6
+[DEBUG][EMBED] random data length is 2161
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2401
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2678
+[INFO][SEPARATE] Total fee is 7413.6
+[DEBUG][EMBED] random data length is 3556
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3833
+[INFO][EMBED] Total fee is 6699.6
+[DEBUG][EMBED] random data length is 1883
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2123
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2400
+[INFO][SEPARATE] Total fee is 7080
+[DEBUG][EMBED] random data length is 3807
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4084
+[INFO][EMBED] Total fee is 7000.8
+[DEBUG][EMBED] random data length is 2425
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2665
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2942
+[INFO][SEPARATE] Total fee is 7730.4
+[DEBUG][EMBED] random data length is 3644
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3921
+[INFO][EMBED] Total fee is 6805.2
+[DEBUG][EMBED] random data length is 2295
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2535
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2812
+[INFO][SEPARATE] Total fee is 7574.4
+[DEBUG][EMBED] random data length is 1846
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2123
+[INFO][EMBED] Total fee is 4647.6
+[DEBUG][EMBED] random data length is 1579
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1819
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2096
+[INFO][SEPARATE] Total fee is 6715.2
+[DEBUG][EMBED] random data length is 2523
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2800
+[INFO][EMBED] Total fee is 5460
+[DEBUG][EMBED] random data length is 2075
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2315
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2592
+[INFO][SEPARATE] Total fee is 7310.4
+[DEBUG][EMBED] random data length is 3650
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3927
+[INFO][EMBED] Total fee is 6812.4
+[DEBUG][EMBED] random data length is 1064
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1304
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1581
+[INFO][SEPARATE] Total fee is 6097.2
+[DEBUG][EMBED] random data length is 2265
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2542
+[INFO][EMBED] Total fee is 5150.4
+[DEBUG][EMBED] random data length is 1058
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1298
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1575
+[INFO][SEPARATE] Total fee is 6090
+[DEBUG][EMBED] random data length is 1957
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2234
+[INFO][EMBED] Total fee is 4780.8
+[DEBUG][EMBED] random data length is 3442
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3682
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3959
+[INFO][SEPARATE] Total fee is 8950.8
+[DEBUG][EMBED] random data length is 607
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 884
+[INFO][EMBED] Total fee is 3160.8
+[DEBUG][EMBED] random data length is 106
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 346
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 623
+[INFO][SEPARATE] Total fee is 4947.6
+[DEBUG][EMBED] random data length is 465
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 742
+[INFO][EMBED] Total fee is 2990.4
+[DEBUG][EMBED] random data length is 1400
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1640
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1917
+[INFO][SEPARATE] Total fee is 6500.4
+[DEBUG][EMBED] random data length is 280
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 557
+[INFO][EMBED] Total fee is 2768.4
+[DEBUG][EMBED] random data length is 1357
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1597
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1874
+[INFO][SEPARATE] Total fee is 6448.8
+[DEBUG][EMBED] random data length is 2121
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2398
+[INFO][EMBED] Total fee is 4977.6
+[DEBUG][EMBED] random data length is 1860
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2100
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2377
+[INFO][SEPARATE] Total fee is 7052.4
+[DEBUG][EMBED] random data length is 4206
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4483
+[INFO][EMBED] Total fee is 7479.6
+[DEBUG][EMBED] random data length is 1667
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1907
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2184
+[INFO][SEPARATE] Total fee is 6820.8
+[DEBUG][EMBED] random data length is 671
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 948
+[INFO][EMBED] Total fee is 3237.6
+[DEBUG][EMBED] random data length is 3743
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3983
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4260
+[INFO][SEPARATE] Total fee is 9312
+[DEBUG][EMBED] random data length is 2344
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2621
+[INFO][EMBED] Total fee is 5245.2
+[DEBUG][EMBED] random data length is 1291
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1531
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1808
+[INFO][SEPARATE] Total fee is 6369.6
+[DEBUG][EMBED] random data length is 731
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1008
+[INFO][EMBED] Total fee is 3309.6
+[DEBUG][EMBED] random data length is 2469
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2709
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2986
+[INFO][SEPARATE] Total fee is 7783.2
+[DEBUG][EMBED] random data length is 104
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 381
+[INFO][EMBED] Total fee is 2557.2
+[DEBUG][EMBED] random data length is 636
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 876
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1153
+[INFO][SEPARATE] Total fee is 5583.6
+[DEBUG][EMBED] random data length is 392
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 669
+[INFO][EMBED] Total fee is 2902.8
+[DEBUG][EMBED] random data length is 3056
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3296
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3573
+[INFO][SEPARATE] Total fee is 8487.6
+[DEBUG][EMBED] random data length is 748
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1025
+[INFO][EMBED] Total fee is 3330
+[DEBUG][EMBED] random data length is 2786
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3026
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3303
+[INFO][SEPARATE] Total fee is 8163.6
+[DEBUG][EMBED] random data length is 320
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 597
+[INFO][EMBED] Total fee is 2816.4
+[DEBUG][EMBED] random data length is 158
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 398
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 675
+[INFO][SEPARATE] Total fee is 5010
+[DEBUG][EMBED] random data length is 3160
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3437
+[INFO][EMBED] Total fee is 6224.4
+[DEBUG][EMBED] random data length is 1534
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1774
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2051
+[INFO][SEPARATE] Total fee is 6661.2
+[DEBUG][EMBED] random data length is 1572
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1849
+[INFO][EMBED] Total fee is 4318.8
+[DEBUG][EMBED] random data length is 1732
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1972
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2249
+[INFO][SEPARATE] Total fee is 6898.8
+[DEBUG][EMBED] random data length is 4059
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4336
+[INFO][EMBED] Total fee is 7303.2
+[DEBUG][EMBED] random data length is 792
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1032
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1309
+[INFO][SEPARATE] Total fee is 5770.8
+[DEBUG][EMBED] random data length is 2775
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3052
+[INFO][EMBED] Total fee is 5762.4
+[DEBUG][EMBED] random data length is 284
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 524
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 801
+[INFO][SEPARATE] Total fee is 5161.2
+[DEBUG][EMBED] random data length is 3033
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3310
+[INFO][EMBED] Total fee is 6072
+[DEBUG][EMBED] random data length is 1736
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1976
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2253
+[INFO][SEPARATE] Total fee is 6903.6
+[DEBUG][EMBED] random data length is 397
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 674
+[INFO][EMBED] Total fee is 2908.8
+[DEBUG][EMBED] random data length is 1535
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1775
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2052
+[INFO][SEPARATE] Total fee is 6662.4
+[DEBUG][EMBED] random data length is 89
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 366
+[INFO][EMBED] Total fee is 2539.2
+[DEBUG][EMBED] random data length is 1787
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2027
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2304
+[INFO][SEPARATE] Total fee is 6964.8
+[DEBUG][EMBED] random data length is 2194
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2471
+[INFO][EMBED] Total fee is 5065.2
+[DEBUG][EMBED] random data length is 3447
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3687
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3964
+[INFO][SEPARATE] Total fee is 8956.8
+[DEBUG][EMBED] random data length is 2208
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2485
+[INFO][EMBED] Total fee is 5082
+[DEBUG][EMBED] random data length is 393
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 633
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 910
+[INFO][SEPARATE] Total fee is 5292
+[DEBUG][EMBED] random data length is 3631
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3908
+[INFO][EMBED] Total fee is 6789.6
+[DEBUG][EMBED] random data length is 2994
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3234
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3511
+[INFO][SEPARATE] Total fee is 8413.2
+[DEBUG][EMBED] random data length is 2130
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2407
+[INFO][EMBED] Total fee is 4988.4
+[DEBUG][EMBED] random data length is 417
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 657
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 934
+[INFO][SEPARATE] Total fee is 5320.8
+[DEBUG][EMBED] random data length is 1024
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1301
+[INFO][EMBED] Total fee is 3661.2
+[DEBUG][EMBED] random data length is 2977
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3217
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3494
+[INFO][SEPARATE] Total fee is 8392.8
+[DEBUG][EMBED] random data length is 148
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 425
+[INFO][EMBED] Total fee is 2610
+[DEBUG][EMBED] random data length is 3241
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3481
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3758
+[INFO][SEPARATE] Total fee is 8709.6
+[DEBUG][EMBED] random data length is 2842
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3119
+[INFO][EMBED] Total fee is 5842.8
+[DEBUG][EMBED] random data length is 3810
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4050
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4327
+[INFO][SEPARATE] Total fee is 9392.4
+[DEBUG][EMBED] random data length is 3391
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3668
+[INFO][EMBED] Total fee is 6501.6
+[DEBUG][EMBED] random data length is 2022
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2262
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2539
+[INFO][SEPARATE] Total fee is 7246.8
+[DEBUG][EMBED] random data length is 1336
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1613
+[INFO][EMBED] Total fee is 4035.6
+[DEBUG][EMBED] random data length is 2339
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2579
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2856
+[INFO][SEPARATE] Total fee is 7627.2
+[DEBUG][EMBED] random data length is 2289
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2566
+[INFO][EMBED] Total fee is 5179.2
+[DEBUG][EMBED] random data length is 1853
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2093
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2370
+[INFO][SEPARATE] Total fee is 7044
+[DEBUG][EMBED] random data length is 326
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 603
+[INFO][EMBED] Total fee is 2823.6
+[DEBUG][EMBED] random data length is 547
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 787
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1064
+[INFO][SEPARATE] Total fee is 5476.8
+[DEBUG][EMBED] random data length is 622
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 899
+[INFO][EMBED] Total fee is 3178.8
+[DEBUG][EMBED] random data length is 1947
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2187
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2464
+[INFO][SEPARATE] Total fee is 7156.8
+[DEBUG][EMBED] random data length is 2154
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2431
+[INFO][EMBED] Total fee is 5017.2
+[DEBUG][EMBED] random data length is 2128
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2368
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2645
+[INFO][SEPARATE] Total fee is 7374
+[DEBUG][EMBED] random data length is 2246
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2523
+[INFO][EMBED] Total fee is 5127.6
+[DEBUG][EMBED] random data length is 1578
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1818
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2095
+[INFO][SEPARATE] Total fee is 6714
+[DEBUG][EMBED] random data length is 3787
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4064
+[INFO][EMBED] Total fee is 6976.8
+[DEBUG][EMBED] random data length is 1308
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1548
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1825
+[INFO][SEPARATE] Total fee is 6390
+[DEBUG][EMBED] random data length is 837
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1114
+[INFO][EMBED] Total fee is 3436.8
+[DEBUG][EMBED] random data length is 170
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 410
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 687
+[INFO][SEPARATE] Total fee is 5024.4
+[DEBUG][EMBED] random data length is 1191
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1468
+[INFO][EMBED] Total fee is 3861.6
+[DEBUG][EMBED] random data length is 1160
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1400
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1677
+[INFO][SEPARATE] Total fee is 6212.4
+[DEBUG][EMBED] random data length is 1627
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1904
+[INFO][EMBED] Total fee is 4384.8
+[DEBUG][EMBED] random data length is 1479
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1719
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1996
+[INFO][SEPARATE] Total fee is 6595.2
+[DEBUG][EMBED] random data length is 2627
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2904
+[INFO][EMBED] Total fee is 5584.8
+[DEBUG][EMBED] random data length is 807
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1047
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1324
+[INFO][SEPARATE] Total fee is 5788.8
+[DEBUG][EMBED] random data length is 1983
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2260
+[INFO][EMBED] Total fee is 4812
+[DEBUG][EMBED] random data length is 3543
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3783
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4060
+[INFO][SEPARATE] Total fee is 9072
+[DEBUG][EMBED] random data length is 2054
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2331
+[INFO][EMBED] Total fee is 4897.2
+[DEBUG][EMBED] random data length is 978
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1218
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1495
+[INFO][SEPARATE] Total fee is 5994
+[DEBUG][EMBED] random data length is 2797
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3074
+[INFO][EMBED] Total fee is 5788.8
+[DEBUG][EMBED] random data length is 1093
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1333
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1610
+[INFO][SEPARATE] Total fee is 6132
+[DEBUG][EMBED] random data length is 570
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 847
+[INFO][EMBED] Total fee is 3116.4
+[DEBUG][EMBED] random data length is 994
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1234
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1511
+[INFO][SEPARATE] Total fee is 6013.2
+[DEBUG][EMBED] random data length is 3452
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3729
+[INFO][EMBED] Total fee is 6574.8
+[DEBUG][EMBED] random data length is 1466
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1706
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1983
+[INFO][SEPARATE] Total fee is 6579.6
+[DEBUG][EMBED] random data length is 2968
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3245
+[INFO][EMBED] Total fee is 5994
+[DEBUG][EMBED] random data length is 3661
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3901
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4178
+[INFO][SEPARATE] Total fee is 9213.6
+[DEBUG][EMBED] random data length is 2092
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2369
+[INFO][EMBED] Total fee is 4942.8
+[DEBUG][EMBED] random data length is 1195
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1435
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1712
+[INFO][SEPARATE] Total fee is 6254.4
+[DEBUG][EMBED] random data length is 1365
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1642
+[INFO][EMBED] Total fee is 4070.4
+[DEBUG][EMBED] random data length is 1485
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1725
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2002
+[INFO][SEPARATE] Total fee is 6602.4
+[DEBUG][EMBED] random data length is 4200
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4477
+[INFO][EMBED] Total fee is 7472.4
+[DEBUG][EMBED] random data length is 1641
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1881
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2158
+[INFO][SEPARATE] Total fee is 6789.6
+[DEBUG][EMBED] random data length is 3838
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4115
+[INFO][EMBED] Total fee is 7038
+[DEBUG][EMBED] random data length is 3046
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3286
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3563
+[INFO][SEPARATE] Total fee is 8475.6
+[DEBUG][EMBED] random data length is 825
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1102
+[INFO][EMBED] Total fee is 3422.4
+[DEBUG][EMBED] random data length is 3116
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3356
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3633
+[INFO][SEPARATE] Total fee is 8559.6
+[DEBUG][EMBED] random data length is 1994
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2271
+[INFO][EMBED] Total fee is 4825.2
+[DEBUG][EMBED] random data length is 1369
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1609
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1886
+[INFO][SEPARATE] Total fee is 6463.2
+[DEBUG][EMBED] random data length is 4169
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4446
+[INFO][EMBED] Total fee is 7435.2
+[DEBUG][EMBED] random data length is 2710
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2950
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3227
+[INFO][SEPARATE] Total fee is 8072.4
+[DEBUG][EMBED] random data length is 648
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 925
+[INFO][EMBED] Total fee is 3210
+[DEBUG][EMBED] random data length is 1793
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2033
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2310
+[INFO][SEPARATE] Total fee is 6972
+[DEBUG][EMBED] random data length is 2104
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2381
+[INFO][EMBED] Total fee is 4957.2
+[DEBUG][EMBED] random data length is 378
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 618
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 895
+[INFO][SEPARATE] Total fee is 5274
+[DEBUG][EMBED] random data length is 3432
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3709
+[INFO][EMBED] Total fee is 6550.8
+[DEBUG][EMBED] random data length is 2395
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2635
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2912
+[INFO][SEPARATE] Total fee is 7694.4
+[DEBUG][EMBED] random data length is 3504
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3781
+[INFO][EMBED] Total fee is 6637.2
+[DEBUG][EMBED] random data length is 3513
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3753
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4030
+[INFO][SEPARATE] Total fee is 9036
+[DEBUG][EMBED] random data length is 387
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 664
+[INFO][EMBED] Total fee is 2896.8
+[DEBUG][EMBED] random data length is 2669
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2909
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3186
+[INFO][SEPARATE] Total fee is 8023.2
+[DEBUG][EMBED] random data length is 3035
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3312
+[INFO][EMBED] Total fee is 6074.4
+[DEBUG][EMBED] random data length is 2446
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2686
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2963
+[INFO][SEPARATE] Total fee is 7755.6
+[DEBUG][EMBED] random data length is 108
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 385
+[INFO][EMBED] Total fee is 2562
+[DEBUG][EMBED] random data length is 1447
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1687
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1964
+[INFO][SEPARATE] Total fee is 6556.8
+[DEBUG][EMBED] random data length is 2907
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3184
+[INFO][EMBED] Total fee is 5920.8
+[DEBUG][EMBED] random data length is 2091
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2331
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2608
+[INFO][SEPARATE] Total fee is 7329.6
+[DEBUG][EMBED] random data length is 76
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 353
+[INFO][EMBED] Total fee is 2523.6
+[DEBUG][EMBED] random data length is 3374
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3614
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3891
+[INFO][SEPARATE] Total fee is 8869.2
+[DEBUG][EMBED] random data length is 2676
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2953
+[INFO][EMBED] Total fee is 5643.6
+[DEBUG][EMBED] random data length is 2266
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2506
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2783
+[INFO][SEPARATE] Total fee is 7539.6
+[DEBUG][EMBED] random data length is 2655
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2932
+[INFO][EMBED] Total fee is 5618.4
+[DEBUG][EMBED] random data length is 3393
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3633
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3910
+[INFO][SEPARATE] Total fee is 8892
+[DEBUG][EMBED] random data length is 1153
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1430
+[INFO][EMBED] Total fee is 3816
+[DEBUG][EMBED] random data length is 1157
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1397
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1674
+[INFO][SEPARATE] Total fee is 6208.8
+[DEBUG][EMBED] random data length is 4066
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4343
+[INFO][EMBED] Total fee is 7311.6
+[DEBUG][EMBED] random data length is 1272
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1512
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1789
+[INFO][SEPARATE] Total fee is 6346.8
+[DEBUG][EMBED] random data length is 777
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1054
+[INFO][EMBED] Total fee is 3364.8
+[DEBUG][EMBED] random data length is 980
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1220
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1497
+[INFO][SEPARATE] Total fee is 5996.4
+[DEBUG][EMBED] random data length is 2237
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2514
+[INFO][EMBED] Total fee is 5116.8
+[DEBUG][EMBED] random data length is 1667
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1907
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2184
+[INFO][SEPARATE] Total fee is 6820.8
+[DEBUG][EMBED] random data length is 193
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 470
+[INFO][EMBED] Total fee is 2664
+[DEBUG][EMBED] random data length is 3825
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4065
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4342
+[INFO][SEPARATE] Total fee is 9410.4
+[DEBUG][EMBED] random data length is 415
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 692
+[INFO][EMBED] Total fee is 2930.4
+[DEBUG][EMBED] random data length is 1160
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1400
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1677
+[INFO][SEPARATE] Total fee is 6212.4
+[DEBUG][EMBED] random data length is 3830
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4107
+[INFO][EMBED] Total fee is 7028.4
+[DEBUG][EMBED] random data length is 3906
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4146
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4423
+[INFO][SEPARATE] Total fee is 9507.6
+[DEBUG][EMBED] random data length is 3410
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3687
+[INFO][EMBED] Total fee is 6524.4
+[DEBUG][EMBED] random data length is 3498
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3738
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4015
+[INFO][SEPARATE] Total fee is 9018
+[DEBUG][EMBED] random data length is 1232
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1509
+[INFO][EMBED] Total fee is 3910.8
+[DEBUG][EMBED] random data length is 1032
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1272
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1549
+[INFO][SEPARATE] Total fee is 6058.8
+[DEBUG][EMBED] random data length is 1491
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1768
+[INFO][EMBED] Total fee is 4221.6
+[DEBUG][EMBED] random data length is 2774
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3014
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3291
+[INFO][SEPARATE] Total fee is 8149.2
+[DEBUG][EMBED] random data length is 2550
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2827
+[INFO][EMBED] Total fee is 5492.4
+[DEBUG][EMBED] random data length is 3074
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3314
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3591
+[INFO][SEPARATE] Total fee is 8509.2
+[DEBUG][EMBED] random data length is 366
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 643
+[INFO][EMBED] Total fee is 2871.6
+[DEBUG][EMBED] random data length is 2904
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3144
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3421
+[INFO][SEPARATE] Total fee is 8305.2
+[DEBUG][EMBED] random data length is 3497
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3774
+[INFO][EMBED] Total fee is 6628.8
+[DEBUG][EMBED] random data length is 3426
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3666
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3943
+[INFO][SEPARATE] Total fee is 8931.6
+[DEBUG][EMBED] random data length is 3267
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3544
+[INFO][EMBED] Total fee is 6352.8
+[DEBUG][EMBED] random data length is 1058
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1298
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1575
+[INFO][SEPARATE] Total fee is 6090
+[DEBUG][EMBED] random data length is 3304
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3581
+[INFO][EMBED] Total fee is 6397.2
+[DEBUG][EMBED] random data length is 1978
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2218
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2495
+[INFO][SEPARATE] Total fee is 7194
+[DEBUG][EMBED] random data length is 1911
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2188
+[INFO][EMBED] Total fee is 4725.6
+[DEBUG][EMBED] random data length is 3712
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3952
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4229
+[INFO][SEPARATE] Total fee is 9274.8
+[DEBUG][EMBED] random data length is 90
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 367
+[INFO][EMBED] Total fee is 2540.4
+[DEBUG][EMBED] random data length is 3597
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3837
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4114
+[INFO][SEPARATE] Total fee is 9136.8
+[DEBUG][EMBED] random data length is 2093
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2370
+[INFO][EMBED] Total fee is 4944
+[DEBUG][EMBED] random data length is 1403
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1643
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1920
+[INFO][SEPARATE] Total fee is 6504
+[DEBUG][EMBED] random data length is 2130
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2407
+[INFO][EMBED] Total fee is 4988.4
+[DEBUG][EMBED] random data length is 251
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 491
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 768
+[INFO][SEPARATE] Total fee is 5121.6
+[DEBUG][EMBED] random data length is 3819
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4096
+[INFO][EMBED] Total fee is 7015.2
+[DEBUG][EMBED] random data length is 2431
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2671
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2948
+[INFO][SEPARATE] Total fee is 7737.6
+[DEBUG][EMBED] random data length is 3334
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3611
+[INFO][EMBED] Total fee is 6433.2
+[DEBUG][EMBED] random data length is 3526
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3766
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4043
+[INFO][SEPARATE] Total fee is 9051.6
+[DEBUG][EMBED] random data length is 2434
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2711
+[INFO][EMBED] Total fee is 5353.2
+[DEBUG][EMBED] random data length is 1474
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1714
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1991
+[INFO][SEPARATE] Total fee is 6589.2
+[DEBUG][EMBED] random data length is 2060
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2337
+[INFO][EMBED] Total fee is 4904.4
+[DEBUG][EMBED] random data length is 1615
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1855
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2132
+[INFO][SEPARATE] Total fee is 6758.4
+[DEBUG][EMBED] random data length is 3330
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3607
+[INFO][EMBED] Total fee is 6428.4
+[DEBUG][EMBED] random data length is 292
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 532
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 809
+[INFO][SEPARATE] Total fee is 5170.8
+[DEBUG][EMBED] random data length is 2664
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2941
+[INFO][EMBED] Total fee is 5629.2
+[DEBUG][EMBED] random data length is 4095
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4335
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4612
+[INFO][SEPARATE] Total fee is 9734.4
+[DEBUG][EMBED] random data length is 1674
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1951
+[INFO][EMBED] Total fee is 4441.2
+[DEBUG][EMBED] random data length is 1454
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1694
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1971
+[INFO][SEPARATE] Total fee is 6565.2
+[DEBUG][EMBED] random data length is 2926
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3203
+[INFO][EMBED] Total fee is 5943.6
+[DEBUG][EMBED] random data length is 148
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 388
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 665
+[INFO][SEPARATE] Total fee is 4998
+[DEBUG][EMBED] random data length is 1842
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2119
+[INFO][EMBED] Total fee is 4642.8
+[DEBUG][EMBED] random data length is 3512
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3752
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4029
+[INFO][SEPARATE] Total fee is 9034.8
+[DEBUG][EMBED] random data length is 3186
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3463
+[INFO][EMBED] Total fee is 6255.6
+[DEBUG][EMBED] random data length is 1973
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2213
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2490
+[INFO][SEPARATE] Total fee is 7188
+[DEBUG][EMBED] random data length is 717
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 994
+[INFO][EMBED] Total fee is 3292.8
+[DEBUG][EMBED] random data length is 1668
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1908
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2185
+[INFO][SEPARATE] Total fee is 6822
+[DEBUG][EMBED] random data length is 1222
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1499
+[INFO][EMBED] Total fee is 3898.8
+[DEBUG][EMBED] random data length is 3851
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4091
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4368
+[INFO][SEPARATE] Total fee is 9441.6
+[DEBUG][EMBED] random data length is 2807
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3084
+[INFO][EMBED] Total fee is 5800.8
+[DEBUG][EMBED] random data length is 2491
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2731
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3008
+[INFO][SEPARATE] Total fee is 7809.6
+[DEBUG][EMBED] random data length is 1202
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1479
+[INFO][EMBED] Total fee is 3874.8
+[DEBUG][EMBED] random data length is 3010
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3250
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3527
+[INFO][SEPARATE] Total fee is 8432.4
+[DEBUG][EMBED] random data length is 2378
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2655
+[INFO][EMBED] Total fee is 5286
+[DEBUG][EMBED] random data length is 347
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 587
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 864
+[INFO][SEPARATE] Total fee is 5236.8
+[DEBUG][EMBED] random data length is 1748
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2025
+[INFO][EMBED] Total fee is 4530
+[DEBUG][EMBED] random data length is 220
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 460
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 737
+[INFO][SEPARATE] Total fee is 5084.4
+[DEBUG][EMBED] random data length is 940
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1217
+[INFO][EMBED] Total fee is 3560.4
+[DEBUG][EMBED] random data length is 1751
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1991
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2268
+[INFO][SEPARATE] Total fee is 6921.6
+[DEBUG][EMBED] random data length is 3609
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3886
+[INFO][EMBED] Total fee is 6763.2
+[DEBUG][EMBED] random data length is 4196
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4436
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4713
+[INFO][SEPARATE] Total fee is 9855.6
+[DEBUG][EMBED] random data length is 429
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 706
+[INFO][EMBED] Total fee is 2947.2
+[DEBUG][EMBED] random data length is 376
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 616
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 893
+[INFO][SEPARATE] Total fee is 5271.6
+[DEBUG][EMBED] random data length is 1267
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1544
+[INFO][EMBED] Total fee is 3952.8
+[DEBUG][EMBED] random data length is 2936
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3176
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3453
+[INFO][SEPARATE] Total fee is 8343.6
+[DEBUG][EMBED] random data length is 2190
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2467
+[INFO][EMBED] Total fee is 5060.4
+[DEBUG][EMBED] random data length is 624
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 864
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1141
+[INFO][SEPARATE] Total fee is 5569.2
+[DEBUG][EMBED] random data length is 4132
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4409
+[INFO][EMBED] Total fee is 7390.8
+[DEBUG][EMBED] random data length is 3152
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3392
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3669
+[INFO][SEPARATE] Total fee is 8602.8
+[DEBUG][EMBED] random data length is 570
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 847
+[INFO][EMBED] Total fee is 3116.4
+[DEBUG][EMBED] random data length is 1818
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2058
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2335
+[INFO][SEPARATE] Total fee is 7002
+[DEBUG][EMBED] random data length is 97
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 374
+[INFO][EMBED] Total fee is 2548.8
+[DEBUG][EMBED] random data length is 993
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1233
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1510
+[INFO][SEPARATE] Total fee is 6012
+[DEBUG][EMBED] random data length is 1465
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1742
+[INFO][EMBED] Total fee is 4190.4
+[DEBUG][EMBED] random data length is 602
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 842
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1119
+[INFO][SEPARATE] Total fee is 5542.8
+[DEBUG][EMBED] random data length is 1480
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1757
+[INFO][EMBED] Total fee is 4208.4
+[DEBUG][EMBED] random data length is 3685
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3925
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4202
+[INFO][SEPARATE] Total fee is 9242.4
+[DEBUG][EMBED] random data length is 3538
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3815
+[INFO][EMBED] Total fee is 6678
+[DEBUG][EMBED] random data length is 1687
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1927
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2204
+[INFO][SEPARATE] Total fee is 6844.8
+[DEBUG][EMBED] random data length is 2767
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3044
+[INFO][EMBED] Total fee is 5752.8
+[DEBUG][EMBED] random data length is 626
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 866
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1143
+[INFO][SEPARATE] Total fee is 5571.6
+[DEBUG][EMBED] random data length is 1053
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1330
+[INFO][EMBED] Total fee is 3696
+[DEBUG][EMBED] random data length is 372
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 612
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 889
+[INFO][SEPARATE] Total fee is 5266.8
+[DEBUG][EMBED] random data length is 2302
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2579
+[INFO][EMBED] Total fee is 5194.8
+[DEBUG][EMBED] random data length is 710
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 950
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1227
+[INFO][SEPARATE] Total fee is 5672.4
+[DEBUG][EMBED] random data length is 2174
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2451
+[INFO][EMBED] Total fee is 5041.2
+[DEBUG][EMBED] random data length is 1116
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1356
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1633
+[INFO][SEPARATE] Total fee is 6159.6
+[DEBUG][EMBED] random data length is 2853
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3130
+[INFO][EMBED] Total fee is 5856
+[DEBUG][EMBED] random data length is 3483
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3723
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4000
+[INFO][SEPARATE] Total fee is 9000
+[DEBUG][EMBED] random data length is 1609
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1886
+[INFO][EMBED] Total fee is 4363.2
+[DEBUG][EMBED] random data length is 259
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 499
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 776
+[INFO][SEPARATE] Total fee is 5131.2
+[DEBUG][EMBED] random data length is 3430
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3707
+[INFO][EMBED] Total fee is 6548.4
+[DEBUG][EMBED] random data length is 1481
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1721
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1998
+[INFO][SEPARATE] Total fee is 6597.6
+[DEBUG][EMBED] random data length is 3788
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4065
+[INFO][EMBED] Total fee is 6978
+[DEBUG][EMBED] random data length is 4139
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4379
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4656
+[INFO][SEPARATE] Total fee is 9787.2
+[DEBUG][EMBED] random data length is 638
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 915
+[INFO][EMBED] Total fee is 3198
+[DEBUG][EMBED] random data length is 3599
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3839
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4116
+[INFO][SEPARATE] Total fee is 9139.2
+[DEBUG][EMBED] random data length is 2369
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2646
+[INFO][EMBED] Total fee is 5275.2
+[DEBUG][EMBED] random data length is 877
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1117
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1394
+[INFO][SEPARATE] Total fee is 5872.8
+[DEBUG][EMBED] random data length is 225
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 502
+[INFO][EMBED] Total fee is 2702.4
+[DEBUG][EMBED] random data length is 3902
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4142
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4419
+[INFO][SEPARATE] Total fee is 9502.8
+[DEBUG][EMBED] random data length is 38
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 315
+[INFO][EMBED] Total fee is 2478
+[DEBUG][EMBED] random data length is 2718
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2958
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3235
+[INFO][SEPARATE] Total fee is 8082
+[DEBUG][EMBED] random data length is 3168
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3445
+[INFO][EMBED] Total fee is 6234
+[DEBUG][EMBED] random data length is 3658
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3898
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4175
+[INFO][SEPARATE] Total fee is 9210
+[DEBUG][EMBED] random data length is 397
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 674
+[INFO][EMBED] Total fee is 2908.8
+[DEBUG][EMBED] random data length is 1813
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2053
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2330
+[INFO][SEPARATE] Total fee is 6996
+[DEBUG][EMBED] random data length is 3138
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3415
+[INFO][EMBED] Total fee is 6198
+[DEBUG][EMBED] random data length is 2198
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2438
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2715
+[INFO][SEPARATE] Total fee is 7458
+[DEBUG][EMBED] random data length is 421
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 698
+[INFO][EMBED] Total fee is 2937.6
+[DEBUG][EMBED] random data length is 501
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 741
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1018
+[INFO][SEPARATE] Total fee is 5421.6
+[DEBUG][EMBED] random data length is 2670
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2947
+[INFO][EMBED] Total fee is 5636.4
+[DEBUG][EMBED] random data length is 608
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 848
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1125
+[INFO][SEPARATE] Total fee is 5550
+[DEBUG][EMBED] random data length is 2840
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3117
+[INFO][EMBED] Total fee is 5840.4
+[DEBUG][EMBED] random data length is 1054
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1294
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1571
+[INFO][SEPARATE] Total fee is 6085.2
+[DEBUG][EMBED] random data length is 1658
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1935
+[INFO][EMBED] Total fee is 4422
+[DEBUG][EMBED] random data length is 484
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 724
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1001
+[INFO][SEPARATE] Total fee is 5401.2
+[DEBUG][EMBED] random data length is 184
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 461
+[INFO][EMBED] Total fee is 2653.2
+[DEBUG][EMBED] random data length is 1952
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2192
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2469
+[INFO][SEPARATE] Total fee is 7162.8
+[DEBUG][EMBED] random data length is 3762
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4039
+[INFO][EMBED] Total fee is 6946.8
+[DEBUG][EMBED] random data length is 2094
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2334
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2611
+[INFO][SEPARATE] Total fee is 7333.2
+[DEBUG][EMBED] random data length is 1745
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2022
+[INFO][EMBED] Total fee is 4526.4
+[DEBUG][EMBED] random data length is 2424
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2664
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2941
+[INFO][SEPARATE] Total fee is 7729.2
+[DEBUG][EMBED] random data length is 3429
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3706
+[INFO][EMBED] Total fee is 6547.2
+[DEBUG][EMBED] random data length is 796
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1036
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1313
+[INFO][SEPARATE] Total fee is 5775.6
+[DEBUG][EMBED] random data length is 1170
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1447
+[INFO][EMBED] Total fee is 3836.4
+[DEBUG][EMBED] random data length is 4136
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4376
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4653
+[INFO][SEPARATE] Total fee is 9783.6
+[DEBUG][EMBED] random data length is 3405
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3682
+[INFO][EMBED] Total fee is 6518.4
+[DEBUG][EMBED] random data length is 1018
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1258
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1535
+[INFO][SEPARATE] Total fee is 6042
+[DEBUG][EMBED] random data length is 1995
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2272
+[INFO][EMBED] Total fee is 4826.4
+[DEBUG][EMBED] random data length is 1960
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2200
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2477
+[INFO][SEPARATE] Total fee is 7172.4
+[DEBUG][EMBED] random data length is 3661
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3938
+[INFO][EMBED] Total fee is 6825.6
+[DEBUG][EMBED] random data length is 2232
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2472
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2749
+[INFO][SEPARATE] Total fee is 7498.8
+[DEBUG][EMBED] random data length is 10
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 287
+[INFO][EMBED] Total fee is 2444.4
+[DEBUG][EMBED] random data length is 1534
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1774
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2051
+[INFO][SEPARATE] Total fee is 6661.2
+[DEBUG][EMBED] random data length is 4095
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4372
+[INFO][EMBED] Total fee is 7346.4
+[DEBUG][EMBED] random data length is 1771
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2011
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2288
+[INFO][SEPARATE] Total fee is 6945.6
+[DEBUG][EMBED] random data length is 1666
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1943
+[INFO][EMBED] Total fee is 4431.6
+[DEBUG][EMBED] random data length is 271
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 511
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 788
+[INFO][SEPARATE] Total fee is 5145.6
+[DEBUG][EMBED] random data length is 1341
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1618
+[INFO][EMBED] Total fee is 4041.6
+[DEBUG][EMBED] random data length is 526
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 766
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1043
+[INFO][SEPARATE] Total fee is 5451.6
+[DEBUG][EMBED] random data length is 16
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 293
+[INFO][EMBED] Total fee is 2451.6
+[DEBUG][EMBED] random data length is 1284
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1524
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1801
+[INFO][SEPARATE] Total fee is 6361.2
+[DEBUG][EMBED] random data length is 842
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1119
+[INFO][EMBED] Total fee is 3442.8
+[DEBUG][EMBED] random data length is 3229
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3469
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3746
+[INFO][SEPARATE] Total fee is 8695.2
+[DEBUG][EMBED] random data length is 2153
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2430
+[INFO][EMBED] Total fee is 5016
+[DEBUG][EMBED] random data length is 3543
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3783
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4060
+[INFO][SEPARATE] Total fee is 9072
+[DEBUG][EMBED] random data length is 3935
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4212
+[INFO][EMBED] Total fee is 7154.4
+[DEBUG][EMBED] random data length is 1576
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1816
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2093
+[INFO][SEPARATE] Total fee is 6711.6
+[DEBUG][EMBED] random data length is 3208
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3485
+[INFO][EMBED] Total fee is 6282
+[DEBUG][EMBED] random data length is 700
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 940
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1217
+[INFO][SEPARATE] Total fee is 5660.4
+[DEBUG][EMBED] random data length is 1542
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1819
+[INFO][EMBED] Total fee is 4282.8
+[DEBUG][EMBED] random data length is 1664
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1904
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2181
+[INFO][SEPARATE] Total fee is 6817.2
+[DEBUG][EMBED] random data length is 582
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 859
+[INFO][EMBED] Total fee is 3130.8
+[DEBUG][EMBED] random data length is 3941
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4181
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4458
+[INFO][SEPARATE] Total fee is 9549.6
+[DEBUG][EMBED] random data length is 2413
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2690
+[INFO][EMBED] Total fee is 5328
+[DEBUG][EMBED] random data length is 2739
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2979
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3256
+[INFO][SEPARATE] Total fee is 8107.2
+[DEBUG][EMBED] random data length is 303
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 580
+[INFO][EMBED] Total fee is 2796
+[DEBUG][EMBED] random data length is 2676
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2916
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3193
+[INFO][SEPARATE] Total fee is 8031.6
+[DEBUG][EMBED] random data length is 1715
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1992
+[INFO][EMBED] Total fee is 4490.4
+[DEBUG][EMBED] random data length is 1954
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2194
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2471
+[INFO][SEPARATE] Total fee is 7165.2
+[DEBUG][EMBED] random data length is 1836
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2113
+[INFO][EMBED] Total fee is 4635.6
+[DEBUG][EMBED] random data length is 3533
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3773
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4050
+[INFO][SEPARATE] Total fee is 9060
+[DEBUG][EMBED] random data length is 2119
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2396
+[INFO][EMBED] Total fee is 4975.2
+[DEBUG][EMBED] random data length is 4181
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4421
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4698
+[INFO][SEPARATE] Total fee is 9837.6
+[DEBUG][EMBED] random data length is 1760
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2037
+[INFO][EMBED] Total fee is 4544.4
+[DEBUG][EMBED] random data length is 657
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 897
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1174
+[INFO][SEPARATE] Total fee is 5608.8
+[DEBUG][EMBED] random data length is 1131
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1408
+[INFO][EMBED] Total fee is 3789.6
+[DEBUG][EMBED] random data length is 3199
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3439
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3716
+[INFO][SEPARATE] Total fee is 8659.2
+[DEBUG][EMBED] random data length is 3953
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4230
+[INFO][EMBED] Total fee is 7176
+[DEBUG][EMBED] random data length is 4118
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4358
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4635
+[INFO][SEPARATE] Total fee is 9762
+[DEBUG][EMBED] random data length is 1253
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1530
+[INFO][EMBED] Total fee is 3936
+[DEBUG][EMBED] random data length is 2720
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2960
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3237
+[INFO][SEPARATE] Total fee is 8084.4
+[DEBUG][EMBED] random data length is 3583
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3860
+[INFO][EMBED] Total fee is 6732
+[DEBUG][EMBED] random data length is 3510
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3750
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4027
+[INFO][SEPARATE] Total fee is 9032.4
+[DEBUG][EMBED] random data length is 4152
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4429
+[INFO][EMBED] Total fee is 7414.8
+[DEBUG][EMBED] random data length is 1531
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1771
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2048
+[INFO][SEPARATE] Total fee is 6657.6
+[DEBUG][EMBED] random data length is 3064
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3341
+[INFO][EMBED] Total fee is 6109.2
+[DEBUG][EMBED] random data length is 3071
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3311
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3588
+[INFO][SEPARATE] Total fee is 8505.6
+[DEBUG][EMBED] random data length is 1929
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2206
+[INFO][EMBED] Total fee is 4747.2
+[DEBUG][EMBED] random data length is 4163
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4403
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4680
+[INFO][SEPARATE] Total fee is 9816
+[DEBUG][EMBED] random data length is 3469
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3746
+[INFO][EMBED] Total fee is 6595.2
+[DEBUG][EMBED] random data length is 3919
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4159
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4436
+[INFO][SEPARATE] Total fee is 9523.2
+[DEBUG][EMBED] random data length is 71
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 348
+[INFO][EMBED] Total fee is 2517.6
+[DEBUG][EMBED] random data length is 1499
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1739
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2016
+[INFO][SEPARATE] Total fee is 6619.2
+[DEBUG][EMBED] random data length is 655
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 932
+[INFO][EMBED] Total fee is 3218.4
+[DEBUG][EMBED] random data length is 928
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1168
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1445
+[INFO][SEPARATE] Total fee is 5934
+[DEBUG][EMBED] random data length is 944
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1221
+[INFO][EMBED] Total fee is 3565.2
+[DEBUG][EMBED] random data length is 1510
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1750
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2027
+[INFO][SEPARATE] Total fee is 6632.4
+[DEBUG][EMBED] random data length is 3302
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3579
+[INFO][EMBED] Total fee is 6394.8
+[DEBUG][EMBED] random data length is 2106
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2346
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2623
+[INFO][SEPARATE] Total fee is 7347.6
+[DEBUG][EMBED] random data length is 2138
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2415
+[INFO][EMBED] Total fee is 4998
+[DEBUG][EMBED] random data length is 3551
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3791
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4068
+[INFO][SEPARATE] Total fee is 9081.6
+[DEBUG][EMBED] random data length is 3601
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3878
+[INFO][EMBED] Total fee is 6753.6
+[DEBUG][EMBED] random data length is 3757
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3997
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4274
+[INFO][SEPARATE] Total fee is 9328.8
+[DEBUG][EMBED] random data length is 1110
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1387
+[INFO][EMBED] Total fee is 3764.4
+[DEBUG][EMBED] random data length is 644
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 884
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1161
+[INFO][SEPARATE] Total fee is 5593.2
+[DEBUG][EMBED] random data length is 3908
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4185
+[INFO][EMBED] Total fee is 7122
+[DEBUG][EMBED] random data length is 2958
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3198
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3475
+[INFO][SEPARATE] Total fee is 8370
+[DEBUG][EMBED] random data length is 2535
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2812
+[INFO][EMBED] Total fee is 5474.4
+[DEBUG][EMBED] random data length is 1605
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1845
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2122
+[INFO][SEPARATE] Total fee is 6746.4
+[DEBUG][EMBED] random data length is 2022
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2299
+[INFO][EMBED] Total fee is 4858.8
+[DEBUG][EMBED] random data length is 704
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 944
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1221
+[INFO][SEPARATE] Total fee is 5665.2
+[DEBUG][EMBED] random data length is 2047
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2324
+[INFO][EMBED] Total fee is 4888.8
+[DEBUG][EMBED] random data length is 2781
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3021
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3298
+[INFO][SEPARATE] Total fee is 8157.6
+[DEBUG][EMBED] random data length is 2394
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2671
+[INFO][EMBED] Total fee is 5305.2
+[DEBUG][EMBED] random data length is 1769
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2009
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2286
+[INFO][SEPARATE] Total fee is 6943.2
+[DEBUG][EMBED] random data length is 2694
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2971
+[INFO][EMBED] Total fee is 5665.2
+[DEBUG][EMBED] random data length is 1078
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1318
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1595
+[INFO][SEPARATE] Total fee is 6114
+[DEBUG][EMBED] random data length is 880
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1157
+[INFO][EMBED] Total fee is 3488.4
+[DEBUG][EMBED] random data length is 2802
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3042
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3319
+[INFO][SEPARATE] Total fee is 8182.8
+[DEBUG][EMBED] random data length is 3408
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3685
+[INFO][EMBED] Total fee is 6522
+[DEBUG][EMBED] random data length is 13
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 253
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 530
+[INFO][SEPARATE] Total fee is 4836
+[DEBUG][EMBED] random data length is 119
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 396
+[INFO][EMBED] Total fee is 2575.2
+[DEBUG][EMBED] random data length is 838
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1078
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1355
+[INFO][SEPARATE] Total fee is 5826
+[DEBUG][EMBED] random data length is 3617
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3894
+[INFO][EMBED] Total fee is 6772.8
+[DEBUG][EMBED] random data length is 98
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 338
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 615
+[INFO][SEPARATE] Total fee is 4938
+[DEBUG][EMBED] random data length is 2894
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3171
+[INFO][EMBED] Total fee is 5905.2
+[DEBUG][EMBED] random data length is 2029
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2269
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2546
+[INFO][SEPARATE] Total fee is 7255.2
+[DEBUG][EMBED] random data length is 2244
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2521
+[INFO][EMBED] Total fee is 5125.2
+[DEBUG][EMBED] random data length is 2644
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2884
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3161
+[INFO][SEPARATE] Total fee is 7993.2
+[DEBUG][EMBED] random data length is 3585
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 3862
+[INFO][EMBED] Total fee is 6734.4
+[DEBUG][EMBED] random data length is 1275
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1515
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1792
+[INFO][SEPARATE] Total fee is 6350.4
+[DEBUG][EMBED] random data length is 1512
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1789
+[INFO][EMBED] Total fee is 4246.8
+[DEBUG][EMBED] random data length is 242
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 482
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 759
+[INFO][SEPARATE] Total fee is 5110.8
+[DEBUG][EMBED] random data length is 1776
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2053
+[INFO][EMBED] Total fee is 4563.6
+[DEBUG][EMBED] random data length is 2474
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2714
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2991
+[INFO][SEPARATE] Total fee is 7789.2
+[DEBUG][EMBED] random data length is 3806
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4083
+[INFO][EMBED] Total fee is 6999.6
+[DEBUG][EMBED] random data length is 3915
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4155
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4432
+[INFO][SEPARATE] Total fee is 9518.4
+[DEBUG][EMBED] random data length is 1659
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 1936
+[INFO][EMBED] Total fee is 4423.2
+[DEBUG][EMBED] random data length is 2553
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2793
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3070
+[INFO][SEPARATE] Total fee is 7884
+[DEBUG][EMBED] random data length is 41
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 318
+[INFO][EMBED] Total fee is 2481.6
+[DEBUG][EMBED] random data length is 3800
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 4040
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 4317
+[INFO][SEPARATE] Total fee is 9380.4
+[DEBUG][EMBED] random data length is 86
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 363
+[INFO][EMBED] Total fee is 2535.6
+[DEBUG][EMBED] random data length is 323
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 563
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 840
+[INFO][SEPARATE] Total fee is 5208
+[DEBUG][EMBED] random data length is 2510
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2787
+[INFO][EMBED] Total fee is 5444.4
+[DEBUG][EMBED] random data length is 2335
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 2575
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 2852
+[INFO][SEPARATE] Total fee is 7622.4
+[DEBUG][EMBED] random data length is 1992
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2269
+[INFO][EMBED] Total fee is 4822.8
+[DEBUG][EMBED] random data length is 1409
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1649
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1926
+[INFO][SEPARATE] Total fee is 6511.2
+[DEBUG][EMBED] random data length is 2434
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 2711
+[INFO][EMBED] Total fee is 5353.2
+[DEBUG][EMBED] random data length is 2785
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 3025
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 3302
+[INFO][SEPARATE] Total fee is 8162.4
+[DEBUG][EMBED] random data length is 4071
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 4348
+[INFO][EMBED] Total fee is 7317.6
+[DEBUG][EMBED] random data length is 614
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 854
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1131
+[INFO][SEPARATE] Total fee is 5557.2
+[DEBUG][EMBED] random data length is 152
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[INFO][EMBED] Total length is 429
+[INFO][EMBED] Total fee is 2614.8
+[DEBUG][EMBED] random data length is 829
+[DEBUG][EMBED] Tx must data length is 240
+[DEBUG][EMBED] tx code length is 25, and tx base64 code is 37
+[DEBUG][SEPARATE] Tx1's total length is 1069
+[DEBUG][SEPARATE] Tx2's total length is 277
+[INFO][SEPARATE] Total length is 1346
+[INFO][SEPARATE] Total fee is 5815.2

@@ -1,0 +1,9 @@
+perl testSequence.pl 9 30 1200 ;;1-9;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;1-9;notary_first_txonbc3 7;sendcomct-10081-notary_first_txonbc3-789003-789001-2;1-6;notary_first_txonbc2 4;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+perl testSequence.pl 9 1 1200 ;;1-9;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;1-9;notary_first_txonbc3 7;sendcomct-10081-notary_first_txonbc3-789003-789001-2;1-6;notary_first_txonbc2 4;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+
+Notice:
+  First phase, users lock promise to lock asset on each blockchain. Transactions can happened in order. Or someone cannot be ensured.
+  Second phase, phase two commit transactions. Those transactions can happen in parallel.
+  

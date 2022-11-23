@@ -1,0 +1,1 @@
+perl testNotary.pl 4 1 600 ;;1-4;notray_second_tx 1:3;send-notray_second_tx-789004-789004-0;; 3;send-notray_first_txonbc2-789002-789001-2;1-2;notray_first_txonbc1 1;send-notray_first_txonbc1-789001-789002-2;;

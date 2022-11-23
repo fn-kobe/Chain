@@ -1,0 +1,6 @@
+// test operation node 3 BC
+perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+
+
+// send tx node on each blockchain when wait until all blockchain are when in step 1
+perl testSendTxContinously.pl <nodeFolder>

@@ -1,0 +1,1 @@
+java -cp smartContract\blockchain.jar com.scu.suhong.instantiationOptimization.embed.NotCallingOther notCallingOtherVar1 D:\lab425\verification\action_condition_pair\smartContract

@@ -1,0 +1,3 @@
+1.If the balance is not synced, there may be the case that sync will fail due to balance issue.
+	Solution: 1). Wait the sync done
+		  2). Use internal account to transfer.

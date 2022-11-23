@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="blockchain:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15e80856-90f1-4d16-8bd2-c8fb6968df79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Enum" />
+        <option value="Perl5 script" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Perl5 package" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/command/cross_chain/autoRun.pl" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IdealSystem\MavenSystem\Maven_Repository" />
+        <option name="userSettingsFile" value="D:\IdealSystem\MavenSystem\Maven_config\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="1YpUygwdluxjXO7eioEw7sYHkpe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/IdealSystem/Workstation/action_condition_pair",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.scu.suhong.smartcontract.nondeterminacy" />
+      <recent name="com.scu.suhong.instantiationOptimization" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.scu.suhong.smartcontract.P2P" />
+      <recent name="com.scu.suhong.network" />
+      <recent name="com.scu.suhong.instantiationOptimization.inner" />
+      <recent name="com.scu.suhong.instantiationOptimization.embed" />
+      <recent name="com.scu.suhong.instantiationOptimization" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Perl Remote Debugging.testSequence.pl">
+    <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scu.suhong.block.Demo" />
+      <module name="action_condition_pair" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scu.suhong.block.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockBodyTest.testCreateFromJson" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="action_condition_pair" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scu.suhong.block.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scu.suhong.block" />
+      <option name="MAIN_CLASS_NAME" value="com.scu.suhong.block.BlockBodyTest" />
+      <option name="METHOD_NAME" value="testCreateFromJson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalDivisionTransactionHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="action_condition_pair" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scu.suhong.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scu.suhong.transaction" />
+      <option name="MAIN_CLASS_NAME" value="com.scu.suhong.transaction.ConditionalDivisionTransactionHelperTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalDivisionTransactionHelperTest.testConstructDivisionConditionCTx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="action_condition_pair" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scu.suhong.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scu.suhong.transaction" />
+      <option name="MAIN_CLASS_NAME" value="com.scu.suhong.transaction.ConditionalDivisionTransactionHelperTest" />
+      <option name="METHOD_NAME" value="testConstructDivisionConditionCTx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalDivisionTransactionHelperTest.testConstructDivisionTransactionCTx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="action_condition_pair" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scu.suhong.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="PACKAGE_NAME" value="com.scu.suhong.transaction" />
+      <option name="MAIN_CLASS_NAME" value="com.scu.suhong.transaction.ConditionalDivisionTransactionHelperTest" />
+      <option name="METHOD_NAME" value="testConstructDivisionTransactionCTx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="action_condition_pair" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testSequence.pl" type="#PerlRemoteDebuggingConfigurationType" factoryName="Perl Remote Debugging" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="reconnect" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="debugHost" value="10.23.65.59" />
+      <option name="debugPort" value="8848" />
+      <option name="remoteProjectRoot" value="/home/paganini/crosschain" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="perlRole" value="client" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <auto-reconnect>false</auto-reconnect>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="JUnit.BlockBodyTest.testCreateFromJson" />
+      <item itemvalue="JUnit.ConditionalDivisionTransactionHelperTest.testConstructDivisionConditionCTx" />
+      <item itemvalue="JUnit.ConditionalDivisionTransactionHelperTest" />
+      <item itemvalue="JUnit.ConditionalDivisionTransactionHelperTest.testConstructDivisionTransactionCTx" />
+      <item itemvalue="Perl Remote Debugging.testSequence.pl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConditionalDivisionTransactionHelperTest.testConstructDivisionConditionCTx" />
+        <item itemvalue="JUnit.ConditionalDivisionTransactionHelperTest.testConstructDivisionTransactionCTx" />
+        <item itemvalue="JUnit.ConditionalDivisionTransactionHelperTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\99517\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e80856-90f1-4d16-8bd2-c8fb6968df79" name="Default Changelist" comment="" />
+      <created>1583639285770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583639285770</updated>
+      <workItem from="1583639297957" duration="47504000" />
+      <workItem from="1583758391558" duration="3317000" />
+      <workItem from="1583798779545" duration="13030000" />
+      <workItem from="1583826465575" duration="8714000" />
+      <workItem from="1583886350244" duration="18988000" />
+      <workItem from="1583973188506" duration="10249000" />
+      <workItem from="1583985932653" duration="15979000" />
+      <workItem from="1584058620299" duration="22441000" />
+      <workItem from="1584098914359" duration="3102000" />
+      <workItem from="1584147010366" duration="12993000" />
+      <workItem from="1584234624601" duration="19611000" />
+      <workItem from="1584318381750" duration="18559000" />
+      <workItem from="1584403071441" duration="1944000" />
+      <workItem from="1584432286621" duration="1230000" />
+      <workItem from="1584491687015" duration="17939000" />
+      <workItem from="1584537061491" duration="9584000" />
+      <workItem from="1584666894650" duration="2706000" />
+      <workItem from="1584753059740" duration="2476000" />
+      <workItem from="1584762465699" duration="337000" />
+      <workItem from="1584777269562" duration="1789000" />
+      <workItem from="1584779290972" duration="1335000" />
+      <workItem from="1585109241515" duration="892000" />
+      <workItem from="1585121187106" duration="9696000" />
+      <workItem from="1585191777784" duration="15721000" />
+      <workItem from="1585356189192" duration="30229000" />
+      <workItem from="1585558511675" duration="2604000" />
+      <workItem from="1585562465444" duration="4291000" />
+      <workItem from="1586935649318" duration="2144000" />
+      <workItem from="1586949406563" duration="39765000" />
+      <workItem from="1587260876908" duration="7271000" />
+      <workItem from="1587451712466" duration="4353000" />
+      <workItem from="1587521097454" duration="11643000" />
+      <workItem from="1587539082552" duration="41099000" />
+      <workItem from="1587787419634" duration="6145000" />
+      <workItem from="1588038673842" duration="2738000" />
+      <workItem from="1588473308703" duration="52539000" />
+      <workItem from="1590043126306" duration="11630000" />
+      <workItem from="1590198414184" duration="15471000" />
+      <workItem from="1590278433458" duration="966000" />
+      <workItem from="1590282524184" duration="4315000" />
+      <workItem from="1590301176787" duration="4949000" />
+      <workItem from="1590365191808" duration="61037000" />
+      <workItem from="1590714205113" duration="18042000" />
+      <workItem from="1590795929216" duration="2458000" />
+      <workItem from="1590823604651" duration="632000" />
+      <workItem from="1591233109754" duration="14060000" />
+      <workItem from="1591257985507" duration="69155000" />
+      <workItem from="1591579260299" duration="33860000" />
+      <workItem from="1591691203419" duration="38428000" />
+      <workItem from="1592278134934" duration="8655000" />
+      <workItem from="1592462262578" duration="7622000" />
+      <workItem from="1594517225000" duration="17193000" />
+      <workItem from="1594603648954" duration="18718000" />
+      <workItem from="1594690877486" duration="10378000" />
+      <workItem from="1594727324298" duration="464000" />
+      <workItem from="1594776074983" duration="19683000" />
+      <workItem from="1594862195679" duration="19990000" />
+      <workItem from="1595037747119" duration="1149000" />
+      <workItem from="1595055135002" duration="10321000" />
+      <workItem from="1595130460642" duration="571000" />
+      <workItem from="1595157185281" duration="103000" />
+      <workItem from="1595207659588" duration="2037000" />
+      <workItem from="1600752815089" duration="132000" />
+      <workItem from="1600753806512" duration="347000" />
+      <workItem from="1600754198118" duration="3311000" />
+      <workItem from="1600758016537" duration="2055000" />
+      <workItem from="1600760143087" duration="91000" />
+      <workItem from="1600760261280" duration="1343000" />
+      <workItem from="1600762430051" duration="1077000" />
+      <workItem from="1603246044236" duration="158000" />
+      <workItem from="1605074354416" duration="62000" />
+      <workItem from="1608188350198" duration="12774000" />
+      <workItem from="1608274074589" duration="5164000" />
+      <workItem from="1608294591906" duration="1765000" />
+      <workItem from="1608343964383" duration="11116000" />
+      <workItem from="1608368316697" duration="1135000" />
+      <workItem from="1608429414265" duration="17222000" />
+      <workItem from="1608453445762" duration="1141000" />
+      <workItem from="1608513128663" duration="11479000" />
+      <workItem from="1608599072759" duration="25223000" />
+      <workItem from="1608771686157" duration="15700000" />
+      <workItem from="1608859656257" duration="4916000" />
+      <workItem from="1608867672599" duration="5333000" />
+      <workItem from="1608948492569" duration="17047000" />
+      <workItem from="1609118592133" duration="8995000" />
+      <workItem from="1609149196386" duration="1495000" />
+      <workItem from="1609208064401" duration="6377000" />
+      <workItem from="1609299818619" duration="2729000" />
+      <workItem from="1609378727505" duration="952000" />
+      <workItem from="1609485407833" duration="347000" />
+      <workItem from="1609485866263" duration="859000" />
+      <workItem from="1609490259150" duration="3577000" />
+      <workItem from="1609498226995" duration="4557000" />
+      <workItem from="1609550776276" duration="4004000" />
+      <workItem from="1609643117609" duration="14000" />
+      <workItem from="1609810757666" duration="567000" />
+      <workItem from="1609811353422" duration="5408000" />
+      <workItem from="1609918514768" duration="597000" />
+      <workItem from="1610000050347" duration="94000" />
+      <workItem from="1610613064503" duration="1000" />
+      <workItem from="1610626626232" duration="143000" />
+      <workItem from="1611130160061" duration="54000" />
+      <workItem from="1611215822468" duration="139000" />
+      <workItem from="1611216045746" duration="45000" />
+      <workItem from="1613637246401" duration="143000" />
+      <workItem from="1613733139640" duration="461000" />
+      <workItem from="1615275383843" duration="54000" />
+      <workItem from="1615275477715" duration="488000" />
+      <workItem from="1615356324614" duration="1341000" />
+      <workItem from="1615450801812" duration="112000" />
+      <workItem from="1615451017986" duration="955000" />
+      <workItem from="1620878192231" duration="320000" />
+      <workItem from="1625638327735" duration="130000" />
+      <workItem from="1632729516963" duration="557000" />
+      <workItem from="1634179856244" duration="16567000" />
+      <workItem from="1647392908665" duration="393000" />
+      <workItem from="1647569988326" duration="656000" />
+      <workItem from="1647581402088" duration="1201000" />
+      <workItem from="1649826712531" duration="67000" />
+      <workItem from="1661782140173" duration="520000" />
+      <workItem from="1663501547294" duration="1414000" />
+      <workItem from="1663576080247" duration="333000" />
+      <workItem from="1663576623371" duration="932000" />
+      <workItem from="1663577581442" duration="6065000" />
+      <workItem from="1664107853857" duration="477000" />
+      <workItem from="1667396964717" duration="254000" />
+      <workItem from="1667397401705" duration="17000" />
+      <workItem from="1667397956274" duration="132000" />
+      <workItem from="1667451284327" duration="20000" />
+      <workItem from="1667456805769" duration="4000" />
+      <workItem from="1667484140913" duration="4453000" />
+      <workItem from="1667488648351" duration="102000" />
+      <workItem from="1667531788676" duration="737000" />
+      <workItem from="1667532920202" duration="1452000" />
+      <workItem from="1667821683169" duration="8951000" />
+      <workItem from="1667890860255" duration="9111000" />
+      <workItem from="1667961962439" duration="1301000" />
+      <workItem from="1667988860683" duration="2441000" />
+      <workItem from="1668051887025" duration="7836000" />
+      <workItem from="1668171776845" duration="4072000" />
+      <workItem from="1668262681091" duration="2110000" />
+      <workItem from="1668330023598" duration="10359000" />
+      <workItem from="1668437747624" duration="1892000" />
+      <workItem from="1668487104498" duration="3413000" />
+      <workItem from="1668493663568" duration="11145000" />
+      <workItem from="1668568759332" duration="18130000" />
+      <workItem from="1668677308165" duration="2698000" />
+      <workItem from="1668761427183" duration="1867000" />
+      <workItem from="1668858724451" duration="5584000" />
+      <workItem from="1668922095658" duration="11780000" />
+      <workItem from="1668934023328" duration="621000" />
+      <workItem from="1668934681390" duration="2825000" />
+      <workItem from="1668940282468" duration="757000" />
+      <workItem from="1669022053400" duration="1321000" />
+      <workItem from="1669029909967" duration="3063000" />
+      <workItem from="1669034008930" duration="2505000" />
+      <workItem from="1669089236091" duration="6109000" />
+      <workItem from="1669124885179" duration="811000" />
+      <workItem from="1669173377571" duration="1581000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1669174060817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669174060817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>perl5_remote:///home/paganini/crosschain/generatedMultipleAnyBCSerialization.pl</url>
+          <line>51</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>perl5_remote:///home/paganini/crosschain/generatedMultipleAnyBCSerialization.pl</url>
+          <line>83</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>perl5_remote:///home/paganini/crosschain/testSequence.pl</url>
+          <line>459</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>perl5_remote:///home/paganini/crosschain/testSequence.pl</url>
+          <line>100</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>perl5_remote:///home/paganini/crosschain/testSequence.pl</url>
+          <line>88</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="perl_line_breakpoint">
+          <url>perl5_remote:///home/paganini/crosschain/testSequence.pl</url>
+          <line>491</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AssertionError" package="java.lang" />
+          <option name="timeStamp" value="43" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

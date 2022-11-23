@@ -1,0 +1,4 @@
+
+perl testSequenceRemote.pl 4 1 1800 ";;1-4;stateBC" "2;send-InstantiationTx:Method:notCallingOtherVar1:writeStateToBlockchain:stateBC-789001-789002-0;;" ";;1-4;setLoopTimes" "1;send-InstantiationTx:NewAndCallMethod:NotCallingOther:notCallingOtherVar1:setLoopTimes:3-789001-789002-0;;"  
+
+perl testSequenceRemote.pl 4 1 1800 ";;1-4;stateBC" "2;send-InstantiationTx:Method:notCallingOtherVar1:writeStateToBlockchain:stateBC-789001-789002-0;;" ";;1-4;setLoopTimes" "1;send-InstantiationTx:NewAndCallMethod:NotCallingOther:notCallingOtherVar1:setLoopTimes:3-789001-789002-0;;" 

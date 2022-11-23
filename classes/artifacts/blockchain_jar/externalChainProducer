@@ -1,0 +1,11 @@
+[producer1]
+chainId = 555
+consensus=PoW
+difficult=4
+peers = 192.168.1.176:9201 192.168.1.176:9202 192.168.1.176:9203
+
+[producer2]
+chainId = 999
+consensus=PoS
+difficult=0
+peers = 192.168.1.176:9207 192.168.1.176:9208 192.168.1.176:9209

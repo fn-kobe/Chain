@@ -1,0 +1,99 @@
+All trigger
+    3 bc and 3*3 nodes 1->2->3
+    
+    perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action"     "1;sendacptrigger-triggerOut111-600-0-0-sendacptriggerdata-sender1;;" ";;4-9;ACPActionParameterSetTransaction"  "4;setacp-sender4-default-triggerOut111-sender1-111-triggerOut222-600-0-0;;" "7;setacp-sender7-default-triggerOut222-sender4-222-triggerDone333-600-0-0;;" 
+    
+    4 bc and 4*3 nodes 1->2->4
+                        ->3->4
+    perl testSequenceRemote.pl 9 1 1800 ";;10-12;log***-Succeed-to-execute-ACP-action"    "1;sendacptrigger-triggerOutll1-600-0-0-sendacptriggerdata-sender1;;" "4;setacp-sender4-default-triggerOutll1-sender1-111-triggerTo444-600-0-0;;" "7;setacp-sender7-default-triggerOutll1-sender1-111-triggerTo444-600-0-0;;" 
+    "10;setacp-sender10-default-triggerTo444-null-null-triggerDone555-600-0-0;;" 
+    
+        
+    5 bc and 5*3 nodes 1->2->5
+                        ->3->5
+                        ->4->5
+    perl testSequenceRemote.pl 9 1 1800 ";;13-15;log***-Succeed-to-execute-ACP-action"    "1;sendacptrigger-triggerOutll1-600-0-0-sendacptriggerdata-sender1;;" "4;setacp-sender4-default-triggerOutll1-sender1-111-triggerTo555-600-0-0;;" "7;setacp-sender7-default-triggerOutll1-sender1-111-triggerTo555-600-0-0;;" "10;setacp-sender10-default-triggerOutll1-sender1-111-triggerTo555-600-0-0;;" "13;setacp-sender13-default-triggerTo555-null-null-triggerDone555-600-0-0;;" 
+    
+
+Random trigger
+      or
+    1 ->2 -> 4
+      ->3 -> 4
+  perl testSequenceRemote.pl 9 1 1800 ";;10;log***-Succeed-to-execute-ACP-action"    "1;sendacptrigger-randomTrigger1in2Outll1-600-2-1-sendacptriggerdata-sender1;;" "4;setacp-sender4-default-randomTrigger1in2Outll1-sender1-111-triggerTo444-600-0-0;;" "7;setacp-sender7-default-randomTrigger1in2Outll1-sender1-111-triggerTo444-600-0-0;;" "10;setacp-sender10-default-triggerTo444-null-null-triggerDone444-600-0-0;;"
+  
+      or
+    1 ->2 -> 5
+      ->3 -> 5
+      ->4 -> 5
+  perl testSequenceRemote.pl 9 1 1800 ";;13;log***-Succeed-to-execute-ACP-action"    "1;sendacptrigger-randomTrigger1in3Outll1-600-3-1-sendacptriggerdata-sender1;;" "4;setacp-sender4-default-randomTrigger1in3Outll1-sender1-111-triggerTo555-600-0-0;;" "7;setacp-sender7-default-randomTrigger1in3Outll1-sender1-111-triggerTo555-600-0-0;;" "10;setacp-sender10-default-randomTrigger1in3Outll1-sender1-111-triggerTo555-600-0-0;;" "13;setacp-sender10-default-triggerTo555-null-null-triggerDone555-600-0-0;;"
+  
+  // may missing one
+        or
+    1 ->2 -> 5
+      ->3 -> 4 
+          
+  perl testSequenceRemote.pl 9 1 1800 ";;6|7;log***-Succeed-to-execute-ACP-action"    "1;sendacptrigger-randomTrigger1in2Outll1-600-2-1-sendacptriggerdata-sender1;;" "4;setacp-sender4-default-randomTrigger1in2Outll1-sender1-111-triggerOut222-600-0-0;;" "7;setacp-sender7-default-randomTrigger1in2Outll1-sender1-111-triggerOut333-600-0-0;;" "10;setacp-sender10-default-triggerOut333-sender7-333-triggerDone444-600-0-0;;" "13;setacp-sender13-default-triggerOut222-sender4-222-triggerDone555-600-0-0;;" 
+    
+      or
+    1 ->2 ->     ->7
+          or
+      ->3 -> 4 -> 7
+          -> 5 -> 6
+          
+  perl testSequenceRemote.pl 9 1 1800 ";;6|7;log***-Succeed-to-execute-ACP-action"    "1;sendacptrigger-randomTrigger1in2Outll1-600-2-1-sendacptriggerdata-sender1;;" "4;setacp-sender4-default-randomTrigger1in2Outll1-sender1-111-triggerTo777-600-0-0;;" "7;setacp-sender7-default-randomTrigger1in2Outll1-sender1-111-randomTrigger1in2Out333-600-2-1;;" "10;setacp-sender10-default-randomTrigger1in2Out333-null-null-triggerTo777-600-0-0;;" "13;setacp-sender13-default-randomTrigger1in2Out333-null-null-triggerOut555-600-0-0;;" "16;setacp-sender16-default-triggerOut555-null-null-triggerDone666-600-0-0;;" "19;setacp-sender19-default-triggerTo777-null-null-triggerDone777-600-0-0;;" 
+
+
+
+
+Notice:
+  Generall is triggerOut
+  If more than one triggers another one, use triggerTo
+
+ setacp sender, actionType, incomingName ,incomingOwner, incomingBlockchainId, outgoingName, successiveActionMaxWaitingTime, successiveActionTotalPeerNumber successiveActionMaxAllowedPeerNumber
+
+//set random trigger
+setacp null default IncomingRandomTrigger1 IncomingRandomTrigger1Sender 111 outGoingTriggerName1 600 2 1
+
+//set all trigger
+setacp null default triggerAll1 sender1 111 triggerOut2 10 0 0
+
+sendacptrigger null incomingName maxWaitingTime totalSuccessiveActionNumber maxAllowedActionNumber data sender
+sendacptrigger null IncomingRandomTrigger1 600 2 1 sendacptriggerdata IncomingRandomTrigger1Sender
+
+
+
+ANALYSIS
+
+1. Setacp
+   setacp actionType, incomingName ,incomingOwner, incomingBlockchainId, outgoingName, successiveActionMaxWaitingTime, successiveActionTotalPeerNumber successiveActionMaxAllowedPeerNumber
+   
+  a, //set random trigger
+    setacp default IncomingRandomTrigger1 IncomingRandomTrigger1Sender 111 outGoingTriggerName1 600 2 1
+
+  b, //set all trigger
+    setacp default triggerAll1 sender1 111 triggerOut2 10 0 0
+
+2. Send trigger
+  sendacptrigger incomingName maxWaitingTime totalSuccessiveActionNumber maxAllowedActionNumber data sender
+  
+  sendacptrigger IncomingRandomTrigger1 600 2 1 sendacptriggerdata IncomingRandomTrigger1Sender
+
+
+3. Example
+  a, All trigger
+   "4;setacp-default-triggerAll1-sender1-111-triggerOut2-600-0-0;;" "sendacptrigger-triggerAll1-600-0-0-sendacptriggerdata-IncomingRandomTrigger1Sender"
+   
+perl testSequenceRemote.pl 9 1 1800 ";;1-9;sendacptriggerdata"    "1;sendacptrigger-triggerAll1-600-0-0-sendacptriggerdata-sender1;;" "4;setacp-null-default-triggerAll1-sender1-111-triggerOut2-600-0-0;;"
+
+
+// 
+if (commandName.equals("setacp")) 
+    // set parameters for action of ACP, string 'null' is for empty
+    // setacp sender actionType, incomingName ,incomingOwner, incomingBlockchainId, outgoingName, successiveActionMaxWaitingTime, successiveActionTotalPeerNumber successiveActionMaxAllowedPeerNumber
+    command.commandType = CommandType.SETACP;
+       
+if (commandName.equals("sendacptrigger")) {
+    //Used often to trigger some self triggered action, such as in the same blockchain
+    // send acp condition transaction (trigger transaction) to trigger an action (manually)
+    // sendacptrigger incomingName maxWaitingTime totalSuccessiveActionNumber maxAllowedActionNumber data sender
+    command.commandType = CommandType.SENDACPCON;

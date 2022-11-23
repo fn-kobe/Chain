@@ -1,0 +1,21 @@
+perl testSequence.pl 6 30 600 ;;1-6;ct0011 ;;1-6;ct0022 4;sendcmt-10001-variable-789006-789002-assetType6-20-111:789002:789006:assetType2:10-ct0011;; 1;sendcmt-10001-variable-789002-789006-assetType2-10-222:789006:789002:assetType6:20-ct0022;;
+
+perl testSequence.pl 6 2 600 ;;1-6;ct0011 ;;1-6;ct0022 4;sendcmt-10001-variable-789006-789002-assetType6-20-111:789002:789006:assetType2:10-ct0011;; 1;sendcmt-10001-variable-789002-789006-assetType2-10-222:789006:789002:assetType6:20-ct0022;;
+
+3Tx among 2 Bcs
+
+perl testSequence.pl 6 30 600 ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  1;sendcmt-10001-variable-789003-789001-assetType3-10-222:789001:789002:assetType1:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;
+
+perl testSequence.pl 6 2 600 ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  1;sendcmt-10001-variable-789003-789001-assetType3-10-222:789001:789002:assetType1:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;
+
+4Tx among 2 Bcs
+
+perl testSequence.pl 6 30 600 ;;1-6;ct004 ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001 4;sendcmt-10001-variable-789004-789001-assetType4-10-111:789001:789002:assetType1:10-ct004;; 1;sendcmt-10001-variable-789003-789004-assetType3-10-222:789004:789001:assetType4:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789004:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;
+
+perl testSequence.pl 6 2 600 ;;1-6;ct004 ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001 4;sendcmt-10001-variable-789004-789001-assetType4-10-111:789001:789002:assetType1:10-ct004;; 1;sendcmt-10001-variable-789003-789004-assetType3-10-222:789004:789001:assetType4:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789004:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;
+
+8Tx among 2 Bcs
+
+perl testSequence.pl 6 30 600 ;;1-6;ct008 ;;1-6;ct007 ;;1-6;ct006 ;;1-6;ct005 ;;1-6;ct004 ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  4;sendcmt-10001-variable-789008-789001-assetType8-10-111:789001:789002:assetType1:10-ct008;; 1;sendcmt-10001-variable-789007-789008-assetType7-10-222:789008:789001:assetType8:10-ct007;; 4;sendcmt-10001-variable-789006-789007-assetType6-10-111:789007:789008:assetType7:10-ct006;; 1;sendcmt-10001-variable-789005-789006-assetType5-10-222:789006:789007:assetType6:10-ct005;; 4;sendcmt-10001-variable-789004-789005-assetType4-10-111:789005:789006:assetType5:10-ct004;; 1;sendcmt-10001-variable-789003-789004-assetType3-10-222:789004:789005:assetType4:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789004:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;
+
+perl testSequence.pl 6 2 600 ;;1-6;ct008 ;;1-6;ct007 ;;1-6;ct006 ;;1-6;ct005 ;;1-6;ct004 ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  4;sendcmt-10001-variable-789008-789001-assetType8-10-111:789001:789002:assetType1:10-ct008;; 1;sendcmt-10001-variable-789007-789008-assetType7-10-222:789008:789001:assetType8:10-ct007;; 4;sendcmt-10001-variable-789006-789007-assetType6-10-111:789007:789008:assetType7:10-ct006;; 1;sendcmt-10001-variable-789005-789006-assetType5-10-222:789006:789007:assetType6:10-ct005;; 4;sendcmt-10001-variable-789004-789005-assetType4-10-111:789005:789006:assetType5:10-ct004;; 1;sendcmt-10001-variable-789003-789004-assetType3-10-222:789004:789005:assetType4:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789004:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;

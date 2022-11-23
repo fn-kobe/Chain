@@ -1,0 +1,9 @@
+perl testSequence.pl 6 30 1200 ;;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;
+
+perl testSequence.pl 6 1 1200 ;;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;
+
+Notice:
+  There is no transaction commnucation among blockchains. Then each blockchain only check its transaction instead of all transactions from associated blockchains, which is different from notary or our methods.
+  
+  First phase, two users lock their asset in smart contract. Transactions can happened in parallel
+  Second phase, unlokcing. Those transactions can happen in order

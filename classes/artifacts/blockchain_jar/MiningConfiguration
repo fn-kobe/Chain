@@ -1,0 +1,12 @@
+[difficulty]
+zero_count=1
+[blockchain]
+genesis_nouce=220455692
+blockchainId=111
+blockchain_sync_interval=1000
+[mining]
+account=111?45678
+consensus=PoW
+nodeId=02
+[network]
+self_address_port=192.168.0.103:9603

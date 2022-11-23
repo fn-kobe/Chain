@@ -1,0 +1,3 @@
+perl testSequence.pl 9 30 600 ;;1-9;ct0003 ;;1-9;ct0002 ;;1-9;ct0001 7;sendcmt-10001-variable-789003-789002-assetType3-10-bc3:789006:789003:assetType6:10-ct0003;; 4;sendcmt-10001-variable-789006-789003-assetType6-10-bc2:789002:789006:assetType2:10-ct0002;; 1;sendcmt-10001-variable-789002-789006-assetType2-10-bc1:789003:789002:assetType3:10-ct0001;;
+
+perl testSequence.pl 9 1 600 ;;1-9;ct0003 ;;1-9;ct0002 ;;1-9;ct0001 7;sendcmt-10001-variable-789003-789002-assetType3-10-bc3:789006:789003:assetType6:10-ct0003;; 4;sendcmt-10001-variable-789006-789003-assetType6-10-bc2:789002:789006:assetType2:10-ct0002;; 1;sendcmt-10001-variable-789002-789006-assetType2-10-bc1:789003:789002:assetType3:10-ct0001;;

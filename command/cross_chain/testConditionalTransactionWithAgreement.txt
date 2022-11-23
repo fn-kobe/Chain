@@ -1,0 +1,8 @@
+# we use CrosschainExchangeCommonProcessor to handle this, as we can easily control its data field
+# From UT
+#         String data = String.format("CRTX_test;%s:%s:%s:%s:%d:%s;%s;;CRTX_test;%s:%s:%s:%s:%d:%s;%s",
+#                chainId,user2, user1, defaultAssetType, value, agreementData, agreementData,
+#                chainId,user2, user1, defaultAssetType, value2, agreementData, agreementData);
+
+perl testSequenceThreeSeparator.pl 6 1 1200 ;;.;;.1-6;;.log[CrosschainExchangeCommonProcessor][DEBUG]---***---Exchange  4;;.sendcomct---10081---CRTX_23;111:789001:789002:internalCoin:2:Agree;Agree---789002---789001---10;;.1-6;;.CRTX_22 4;;.sendcomct---10081---CRTX_22;111:789001:789002:internalCoin:2:Agree;DisAgree---789002---789001---10;;.1-6;;.CRTX_21  4;;.sendcomct---10081---CRTX_21;111:789001:789002:internalCoin:2:Agree;Agree---789002---789001---2;;.1-3;;.CRTX_110 1;;.sendcomct---10081---CRTX_110;222:789002:789001:internalCoin:2:Agree;Agree;;CRTX_111;222:789002:789001:internalCoin:10:Agree;Agree---789001---789002---2;;.;;.
+

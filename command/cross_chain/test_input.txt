@@ -1,0 +1,5 @@
+// sendct interactionId from to value - sendct interactionId from to1_value1_to2_value2... totalValue
+testHashLocking.pl 192.168.1.11;~\command:sendct-1001-789001-789002-2;192.168.1.12:1001-789002-789001-2 192.168.1.12;~\command:sendct-1001-789001-789002-2;192.168.1.12:1001-789002-789001-2 
+
+ 
+testHashLocking.pl local;.\command:sendct-1001-789001-789002-2;local:.:1001-789002-789001-2 local;.\command:sendct-1001-789002-789001-2;local:.:1001-789002-789001-2 

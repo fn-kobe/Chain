@@ -1,0 +1,324 @@
+package com.scu.suhong.transaction;
+
+import account.AccountManager;
+import com.scu.suhong.block.Block;
+import com.scu.suhong.dynamic_definition.AbstractTransaction;
+import com.scu.suhong.graph.JGraphTWrapper;
+import org.apache.log4j.Logger;
+import org.jgrapht.Graph;
+import org.jgrapht.graph.DefaultEdge;
+import org.jgrapht.io.ExportException;
+import util.FileLogger;
+import util.TimeHelper;
+
+import java.io.File;
+import java.time.Instant;
+import java.util.*;
+
+public class ConditionalAssociationTransactionHelper {
+    static Logger logger = FileLogger.getLogger();
+
+    static ConditionalAssociationTransactionHelper instance;
+    JGraphTWrapper jGraphTWrapper = new JGraphTWrapper();
+    AccountManager accountManager = AccountManager.getInstance();
+    int dumpCount = 0;
+    Map<String, Long> edgeTimeStampMap = new HashMap();
+
+    private ConditionalAssociationTransactionHelper() {
+    }
+
+    public synchronized static ConditionalAssociationTransactionHelper getInstance() {
+        if (null == instance){
+            instance = new ConditionalAssociationTransactionHelper();
+        }
+        return instance;
+    }
+
+    public void reset(List<Block> blockList){
+        jGraphTWrapper = new JGraphTWrapper();
+        dumpCount = 0;
+
+        for (Block block : blockList) {
+            tryAddNewBlock(block);
+        }
+    }
+
+    public void resetGraphTWrapper(){
+        jGraphTWrapper = new JGraphTWrapper();
+    }
+
+    public void callbackCTx(ConditionalAssociationTransaction ctx) {
+        // TO DO
+        System.out.println("TO DO");
+        assert false;
+    }
+
+    String makeEdgeKey(String s, String e){
+        return s + "_" +e;
+    }
+
+    String makeEdgeKey(DefaultEdge edge){
+        String start = jGraphTWrapper.getEdgeSource(edge);
+        String end = jGraphTWrapper.getEdgeTraget(edge);
+        return makeEdgeKey(start, end);
+    }
+
+    public void processCTx(ConditionalAssociationTransaction ctx) {
+        Condition c = ctx.getCondition();
+
+        Set<String> toList = ctx.getToList();
+        for (String to : toList) {
+            String start = c.getFrom(JGraphTWrapper.getReplaceSymbol());
+            String end = getGraphFormat(to);
+            jGraphTWrapper.addEdge(start, end, c.getValue(to));
+            edgeTimeStampMap.put(makeEdgeKey(start, end), Long.valueOf(ctx.getData()));
+        }
+        if (!tryFreezeAccount(c, ctx.getIncomingAssetType())){
+            logger.error(String.format("[ConditionalAssociationTransactionHelper] %s doesn't have enough money", c.getFrom()));
+            return;
+        }
+        logger.info(String.format("[ConditionalAssociationTransactionHelper][Debug] Balance of %s has been frozen with value %d", c.getFrom(), c.getValue()));
+
+        // TO DO, add the timeout mechanism
+        doGraphCalculation();
+    }
+
+    public void doGraphCalculation(){
+        doGraphCalculation("");
+    }
+    public void doGraphCalculation(String msg){
+        tryDumpDiagram(msg);
+        if (diagramAlgorithmType == DiagramAlgorithmType.E_Compute_All_Matched) computeAllMatched();
+        else if (diagramAlgorithmType == DiagramAlgorithmType.E_Compute_All_Small_Ring) computeAllSmallRing();
+        else {
+            logger.error("[ConditionalAssociationTransactionHelper] diagramAlgorithmType is not support: " + diagramAlgorithmType);
+        }
+    }
+
+    public boolean planAssociationCTx(List<ConditionalAssociationTransaction> conditionalAssociationTransactionList){
+        return planAssociationCTx(conditionalAssociationTransactionList, true);
+    }
+    public boolean planAssociationCTx(List<ConditionalAssociationTransaction> conditionalAssociationTransactionList, boolean dumpLast){
+        for (ConditionalAssociationTransaction ctx : conditionalAssociationTransactionList){
+            Condition c = ctx.getCondition();
+            Set<String> toList = ctx.getToList();
+            for (String to : toList) {
+                jGraphTWrapper.addEdge(c.getFrom(), to, getW(ctx, to));
+            }
+        }
+        tryDumpDiagram();
+
+        if (!dumpLast) return true;
+
+        if (!jGraphTWrapper.isAllConnected()){
+            System.out.println("[ConditionalAssociationTransactionHelper] The ctx can not be formed");
+            return false;
+        }
+
+        boolean r = jGraphTWrapper.mergeDuplicatedEdges();
+        tryDumpDiagram();
+        return r;
+    }
+
+    enum DiagramAlgorithmType{
+        E_Compute_All_Matched, // used to finish an exchange when all associated transactions appear
+        E_Compute_All_Small_Ring // use sub exchange mechanism to complete some transaction in a big exchange to shorten whole exchange time
+    };
+
+    DiagramAlgorithmType diagramAlgorithmType = DiagramAlgorithmType.E_Compute_All_Small_Ring;
+
+    public void setDiagramAlgorithmType(DiagramAlgorithmType diagramAlgorithmType) {
+        this.diagramAlgorithmType = diagramAlgorithmType;
+    }
+
+    public void setMultiEdgeShowOptions(JGraphTWrapper.MultiEdgeShowOptions multiEdgeShowOptions) {
+       jGraphTWrapper.setMultiEdgeShowOptions(multiEdgeShowOptions);
+    }
+
+    private void computeAllMatched() {
+        List<Set<String>> connectedDiagrams = jGraphTWrapper.getWeaklyConnectedAlsoStronglyConnectedDiagrams();
+        if (connectedDiagrams.isEmpty()) return;
+
+        for (Set<String> d : connectedDiagrams) {
+            if (jGraphTWrapper.isIncomingWeightMatchedOutComingWeight(d)) {
+                logger.info("[ConditionalAssociationTransactionHelper] Conditional ring matched");
+                addValueToAccount(d);
+                jGraphTWrapper.resetGraph();
+            } // else weight is not matched, waiting for next
+        }
+    }
+
+    private void computeAllSmallRing() {
+        logger.debug("[ConditionalAssociationTransactionHelper] Begin to compute the small ring - using sub exchange");
+        int smallestWeight = 0;
+        List<Graph<String, DefaultEdge>> connectedGraphList = jGraphTWrapper.getStronglyConnectedGraph();
+        for (Graph<String, DefaultEdge> graph : connectedGraphList){
+            if (graph.edgeSet().isEmpty()) continue;
+            dumpVertexes(graph.vertexSet());
+
+            smallestWeight = findSmallestWeight(graph.vertexSet());
+            if (smallestWeight == Integer.MAX_VALUE || smallestWeight == 0){
+                logger.info("[ConditionalAssociationTransactionHelper] Cannot find appropriate weight for small ring algorithm");
+                return;
+            }
+            logger.debug("[ConditionalAssociationTransactionHelper] find smallest weight " + smallestWeight);
+
+            Set<DefaultEdge> es = graph.edgeSet();
+            for (DefaultEdge e : es){
+                if (smallestWeight == jGraphTWrapper.getWeight(e)){
+                    jGraphTWrapper.removeEdgeAndRemoveVertexIfEmpty(e, edgeTimeStampMap.get(makeEdgeKey(e)));
+
+                    Long startTime = edgeTimeStampMap.get(makeEdgeKey(e));
+                    long doneTime = TimeHelper.getEpoch();
+                    System.out.printf("[ConditionalAssociationTransactionHelper][CJE] %s %f", makeEdgeKey(e), doneTime - startTime);
+
+                } else {
+                    jGraphTWrapper.subEdgeWeight(e, smallestWeight, edgeTimeStampMap.get(makeEdgeKey(e)));
+                }
+            }
+            logger.info("[ConditionalAssociationTransactionHelper] Conditional small ring matched with weight " + smallestWeight);
+            addValueToAccount(graph.vertexSet(), smallestWeight);
+        }
+        logger.debug("[ConditionalAssociationTransactionHelper] Finish to compute small ring");
+    }
+
+    void dumpVertexes(Set<String> edges){
+        if (edges.isEmpty()) return;
+
+        String r = "Vertexes: \n";
+        for (String e : edges){
+            r += e + ", ";
+        }
+        System.out.println(r);
+    }
+
+    private int findSmallestWeight(Set<String> vertexList) {
+        int smallestWeight = Integer.MAX_VALUE;
+        for (String v : vertexList){
+            int outWeight = jGraphTWrapper.getOutGoingEdgeWeight(v);
+            int inWeight = jGraphTWrapper.getIncomingEdgeWeight(v);
+
+            smallestWeight = outWeight < smallestWeight ? outWeight : smallestWeight;
+            smallestWeight = inWeight < smallestWeight ? inWeight : smallestWeight;
+        }
+        return smallestWeight;
+    }
+
+    public void removeCTx(ConditionalAssociationTransaction ctx) {
+        Condition c = ctx.getCondition();
+        if (jGraphTWrapper.removeEdge(c.getFrom(), c.getTo(), getW(ctx), edgeTimeStampMap.get(makeEdgeKey(c.getFrom(), c.getTo())))) {
+            unFreezeAccount(c);
+        }
+    }
+
+    public void tryDumpDiagram() {
+        tryDumpDiagram("");
+    }
+    public void tryDumpDiagram(String msg) {
+        logger.info("[ConditionalAssociationTransactionHelper] Try to dump the diagram");
+        if (createDumpFolder()) jGraphTWrapper.export(getFileName(), msg);
+    }
+
+    String getDumpFolderName(){
+        return "DiagramDump";
+    }
+
+    boolean createDumpFolder(){
+        File file = new File(getDumpFolderName());
+        if (!file.exists()) return file.mkdir();
+        return true;
+    }
+
+    String getFileName(){
+        Calendar cal = Calendar.getInstance();
+        cal.setTime(Date.from(Instant.now()));
+        return getDumpFolderName() + File.separator + String.format("D-%1$tY-%1$tm-%1$td-%1$tk-%1$tM-%1$tS-", cal) + (++dumpCount) + ".gv";
+    }
+
+    public void tryAddNewBlock(Block block) {
+        List<AbstractTransaction> transactionList = block.getTransactions();
+        for (AbstractTransaction transaction : transactionList){
+            // If want to support the normal transaction, please comments here
+            if (transaction instanceof ConditionalAssociationTransaction) {
+                processCTx((ConditionalAssociationTransaction) transaction);
+            }
+        }
+    }
+
+    public void removeBlock(Block block) {
+        List<AbstractTransaction> transactionList = block.getTransactions();
+        for (AbstractTransaction transaction : transactionList){
+            // If want to support the normal transaction, please comments here
+            if (transaction instanceof ConditionalAssociationTransaction) {
+                removeCTx((ConditionalAssociationTransaction) transaction);
+            }
+        }
+    }
+
+    private void addValueToAccount(Set<String> d) {
+        // as incoming weight is equal to out-going weight for the whole diagram
+        // we just get incoming of the first one
+        for (String v : d) {
+            accountManager.addValue(getAddressFormat(v), jGraphTWrapper.getIncomingEdgeWeight(v));
+        }
+    }
+
+    private void addValueToAccount(Set<String> d, int value) {
+        // as incoming weight is equal to out-going weight for the whole diagram
+        // we just get incoming of the first one
+        for (String v : d) {
+            accountManager.addValue(getAddressFormat(v), value);
+        }
+    }
+
+    private boolean tryFreezeAccount(Condition c, String assetType) {
+        if (!accountManager.canTransferValue(c.getFrom(), assetType,c.getValue())) {
+            return false;
+        }
+        accountManager.subValue(c.getFrom(), assetType, Double.valueOf(c.getValue()));
+        return true;
+    }
+
+    public void unFreezeAccount() {
+        tryDumpDiagram("Unfrozen");
+        Set<DefaultEdge> edgeList = jGraphTWrapper.getAllEdges();
+        for (DefaultEdge e : edgeList){
+            accountManager.addValue(getAddressFormat(jGraphTWrapper.getEdgeSource(e)), jGraphTWrapper.getEdgeWeight(e));
+        }
+        jGraphTWrapper.resetGraph();
+    }
+
+    private boolean unFreezeAccount(Condition c) {
+        accountManager.addValue(c.getFrom(), c.getValue());
+        return true;
+    }
+
+    private int getW(ConditionalAssociationTransaction ctx) {
+        int w = ctx.getCondition().getValue();
+        if (ctx.isNormalTransaction) w = -w;
+        return w;
+    }
+
+    private int getW(ConditionalAssociationTransaction ctx, String to) {
+        int w = ctx.getCondition().getValue(to);
+        if (ctx.isNormalTransaction) w = -w;
+        return w;
+    }
+
+    public void exportGraph() {
+        try {
+            jGraphTWrapper.export();
+        } catch (ExportException e) {
+            e.printStackTrace();
+        }
+    }
+
+    String getGraphFormat(String accountName){
+        return accountName.replace(AccountManager.getAddressConnectSymbol(), JGraphTWrapper.getReplaceSymbol());
+
+    }
+
+    String getAddressFormat(String graphName){
+        return graphName.replace(JGraphTWrapper.getReplaceSymbol(), AccountManager.getAddressConnectSymbol());
+    }
+}

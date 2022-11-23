@@ -1,0 +1,26 @@
+perl testSequence.pl 6 30 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of  1:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc2  4;sendcomct-10081-notary_first_txonbc2-789002-789001-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+perl testSequence.pl 6 2 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc2 4;sendcomct-10081-notary_first_txonbc2-789002-789001-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+Notice:
+  First phase, users lock promise to lock asset on each blockchain. Transactions can happened in order. Or someone cannot be ensured.
+  Second phase, phase two commit transactions. Those transactions can happen in parallel.
+  
+3Tx among 2 Bcs
+
+perl testSequence.pl 6 30 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:1:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc3 4;sendcomct-10081-notary_first_txonbc3-789003-789004-2;1-3;notary_first_txonbc2 1;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+perl testSequence.pl 6 2 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:1:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc3 4;sendcomct-10081-notary_first_txonbc3-789003-789004-2;1-3;notary_first_txonbc2 1;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+  
+
+4Tx among 2 Bcs
+
+perl testSequence.pl 6 30 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:1:4:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc4 4;sendcomct-10081-notary_first_txonbc4-789004-789001-2;1-6;notary_first_txonbc3  4;sendcomct-10081-notary_first_txonbc3-789003-789004-2;1-3;notary_first_txonbc2 1;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+perl testSequence.pl 6 2 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:1:4:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc4 4;sendcomct-10081-notary_first_txonbc4-789004-789001-2;1-6;notary_first_txonbc3  4;sendcomct-10081-notary_first_txonbc3-789003-789004-2;1-3;notary_first_txonbc2 1;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+8Tx among 2 Bcs
+
+perl testSequence.pl 6 30 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:1:1:1:4:4:4:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc8 4;sendcomct-10081-notary_first_txonbc8-789008-789001-2;1-6;notary_first_txonbc7  4;sendcomct-10081-notary_first_txonbc7-789007-789008-2;1-6;notary_first_txonbc6 4;sendcomct-10081-notary_first_txonbc6-789006-789007-2;1-6;notary_first_txonbc5  4;sendcomct-10081-notary_first_txonbc5-789005-789006-2;1-3;notary_first_txonbc4 1;sendcomct-10081-notary_first_txonbc4-789004-789005-2;1-3;notary_first_txonbc3 1;sendcomct-10081-notary_first_txonbc3-789003-789004-2;1-3;notary_first_txonbc2  1;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;
+
+perl testSequence.pl 6 2 1200 ;;1-6;log[NotaryExchangeProcessor][INFO]-***-Two-phase-commit-of 1:1:1:1:4:4:4:4;sendcomct-10081-notary_second_tx-789004-789004-0;1-6;notary_first_txonbc8 4;sendcomct-10081-notary_first_txonbc8-789008-789001-2;1-6;notary_first_txonbc7  4;sendcomct-10081-notary_first_txonbc7-789007-789008-2;1-6;notary_first_txonbc6 4;sendcomct-10081-notary_first_txonbc6-789006-789007-2;1-6;notary_first_txonbc5  4;sendcomct-10081-notary_first_txonbc5-789005-789006-2;1-3;notary_first_txonbc4 1;sendcomct-10081-notary_first_txonbc4-789004-789005-2;1-3;notary_first_txonbc3 1;sendcomct-10081-notary_first_txonbc3-789003-789004-2;1-3;notary_first_txonbc2  1;sendcomct-10081-notary_first_txonbc2-789002-789003-2;1-3;notary_first_txonbc1 1;sendcomct-10081-notary_first_txonbc1-789001-789002-2;;

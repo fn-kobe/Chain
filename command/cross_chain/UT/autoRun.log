@@ -1,0 +1,1553 @@
+Version MBC_1.0
+[BlockchainServiceThread] block chain service start
+[BlockchainService] Begin to start service
+[BlockchainService] Begin to start miner
+[BlockchainService] start miner
+[CommandServiceThread] Begin to prepare ro process comand from command line
+[CommandServiceThread] Begin to prepare ro process comand from file
+[CommandServiceThread] Process comand from file
+[CommandServiceThread] Process comand from command line
+> 
+[AccountManager] Construct
+[AccountManager][INFO] Add balance for users (with address from 789001 to 7890016) to test. This can ignore the requirement of the mining process
+[AccountManager][getTypedAccountManager] try to create internalCoin in account.AccountManager@3d494fbf with typed manager:  []
+[AccountManager][internalCoin] Address '789001' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789002' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789003' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789004' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789005' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789006' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789007' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789008' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '789009' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '7890010' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '7890011' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '7890012' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '7890013' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '7890014' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '7890015' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][internalCoin] Address '7890016' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[AccountManager][INFO] Add typed balance for users (with address from 789001 to 7890016) to test. This can ignore the requirement of the mining process
+[AccountManager][getTypedAccountManager] try to create assetType1 in account.AccountManager@3d494fbf with typed manager:  [internalCoin]
+[AccountManager][assetType1] Address '789001' doesn't exist, try to create it account.MultiTypeAccountManager@1b2c6ec2
+[AccountManager][getTypedAccountManager] try to create assetType2 in account.AccountManager@3d494fbf with typed manager:  [internalCoin, assetType1]
+[AccountManager][assetType2] Address '789002' doesn't exist, try to create it account.MultiTypeAccountManager@4edde6e5
+[AccountManager][getTypedAccountManager] try to create assetType3 in account.AccountManager@3d494fbf with typed manager:  [assetType2, internalCoin, assetType1]
+[AccountManager][assetType3] Address '789003' doesn't exist, try to create it account.MultiTypeAccountManager@70177ecd
+[AccountManager][getTypedAccountManager] try to create assetType4 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, internalCoin, assetType1]
+[AccountManager][assetType4] Address '789004' doesn't exist, try to create it account.MultiTypeAccountManager@1e80bfe8
+[AccountManager][getTypedAccountManager] try to create assetType5 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, internalCoin, assetType1]
+[AccountManager][assetType5] Address '789005' doesn't exist, try to create it account.MultiTypeAccountManager@66a29884
+[AccountManager][getTypedAccountManager] try to create assetType6 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, assetType5, internalCoin, assetType1]
+[AccountManager][assetType6] Address '789006' doesn't exist, try to create it account.MultiTypeAccountManager@4769b07b
+[AccountManager][getTypedAccountManager] try to create assetType7 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, assetType5, assetType6, internalCoin, assetType1]
+[AccountManager][assetType7] Address '789007' doesn't exist, try to create it account.MultiTypeAccountManager@cc34f4d
+[AccountManager][getTypedAccountManager] try to create assetType8 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, internalCoin, assetType1]
+[AccountManager][assetType8] Address '789008' doesn't exist, try to create it account.MultiTypeAccountManager@17a7cec2
+[AccountManager][getTypedAccountManager] try to create assetType9 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, internalCoin, assetType1]
+[AccountManager][assetType9] Address '789009' doesn't exist, try to create it account.MultiTypeAccountManager@65b3120a
+[AccountManager][getTypedAccountManager] try to create assetType10 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, assetType9, internalCoin, assetType1]
+[AccountManager][assetType10] Address '7890010' doesn't exist, try to create it account.MultiTypeAccountManager@6f539caf
+[AccountManager][getTypedAccountManager] try to create assetType11 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, assetType9, assetType10, internalCoin, assetType1]
+[AccountManager][assetType11] Address '7890011' doesn't exist, try to create it account.MultiTypeAccountManager@79fc0f2f
+[AccountManager][getTypedAccountManager] try to create assetType12 in account.AccountManager@3d494fbf with typed manager:  [assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, assetType9, assetType10, internalCoin, assetType11, assetType1]
+[AccountManager][assetType12] Address '7890012' doesn't exist, try to create it account.MultiTypeAccountManager@50040f0c
+[AccountManager][getTypedAccountManager] try to create assetType13 in account.AccountManager@3d494fbf with typed manager:  [assetType10, assetType12, assetType11, assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, assetType9, internalCoin, assetType1]
+[AccountManager][assetType13] Address '7890013' doesn't exist, try to create it account.MultiTypeAccountManager@2dda6444
+[AccountManager][getTypedAccountManager] try to create assetType14 in account.AccountManager@3d494fbf with typed manager:  [assetType10, assetType12, assetType11, assetType13, assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, assetType9, internalCoin, assetType1]
+[AccountManager][assetType14] Address '7890014' doesn't exist, try to create it account.MultiTypeAccountManager@5e9f23b4
+[AccountManager][getTypedAccountManager] try to create assetType15 in account.AccountManager@3d494fbf with typed manager:  [assetType10, assetType12, assetType11, assetType14, assetType13, assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, assetType9, internalCoin, assetType1]
+[AccountManager][assetType15] Address '7890015' doesn't exist, try to create it account.MultiTypeAccountManager@4783da3f
+[AccountManager][getTypedAccountManager] try to create assetType16 in account.AccountManager@3d494fbf with typed manager:  [assetType10, assetType12, assetType11, assetType14, assetType13, assetType15, assetType2, assetType3, assetType4, assetType5, assetType6, assetType7, assetType8, assetType9, internalCoin, assetType1]
+[AccountManager][assetType16] Address '7890016' doesn't exist, try to create it account.MultiTypeAccountManager@378fd1ac
+[MiningConfiguration] Got address and port 127.0.0.1:9602
+[P2P] Try to init send and receive port 9602
+[BlockDBHandler][internal] Begin to load the block for blocks
+[BlockDBHandler][internal][DEBUG] Load blockchain from DB with size: 0
+[BlockChecker] Begin to check whether one block is valid or not
+[MiningConfiguration] hash zero_count configuration is 5
+[MiningConfiguration] Allowed number configuration is wrong or not configured, use default value 0
+[AccountManager][internalCoin] Address '0xabcd' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[ACPActionConditionTransactionHandler][Info] Currently we do not handle acp transaction when loading blockchain
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 0 to DB
+[MiningConfiguration] Got ming account 111?45678_02
+[BlockDBHandler][external] Begin to load the block for ex_blocks
+[BlockDBHandler][external][DEBUG] Load blockchain from DB with size: 0
+[BlockChecker] Begin to check whether one block is valid or not
+[MiningConfiguration] hash zero_count configuration is 5
+[MiningConfiguration] Allowed number configuration is wrong or not configured, use default value 0
+[ExternalBlockListComparison][WARN] No changes in the external blockchain
+[Blockchain][external] Succeed to add one new block to external chain
+[Blockchain][external][INFO] Succeed to save block: 0 to DB
+[BlockchainService] Begin to start network service
+[Miner] Begin to mine 16
+[Miner] There are no pending transactions, begin to mine empty block
+[P2P] Begin to listen on port: 9602
+[P2P] Listen transaction packet
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:50:54:179
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:50:54:180
+
+[Miner] Begin to mine with Tx amount 0
+[P2P] New packet received with hash: BFF084C37E47EF21906D066FDF8D7AC3
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"} at time 2020-04-21 17:50:54:865
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: BFF084C37E47EF21906D066FDF8D7AC3
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000004AC9FB91A7C74CDE1D7845192 with previous hash in pending block hash: 00000004AC9FB91A7C74CDE1D7845192.
+
+[AccountManager][internalCoin] Address '45678_01' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 1 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 0000077C1CE3C37C252CBA3F6A898F92
+[PoW] Matched MD5 found: 0000077C1CE3C37C252CBA3F6A898F92
+[Miner] Succeed to mine one block with 0 Txs and block index 1 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000797E5B8458EF85484D4BBAD748C with previous hash in pending block hash: 00000004AC9FB91A7C74CDE1D7845192.
+
+[BlockChecker][WARN] Block chain top block hash:00000797E5B8458EF85484D4BBAD748C is not the same as previous hash in pending block hash: 00000004AC9FB91A7C74CDE1D7845192
+
+[Blockchain][internal][WARN] Invalid block, skip to add to main chain
+[Blockchain][internal][WARN] failed to save block to blockchain in memory with 0 transactions
+[Miner] Wait 1000 for the 0 th round mine with 0 Tx in transaction list
+
+[P2P] New packet received with hash: A265519F6F5C2C30C85D42EC2757A409
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"} at time 2020-04-21 17:50:56:328
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: A265519F6F5C2C30C85D42EC2757A409
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000797E5B8458EF85484D4BBAD748C with previous hash in pending block hash: 00000797E5B8458EF85484D4BBAD748C.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 2 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:50:57:196
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:50:57:197
+
+[Miner] Begin to mine with Tx amount 0
+[PoW] Matched MD5 found: 000008C71D096B03AC1E884D2989D076
+[PoW] Matched MD5 found: 000008C71D096B03AC1E884D2989D076
+[Miner] Succeed to mine one block with 0 Txs and block index 3 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000BF2DB195737BBAFADD08F39EDBE with previous hash in pending block hash: 00000BF2DB195737BBAFADD08F39EDBE.
+
+[AccountManager][internalCoin] Address '45678_02' doesn't exist, try to create it account.MultiTypeAccountManager@b1bc7ed
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 3 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:50:58:176
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:ED4CCE6FBF7217231755FDB90D27E4F2
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:50:58:177
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:50:58:178
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:50:58:179
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:50:58:184
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:50:58:186
+[P2PThread] Finish to send transaction message
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 1 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet ED4CCE6FBF7217231755FDB90D27E4F2 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:50:59:188
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:50:59:196
+
+[Miner] Begin to mine with Tx amount 0
+[PoW] Matched MD5 found: 0000010D57F01F75E7D59CA5C8CB2A56
+[PoW] Matched MD5 found: 0000010D57F01F75E7D59CA5C8CB2A56
+[Miner] Succeed to mine one block with 0 Txs and block index 4 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000008C71D096B03AC1E884D2989D076 with previous hash in pending block hash: 000008C71D096B03AC1E884D2989D076.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 4 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:02:395
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:74D70F45D0BBA83D31A677B54B0D7125
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:02:396
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:02:396
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:02:401
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:02:406
+[P2PThread] Finish to send transaction message
+[P2P] Packet 74D70F45D0BBA83D31A677B54B0D7125 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:02:408
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 2 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:03:49
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:03:50
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 343096F2F8BD609285CFCD6A5D33F9D0
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"}]} at time 2020-04-21 17:51:03:61
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 343096F2F8BD609285CFCD6A5D33F9D0
+[BlockchainSyncManager][internal]  Peer blockchain length 5 with latest index 4 is not longer than ours 4 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 343096F2F8BD609285CFCD6A5D33F9D0
+[Miner] Msg is not processed 343096F2F8BD609285CFCD6A5D33F9D0
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 343096F2F8BD609285CFCD6A5D33F9D0 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:03:291
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 5
+[BlockchainSyncManager][internal]  Succeed to send block list with size 5
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:03:411
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:03:411
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:04:61
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:04:62
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 00000B074BC62A2ED7247ACAE02CC94E
+[PoW] Matched MD5 found: 00000B074BC62A2ED7247ACAE02CC94E
+[Miner] Succeed to mine one block with 0 Txs and block index 5 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:0000010D57F01F75E7D59CA5C8CB2A56 with previous hash in pending block hash: 0000010D57F01F75E7D59CA5C8CB2A56.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 5 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:05:115
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:A2134F0065E8D900B53298DF008087DD
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:05:115
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:05:116
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:05:117
+[P2P] Packet A2134F0065E8D900B53298DF008087DD already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:05:124
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:05:124
+[P2PThread] Finish to send transaction message
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 3 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:06:126
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:06:126
+
+[Miner] Begin to mine with Tx amount 0
+[PoW] Matched MD5 found: 000005CF3E6368AB7ECE4C089F707CD5
+[PoW] Matched MD5 found: 000005CF3E6368AB7ECE4C089F707CD5
+[Miner] Succeed to mine one block with 0 Txs and block index 6 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000B074BC62A2ED7247ACAE02CC94E with previous hash in pending block hash: 00000B074BC62A2ED7247ACAE02CC94E.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 6 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:06:772
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:A7F2530FDB11A058E32E239935FB3D07
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:06:773
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:06:774
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:06:774
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:06:775
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:06:776
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 4 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2P] Packet A7F2530FDB11A058E32E239935FB3D07 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:07:62
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:07:63
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 8979851CFCF27415E97B30941ACAB9B0
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"}]} at time 2020-04-21 17:51:07:67
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 8979851CFCF27415E97B30941ACAB9B0
+[BlockchainSyncManager][internal]  Peer blockchain length 7 with latest index 6 is not longer than ours 6 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 8979851CFCF27415E97B30941ACAB9B0
+[Miner] Msg is not processed 8979851CFCF27415E97B30941ACAB9B0
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 8979851CFCF27415E97B30941ACAB9B0 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:07:306
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 7
+[BlockchainSyncManager][internal]  Succeed to send block list with size 7
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:07:777
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:07:778
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:08:64
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:08:65
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 0000033CEE8862E307F34EC705B268A0
+[PoW] Matched MD5 found: 0000033CEE8862E307F34EC705B268A0
+[Miner] Succeed to mine one block with 0 Txs and block index 7 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000005CF3E6368AB7ECE4C089F707CD5 with previous hash in pending block hash: 000005CF3E6368AB7ECE4C089F707CD5.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 7 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:11:184
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:05866F5E9520C0043F72B160661260B0
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:11:184
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:11:185
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:11:185
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:11:187
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:11:187
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 5 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 05866F5E9520C0043F72B160661260B0 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: A3084BB1F705728BB123E77E36039DFC
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"exchangeId":10001,"super":{"pr":"","miningTime":0,"blockIndex":"-1","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]} at time 2020-04-21 17:51:11:283
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: A3084BB1F705728BB123E77E36039DFC
+[Miner] Transaction message received A3084BB1F705728BB123E77E36039DFC
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[Miner] Try to add new transaction, at EPOCH: 2020-04-21 17:51:11:287
+
+[Miner] Succeed to add new transaction, at EPOCH: 2020-04-21 17:51:11:288
+
+[Miner] Current transaction list size: 1, at EPOCH: 2020-04-21 17:51:11:288
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:11:308
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 8
+[BlockchainSyncManager][internal]  Succeed to send block list with size 8
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: CE3514BC743CD69AB33E10319E4A8DE1
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"}]} at time 2020-04-21 17:51:11:335
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: CE3514BC743CD69AB33E10319E4A8DE1
+[BlockchainSyncManager][internal]  Peer blockchain length 8 with latest index 7 is not longer than ours 7 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: CE3514BC743CD69AB33E10319E4A8DE1
+[Miner] Msg is not processed CE3514BC743CD69AB33E10319E4A8DE1
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:12:65
+[P2PThread] Finish to send transaction message
+[Miner] fetched one Tx {"exchangeId":10001,"super":{"pr":"","miningTime":0,"blockIndex":"-1","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:12:188
+
+[Miner] Fetched 1 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:12:188
+
+[Miner] Begin to mine with Tx amount 1
+[PoW] Matched MD5 found: 00000F6CEAA4BE4D97ABCF270C01535C
+[PoW] Matched MD5 found: 00000F6CEAA4BE4D97ABCF270C01535C
+[Miner] Succeed to mine one block with 1 Txs and block index 8 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:0000033CEE8862E307F34EC705B268A0 with previous hash in pending block hash: 0000033CEE8862E307F34EC705B268A0.
+
+[AccountManager] Skip process the asset. The asset will be frozen later in its processor
+[MultiTypeExchangeProcessor][process] try to process with exchange id 10001 transaction id 268884595 
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] Begin to process transaction 268884595
+[SingleExchangeMultiTypeExchangeProcessor][processVariable] try to process {"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}
+[SingleExchangeMultiTypeExchangeProcessor][processVariable] {"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"} is is added in in required list
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] Timer starts at 2020-04-21 17:51:12:957
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[HashLockingProcessor][INFO] Skip to process transaction 268884595 as its data 'ct0022' has no hash locking flag'hashLockingData_'
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 8 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:12:963
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:D4C98DBB1A0D6349404779AF9379C32E
+[P2P]The message sent is:{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:12:963
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:12:964
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:12:964
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:12:964
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:12:965
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 6 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2P] Packet D4C98DBB1A0D6349404779AF9379C32E already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:13:65
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:13:66
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 7564000AF4D9656BAB6C82070ADC160C
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"}]} at time 2020-04-21 17:51:13:80
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 7564000AF4D9656BAB6C82070ADC160C
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManager][internal]  Peer blockchain length 9 with latest index 8 is not longer than ours 8 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 7564000AF4D9656BAB6C82070ADC160C
+[Miner] Msg is not processed 7564000AF4D9656BAB6C82070ADC160C
+[P2PThread] Finish to send transaction message
+[P2P] Listen transaction packet
+[P2P] Packet 7564000AF4D9656BAB6C82070ADC160C already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:13:308
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 9
+[BlockchainSyncManager][internal]  Succeed to send block list with size 9
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:14:00
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:14:00
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:14:76
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:14:77
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[P2P] New packet received with hash: 0A6978DB314794A4861CD23A74789CFD
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"} at time 2020-04-21 17:51:16:190
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 0A6978DB314794A4861CD23A74789CFD
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000F6CEAA4BE4D97ABCF270C01535C with previous hash in pending block hash: 00000F6CEAA4BE4D97ABCF270C01535C.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 9 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 00000AC1D1A88F5DAEC3DB827A2AC545
+[PoW] Matched MD5 found: 00000AC1D1A88F5DAEC3DB827A2AC545
+[Miner] Succeed to mine one block with 0 Txs and block index 9 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000BF3F039138D0F5398FCEA9B0A4F with previous hash in pending block hash: 00000F6CEAA4BE4D97ABCF270C01535C.
+
+[BlockChecker][WARN] Block chain top block hash:00000BF3F039138D0F5398FCEA9B0A4F is not the same as previous hash in pending block hash: 00000F6CEAA4BE4D97ABCF270C01535C
+
+[Blockchain][internal][WARN] Invalid block, skip to add to main chain
+[Blockchain][internal][WARN] failed to save block to blockchain in memory with 0 transactions
+[Miner] Wait 1000 for the 7 th round mine with 0 Tx in transaction list
+
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:17:273
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:17:273
+
+[Miner] Begin to mine with Tx amount 0
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:17:311
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 25AE08D0AEDA307458AA3182B2FF6897
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"","timeStamp":"2020.04.21_05.50.54","index":0,"n":-1108112160,"miner":"0xabcd"},"hash":"00000004AC9FB91A7C74CDE1D7845192"},{"b":{"ts":[]},"h":{"p":"00000004AC9FB91A7C74CDE1D7845192","timeStamp":"2020.04.21_05.50.54","index":1,"n":-953995864,"miner":"111?45678_01"},"hash":"00000797E5B8458EF85484D4BBAD748C"},{"b":{"ts":[]},"h":{"p":"00000797E5B8458EF85484D4BBAD748C","timeStamp":"2020.04.21_05.50.55","index":2,"n":1075638840,"miner":"111?45678_01"},"hash":"00000BF2DB195737BBAFADD08F39EDBE"},{"b":{"ts":[]},"h":{"p":"00000BF2DB195737BBAFADD08F39EDBE","timeStamp":"2020.04.21_05.50.57","index":3,"n":1750770231,"miner":"111?45678_02"},"hash":"000008C71D096B03AC1E884D2989D076"},{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"}]} at time 2020-04-21 17:51:17:362
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 25AE08D0AEDA307458AA3182B2FF6897
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 9 is not longer than ours 9 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 25AE08D0AEDA307458AA3182B2FF6897
+[Miner] Msg is not processed 25AE08D0AEDA307458AA3182B2FF6897
+[P2PThread] Finish to send transaction message
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:18:77
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:18:78
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 26B78CDB6B9920EE33C0367C556256B3
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"} at time 2020-04-21 17:51:18:834
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 26B78CDB6B9920EE33C0367C556256B3
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000BF3F039138D0F5398FCEA9B0A4F with previous hash in pending block hash: 00000BF3F039138D0F5398FCEA9B0A4F.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 10 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][external] Already in query, skip
+[BlockchainSyncManager][internal] Already in query, skip
+[P2P] New packet received with hash: 6EA9377153C1BF6090419DDAC5CE83F1
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"} at time 2020-04-21 17:51:20:773
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 6EA9377153C1BF6090419DDAC5CE83F1
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000004FDC69FC5C822DEDFD92602F677 with previous hash in pending block hash: 000004FDC69FC5C822DEDFD92602F677.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 11 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[PoW] Matched MD5 found: 00000925BD3D0B769D0F46A81D5F7085
+[PoW] Matched MD5 found: 00000925BD3D0B769D0F46A81D5F7085
+[Miner] Succeed to mine one block with 0 Txs and block index 10 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000366A4CEF35F43E4F0ACD7DDFAAD with previous hash in pending block hash: 00000BF3F039138D0F5398FCEA9B0A4F.
+
+[BlockChecker][WARN] Block chain top block hash:00000366A4CEF35F43E4F0ACD7DDFAAD is not the same as previous hash in pending block hash: 00000BF3F039138D0F5398FCEA9B0A4F
+
+[Blockchain][internal][WARN] Invalid block, skip to add to main chain
+[Blockchain][internal][WARN] failed to save block to blockchain in memory with 0 transactions
+[Miner] Wait 1000 for the 8 th round mine with 0 Tx in transaction list
+
+[P2P] New packet received with hash: B7EB2DF11B9CE7E604893C841379551C
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"} at time 2020-04-21 17:51:22:627
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: B7EB2DF11B9CE7E604893C841379551C
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000366A4CEF35F43E4F0ACD7DDFAAD with previous hash in pending block hash: 00000366A4CEF35F43E4F0ACD7DDFAAD.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 12 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:23:497
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:23:497
+
+[Miner] Begin to mine with Tx amount 0
+[P2P] New packet received with hash: 52B26F98BF62D7A5228CCAF8B4878CEF
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"} at time 2020-04-21 17:51:23:707
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 52B26F98BF62D7A5228CCAF8B4878CEF
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000EFDB30C9467853C33B1B53DDD68 with previous hash in pending block hash: 00000EFDB30C9467853C33B1B53DDD68.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 13 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:24:79
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:24:79
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:25:326
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 1BF4CD6D98AD9E783D1A31BDA683D0D4
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"000008C71D096B03AC1E884D2989D076","timeStamp":"2020.04.21_05.50.59","index":4,"n":-1978353603,"miner":"111?45678_02"},"hash":"0000010D57F01F75E7D59CA5C8CB2A56"},{"b":{"ts":[]},"h":{"p":"0000010D57F01F75E7D59CA5C8CB2A56","timeStamp":"2020.04.21_05.51.03","index":5,"n":-327063560,"miner":"111?45678_02"},"hash":"00000B074BC62A2ED7247ACAE02CC94E"},{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"}]} at time 2020-04-21 17:51:25:336
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 1BF4CD6D98AD9E783D1A31BDA683D0D4
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 13 is not longer than ours 13 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 1BF4CD6D98AD9E783D1A31BDA683D0D4
+[Miner] Msg is not processed 1BF4CD6D98AD9E783D1A31BDA683D0D4
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 0000092A7BA2B191F5C99B1CFD0DA7D4
+[PoW] Matched MD5 found: 0000092A7BA2B191F5C99B1CFD0DA7D4
+[Miner] Succeed to mine one block with 0 Txs and block index 13 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000B7959B76A4EB59010829D1231F8 with previous hash in pending block hash: 00000EFDB30C9467853C33B1B53DDD68.
+
+[BlockChecker][WARN] Block chain top block hash:00000B7959B76A4EB59010829D1231F8 is not the same as previous hash in pending block hash: 00000EFDB30C9467853C33B1B53DDD68
+
+[Blockchain][internal][WARN] Invalid block, skip to add to main chain
+[Blockchain][internal][WARN] failed to save block to blockchain in memory with 0 transactions
+[Miner] Wait 1000 for the 9 th round mine with 0 Tx in transaction list
+
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:26:80
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:26:845
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:26:845
+
+[Miner] Begin to mine with Tx amount 0
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:27:81
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:27:82
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 1BF4CD6D98AD9E783D1A31BDA683D0D4 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 8887B4D0464AF0457D2A3E4E87825843
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"} at time 2020-04-21 17:51:28:816
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 8887B4D0464AF0457D2A3E4E87825843
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000B7959B76A4EB59010829D1231F8 with previous hash in pending block hash: 00000B7959B76A4EB59010829D1231F8.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 14 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[PoW] Matched MD5 found: 000000DC67705D65B875C7A11787FD87
+[PoW] Matched MD5 found: 000000DC67705D65B875C7A11787FD87
+[Miner] Succeed to mine one block with 0 Txs and block index 14 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000818A7E8E199D047774595E83453 with previous hash in pending block hash: 00000B7959B76A4EB59010829D1231F8.
+
+[BlockChecker][WARN] Block chain top block hash:00000818A7E8E199D047774595E83453 is not the same as previous hash in pending block hash: 00000B7959B76A4EB59010829D1231F8
+
+[Blockchain][internal][WARN] Invalid block, skip to add to main chain
+[Blockchain][internal][WARN] failed to save block to blockchain in memory with 0 transactions
+[Miner] Wait 1000 for the 10 th round mine with 0 Tx in transaction list
+
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][external] Already in query, skip
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:31:925
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:31:926
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:32:82
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:32:86
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[PoW] Matched MD5 found: 000006DC27C9E07849C285631B128F5D
+[PoW] Matched MD5 found: 000006DC27C9E07849C285631B128F5D
+[Miner] Succeed to mine one block with 0 Txs and block index 15 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000818A7E8E199D047774595E83453 with previous hash in pending block hash: 00000818A7E8E199D047774595E83453.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 15 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:33:981
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:A46BC1ECBD38C2BAFFD7736BE99044FC
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:33:981
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:33:981
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:33:982
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:33:982
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:33:983
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 11 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet A46BC1ECBD38C2BAFFD7736BE99044FC already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal] Already in query, skip
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:34:983
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:34:983
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:35:86
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:35:87
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: C050A96DDB0C45619E44FBED1180300B
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000B074BC62A2ED7247ACAE02CC94E","timeStamp":"2020.04.21_05.51.06","index":6,"n":-270906962,"miner":"111?45678_02"},"hash":"000005CF3E6368AB7ECE4C089F707CD5"},{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"}]} at time 2020-04-21 17:51:35:93
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: C050A96DDB0C45619E44FBED1180300B
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 15 is not longer than ours 15 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: C050A96DDB0C45619E44FBED1180300B
+[Miner] Msg is not processed C050A96DDB0C45619E44FBED1180300B
+[PoW] Matched MD5 found: 000000F1CFD2686DE67D9912DB95B7B5
+[PoW] Matched MD5 found: 000000F1CFD2686DE67D9912DB95B7B5
+[Miner] Succeed to mine one block with 0 Txs and block index 16 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000006DC27C9E07849C285631B128F5D with previous hash in pending block hash: 000006DC27C9E07849C285631B128F5D.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[P2P] Listen transaction packet
+[Blockchain][internal][INFO] Succeed to save block: 16 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:35:109
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:C23860E359C187A2F081995AB61E8AEE
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:35:109
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:35:110
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:35:110
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:35:111
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:35:111
+[P2PThread] Finish to send transaction message
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 12 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet C050A96DDB0C45619E44FBED1180300B already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet C23860E359C187A2F081995AB61E8AEE already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:35:379
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 9DEB349D8BFECD5997FE18ABEC6CF549
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"000005CF3E6368AB7ECE4C089F707CD5","timeStamp":"2020.04.21_05.51.07","index":7,"n":911619859,"miner":"111?45678_02"},"hash":"0000033CEE8862E307F34EC705B268A0"},{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"}]} at time 2020-04-21 17:51:35:438
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 9DEB349D8BFECD5997FE18ABEC6CF549
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 16 is not longer than ours 16 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 9DEB349D8BFECD5997FE18ABEC6CF549
+[Miner] Msg is not processed 9DEB349D8BFECD5997FE18ABEC6CF549
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:36:88
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:36:112
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:36:113
+
+[Miner] Begin to mine with Tx amount 0
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:37:88
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:37:88
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 9DEB349D8BFECD5997FE18ABEC6CF549 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[PoW] Matched MD5 found: 000005C1104C1941CF5C6264F67BB281
+[PoW] Matched MD5 found: 000005C1104C1941CF5C6264F67BB281
+[Miner] Succeed to mine one block with 0 Txs and block index 17 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000000F1CFD2686DE67D9912DB95B7B5 with previous hash in pending block hash: 000000F1CFD2686DE67D9912DB95B7B5.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 17 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:38:604
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:50450AE239F62F52AC2D48EC122F0123
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:38:605
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:38:605
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:38:605
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:38:606
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:38:606
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[Miner] Succeed to broadcast seal block
+[P2PThread] Finish to send transaction message
+[Miner] Wait 1000 for the 13 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2P] Packet 50450AE239F62F52AC2D48EC122F0123 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:39:607
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:39:607
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:40:89
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:40:90
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][external] Already in query, skip
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:45:332
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 748328A3AF15DE0D254CF09BDDFB8F67
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[{"exchangeId":10001,"super":{"pr":"","miningTime":1587462672952,"blockIndex":"8","t":"assetType2","d":"ct0022","pu":"","gas":0,"h":"A13877533E3AA2C6A57A5466C00775D4","from":"111?789002","id":268884595,"to":"111?789006","value":"10"},"crosschain":"crosschain","condition":{},"requiredTxListType":"variable","chainID":"111","reqTxList":[{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}]}]},"h":{"p":"0000033CEE8862E307F34EC705B268A0","timeStamp":"2020.04.21_05.51.12","index":8,"n":-1248025856,"miner":"111?45678_02"},"hash":"00000F6CEAA4BE4D97ABCF270C01535C"},{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"}]} at time 2020-04-21 17:51:45:339
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 748328A3AF15DE0D254CF09BDDFB8F67
+[ExchangeExternalCondition][createFromJson] no keyword for ExchangeExternalCondition sub class to create object
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 17 is not longer than ours 17 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 748328A3AF15DE0D254CF09BDDFB8F67
+[Miner] Msg is not processed 748328A3AF15DE0D254CF09BDDFB8F67
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:46:90
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][internal] Already in query, skip
+[P2P] New packet received with hash: F765F0C75E194C5186F6C9BB7C121834
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"} at time 2020-04-21 17:51:49:389
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: F765F0C75E194C5186F6C9BB7C121834
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000005C1104C1941CF5C6264F67BB281 with previous hash in pending block hash: 000005C1104C1941CF5C6264F67BB281.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 18 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[PoW] Matched MD5 found: 000007E8F69AB18BE8B4CDE0EB451C96
+[PoW] Matched MD5 found: 000007E8F69AB18BE8B4CDE0EB451C96
+[Miner] Succeed to mine one block with 0 Txs and block index 18 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000002243A8EFA6E3A17063437B3A447 with previous hash in pending block hash: 000005C1104C1941CF5C6264F67BB281.
+
+[BlockChecker][WARN] Block chain top block hash:000002243A8EFA6E3A17063437B3A447 is not the same as previous hash in pending block hash: 000005C1104C1941CF5C6264F67BB281
+
+[Blockchain][internal][WARN] Invalid block, skip to add to main chain
+[Blockchain][internal][WARN] failed to save block to blockchain in memory with 0 transactions
+[Miner] Wait 1000 for the 14 th round mine with 0 Tx in transaction list
+
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:51:333
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 9A27B2261B89EAB7B3012B536A75C1FE
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000F6CEAA4BE4D97ABCF270C01535C","timeStamp":"2020.04.21_05.51.13","index":9,"n":-2080468658,"miner":"111?45678_01"},"hash":"00000BF3F039138D0F5398FCEA9B0A4F"},{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"}]} at time 2020-04-21 17:51:51:342
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 9A27B2261B89EAB7B3012B536A75C1FE
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 18 is not longer than ours 18 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 9A27B2261B89EAB7B3012B536A75C1FE
+[Miner] Msg is not processed 9A27B2261B89EAB7B3012B536A75C1FE
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 2CA1A83D15489BC4940FF8C229E10B3E
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"} at time 2020-04-21 17:51:51:631
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 2CA1A83D15489BC4940FF8C229E10B3E
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000002243A8EFA6E3A17063437B3A447 with previous hash in pending block hash: 000002243A8EFA6E3A17063437B3A447.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 19 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:51:991
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:51:991
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:52:90
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:52:90
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:53:335
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 0EE2774B29925F1D4632F40F888DC742
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000BF3F039138D0F5398FCEA9B0A4F","timeStamp":"2020.04.21_05.51.17","index":10,"n":-1837876771,"miner":"111?45678_01"},"hash":"000004FDC69FC5C822DEDFD92602F677"},{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"}]} at time 2020-04-21 17:51:53:344
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 0EE2774B29925F1D4632F40F888DC742
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 19 is not longer than ours 19 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 0EE2774B29925F1D4632F40F888DC742
+[Miner] Msg is not processed 0EE2774B29925F1D4632F40F888DC742
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 000007B616854CF5F769E13477371478
+[PoW] Matched MD5 found: 000007B616854CF5F769E13477371478
+[Miner] Succeed to mine one block with 0 Txs and block index 20 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:0000022AF05DE21A8965D49AB609BDB9 with previous hash in pending block hash: 0000022AF05DE21A8965D49AB609BDB9.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 20 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:53:800
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:127593246E1DE939E46636D3188EF35B
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:53:800
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:53:801
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:53:801
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:53:802
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:53:802
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 15 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 127593246E1DE939E46636D3188EF35B already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:54:90
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:54:803
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:54:803
+
+[Miner] Begin to mine with Tx amount 0
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:55:90
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:55:91
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: A3E609A7F94BDAE355E40765BD78C687
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"}]} at time 2020-04-21 17:51:55:96
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: A3E609A7F94BDAE355E40765BD78C687
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 20 is not longer than ours 20 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: A3E609A7F94BDAE355E40765BD78C687
+[Miner] Msg is not processed A3E609A7F94BDAE355E40765BD78C687
+[P2PThread] Finish to send transaction message
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] Packet A3E609A7F94BDAE355E40765BD78C687 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:55:336
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"000004FDC69FC5C822DEDFD92602F677","timeStamp":"2020.04.21_05.51.19","index":11,"n":-1428919944,"miner":"111?45678_01"},"hash":"00000366A4CEF35F43E4F0ACD7DDFAAD"},{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 00000B3CE7B39C14F97C6B4E0D88F32E
+[PoW] Matched MD5 found: 00000B3CE7B39C14F97C6B4E0D88F32E
+[Miner] Succeed to mine one block with 0 Txs and block index 21 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000007B616854CF5F769E13477371478 with previous hash in pending block hash: 000007B616854CF5F769E13477371478.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 21 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:55:713
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:EED851B79A1849269340D7B840C13E3A
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"000007B616854CF5F769E13477371478","timeStamp":"2020.04.21_05.51.54","index":21,"n":1364803297,"miner":"111?45678_02"},"hash":"00000B3CE7B39C14F97C6B4E0D88F32E"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:55:714
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:55:714
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:55:714
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:55:715
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:55:715
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 16 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet EED851B79A1849269340D7B840C13E3A already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:56:91
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:51:56:716
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:51:56:716
+
+[Miner] Begin to mine with Tx amount 0
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:57:91
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:57:92
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: D43EFD8AA4D74C253BAB71DDBA9DDD01
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"},{"b":{"ts":[]},"h":{"p":"000007B616854CF5F769E13477371478","timeStamp":"2020.04.21_05.51.54","index":21,"n":1364803297,"miner":"111?45678_02"},"hash":"00000B3CE7B39C14F97C6B4E0D88F32E"}]} at time 2020-04-21 17:51:57:96
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: D43EFD8AA4D74C253BAB71DDBA9DDD01
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 21 is not longer than ours 21 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: D43EFD8AA4D74C253BAB71DDBA9DDD01
+[Miner] Msg is not processed D43EFD8AA4D74C253BAB71DDBA9DDD01
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet D43EFD8AA4D74C253BAB71DDBA9DDD01 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:51:57:336
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000366A4CEF35F43E4F0ACD7DDFAAD","timeStamp":"2020.04.21_05.51.21","index":12,"n":-341300088,"miner":"111?45678_01"},"hash":"00000EFDB30C9467853C33B1B53DDD68"},{"b":{"ts":[]},"h":{"p":"00000EFDB30C9467853C33B1B53DDD68","timeStamp":"2020.04.21_05.51.23","index":13,"n":-1567261767,"miner":"111?45678_01"},"hash":"00000B7959B76A4EB59010829D1231F8"},{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"},{"b":{"ts":[]},"h":{"p":"000007B616854CF5F769E13477371478","timeStamp":"2020.04.21_05.51.54","index":21,"n":1364803297,"miner":"111?45678_02"},"hash":"00000B3CE7B39C14F97C6B4E0D88F32E"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:58:92
+[BlockchainSyncManager][external] Already in query, skip
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[PoW] Matched MD5 found: 000002860A1817A04E61C420D727646F
+[PoW] Matched MD5 found: 000002860A1817A04E61C420D727646F
+[Miner] Succeed to mine one block with 0 Txs and block index 22 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000B3CE7B39C14F97C6B4E0D88F32E with previous hash in pending block hash: 00000B3CE7B39C14F97C6B4E0D88F32E.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 22 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:51:59:312
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:0247139C0F99B07E3002948D70082909
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"00000B3CE7B39C14F97C6B4E0D88F32E","timeStamp":"2020.04.21_05.51.56","index":22,"n":-860447823,"miner":"111?45678_02"},"hash":"000002860A1817A04E61C420D727646F"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:51:59:312
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:51:59:312
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:51:59:312
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:51:59:313
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:51:59:313
+[P2PThread] Finish to send transaction message
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 17 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 0247139C0F99B07E3002948D70082909 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:52:00:313
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:52:00:313
+
+[Miner] Begin to mine with Tx amount 0
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[PoW] Matched MD5 found: 00000009236BCC67A70EA3E8D02E6EBC
+[PoW] Matched MD5 found: 00000009236BCC67A70EA3E8D02E6EBC
+[Miner] Succeed to mine one block with 0 Txs and block index 23 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000002860A1817A04E61C420D727646F with previous hash in pending block hash: 000002860A1817A04E61C420D727646F.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 23 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:52:01:47
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:473CEEB890886C70707E9F0F62EAC9FF
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"000002860A1817A04E61C420D727646F","timeStamp":"2020.04.21_05.52.00","index":23,"n":911471951,"miner":"111?45678_02"},"hash":"00000009236BCC67A70EA3E8D02E6EBC"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:52:01:48
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:52:01:48
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:52:01:48
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:52:01:49
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:52:01:50
+[P2PThread] Finish to send transaction message
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 18 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 473CEEB890886C70707E9F0F62EAC9FF already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:52:01:93
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:52:01:93
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 482DF4356E8D51F27EA7C83FB5EC67A0
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"},{"b":{"ts":[]},"h":{"p":"000007B616854CF5F769E13477371478","timeStamp":"2020.04.21_05.51.54","index":21,"n":1364803297,"miner":"111?45678_02"},"hash":"00000B3CE7B39C14F97C6B4E0D88F32E"},{"b":{"ts":[]},"h":{"p":"00000B3CE7B39C14F97C6B4E0D88F32E","timeStamp":"2020.04.21_05.51.56","index":22,"n":-860447823,"miner":"111?45678_02"},"hash":"000002860A1817A04E61C420D727646F"},{"b":{"ts":[]},"h":{"p":"000002860A1817A04E61C420D727646F","timeStamp":"2020.04.21_05.52.00","index":23,"n":911471951,"miner":"111?45678_02"},"hash":"00000009236BCC67A70EA3E8D02E6EBC"}]} at time 2020-04-21 17:52:01:96
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 482DF4356E8D51F27EA7C83FB5EC67A0
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 23 is not longer than ours 23 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 482DF4356E8D51F27EA7C83FB5EC67A0
+[Miner] Msg is not processed 482DF4356E8D51F27EA7C83FB5EC67A0
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet 482DF4356E8D51F27EA7C83FB5EC67A0 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:52:01:337
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"00000B7959B76A4EB59010829D1231F8","timeStamp":"2020.04.21_05.51.24","index":14,"n":696431019,"miner":"111?45678_01"},"hash":"00000818A7E8E199D047774595E83453"},{"b":{"ts":[]},"h":{"p":"00000818A7E8E199D047774595E83453","timeStamp":"2020.04.21_05.51.31","index":15,"n":-213803640,"miner":"111?45678_02"},"hash":"000006DC27C9E07849C285631B128F5D"},{"b":{"ts":[]},"h":{"p":"000006DC27C9E07849C285631B128F5D","timeStamp":"2020.04.21_05.51.34","index":16,"n":663616333,"miner":"111?45678_02"},"hash":"000000F1CFD2686DE67D9912DB95B7B5"},{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"},{"b":{"ts":[]},"h":{"p":"000007B616854CF5F769E13477371478","timeStamp":"2020.04.21_05.51.54","index":21,"n":1364803297,"miner":"111?45678_02"},"hash":"00000B3CE7B39C14F97C6B4E0D88F32E"},{"b":{"ts":[]},"h":{"p":"00000B3CE7B39C14F97C6B4E0D88F32E","timeStamp":"2020.04.21_05.51.56","index":22,"n":-860447823,"miner":"111?45678_02"},"hash":"000002860A1817A04E61C420D727646F"},{"b":{"ts":[]},"h":{"p":"000002860A1817A04E61C420D727646F","timeStamp":"2020.04.21_05.52.00","index":23,"n":911471951,"miner":"111?45678_02"},"hash":"00000009236BCC67A70EA3E8D02E6EBC"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:52:02:52
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:52:02:52
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:52:02:94
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:52:02:95
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[PoW] Matched MD5 found: 0000099CC036C4334BC3AC4519A2A4F2
+[PoW] Matched MD5 found: 0000099CC036C4334BC3AC4519A2A4F2
+[Miner] Succeed to mine one block with 0 Txs and block index 24 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:00000009236BCC67A70EA3E8D02E6EBC with previous hash in pending block hash: 00000009236BCC67A70EA3E8D02E6EBC.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 24 to DB
+[Miner][INFO] Succeed to seal one block into main chain at epoch : 2020-04-21 17:52:02:692
+[Miner] Begin to broadcast seal block
+[P2P] try to send block to peers
+[P2P]Mark message as old:E9C7CC6EB7DB4A26D4458B0A7FD5F937
+[P2P]The message sent is:{"b":{"ts":[]},"h":{"p":"00000009236BCC67A70EA3E8D02E6EBC","timeStamp":"2020.04.21_05.52.02","index":24,"n":-1353081849,"miner":"111?45678_02"},"hash":"0000099CC036C4334BC3AC4519A2A4F2"}
+[P2P][Debug] Send to 127.0.0.1:9601 at 2020-04-21 17:52:02:693
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:52:02:693
+[P2P][Debug] Send to 127.0.0.1:9604 at 2020-04-21 17:52:02:693
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:52:02:694
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P][Debug] Send to 127.0.0.1:9606 at 2020-04-21 17:52:02:696
+[Miner] Succeed to broadcast seal block
+[Miner] Wait 1000 for the 19 th round mine with 0 Tx in transaction list
+
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] Packet E9C7CC6EB7DB4A26D4458B0A7FD5F937 already got or was sent by ourselves, skip sending to miner
+
+[P2P] Listen transaction packet
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[Miner] There are no pending transactions, begin to mine empty block
+[Miner] Change transaction processed number. Old value 0 [EPOCH]: 2020-04-21 17:52:03:698
+
+[Miner] Fetched 0 Tx, and remain : 0 Tx, [EPOCH]: 2020-04-21 17:52:03:699
+
+[Miner] Begin to mine with Tx amount 0
+[BlockchainSyncManager][internal]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][internal] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9603 at 2020-04-21 17:52:04:95
+[BlockchainSyncManager][external]  Begin to query 10 block , which begins from -1 (-1 means the latest block)
+[BlockchainSyncManager][external] [DEBUG] Try to send query message 
+[P2P][Debug] Send to 127.0.0.1:9605 at 2020-04-21 17:52:04:96
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[P2P] New packet received with hash: E0701842A4BD98C8C742DD170DDE4052
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"0000099CC036C4334BC3AC4519A2A4F2","timeStamp":"2020.04.21_05.52.05","index":25,"n":-1701714472,"miner":"111?45678_01"},"hash":"000003F18D656CD759F90D950F600BBE"} at time 2020-04-21 17:52:05:958
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: E0701842A4BD98C8C742DD170DDE4052
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"0000099CC036C4334BC3AC4519A2A4F2","timeStamp":"2020.04.21_05.52.05","index":25,"n":-1701714472,"miner":"111?45678_01"},"hash":"000003F18D656CD759F90D950F600BBE"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:0000099CC036C4334BC3AC4519A2A4F2 with previous hash in pending block hash: 0000099CC036C4334BC3AC4519A2A4F2.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 25 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[SingleExchangeMultiTypeExchangeProcessor][process][10001] requiredData '{"exchangeId":10001,"chainID":"222","from":"789006","to":"789002","value":20,"assetType":"assetType6"}' does not appear
+[PoW] Matched MD5 found: 000001A518C5CEC520608A26B15CE862
+[PoW] Matched MD5 found: 000001A518C5CEC520608A26B15CE862
+[Miner] Succeed to mine one block with 0 Txs and block index 25 
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000003F18D656CD759F90D950F600BBE with previous hash in pending block hash: 0000099CC036C4334BC3AC4519A2A4F2.
+
+[BlockChecker][WARN] Block chain top block hash:000003F18D656CD759F90D950F600BBE is not the same as previous hash in pending block hash: 0000099CC036C4334BC3AC4519A2A4F2
+
+[Blockchain][internal][WARN] Invalid block, skip to add to main chain
+[Blockchain][internal][WARN] failed to save block to blockchain in memory with 0 transactions
+[Miner] Wait 1000 for the 20 th round mine with 0 Tx in transaction list
+
+[P2P] New packet received with hash: C65C15151532D82F2CA9D010ABB84F63
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"b":{"ts":[]},"h":{"p":"000003F18D656CD759F90D950F600BBE","timeStamp":"2020.04.21_05.52.06","index":26,"n":-1552287850,"miner":"111?45678_01"},"hash":"00000A9490CAE774A5D0A219A1E09DD2"} at time 2020-04-21 17:52:07:288
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: C65C15151532D82F2CA9D010ABB84F63
+[BlockchainSyncManager][internal]  Block message received {"b":{"ts":[]},"h":{"p":"000003F18D656CD759F90D950F600BBE","timeStamp":"2020.04.21_05.52.06","index":26,"n":-1552287850,"miner":"111?45678_01"},"hash":"00000A9490CAE774A5D0A219A1E09DD2"}
+[BlockChecker] Begin to check whether one block is valid or not
+[BlockChecker] Compare block chain top block hash:000003F18D656CD759F90D950F600BBE with previous hash in pending block hash: 000003F18D656CD759F90D950F600BBE.
+
+[Blockchain][internal] Succeed to add one new block to main chain
+[Blockchain][internal][INFO] Succeed to save block: 26 to DB
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 QueryTopBlockMsg:127.0.0.1:10:-1:9601 at time 2020-04-21 17:52:07:340
+[BlockchainSyncManager][Info] Not a Json object
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager] Got queryTopBlocks message: QueryTopBlockMsg:127.0.0.1:10:-1:9601
+[BlockchainSyncManager][internal]  Get top block message -1 received 90EE9940BCCED5D4BE56A41AD1DDFDD2
+[BlockchainSyncManager][internal] Reply with query top block message
+[BlockchainSyncManager][internal]  Begin to send block list {"blocks" :[{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"},{"b":{"ts":[]},"h":{"p":"000007B616854CF5F769E13477371478","timeStamp":"2020.04.21_05.51.54","index":21,"n":1364803297,"miner":"111?45678_02"},"hash":"00000B3CE7B39C14F97C6B4E0D88F32E"},{"b":{"ts":[]},"h":{"p":"00000B3CE7B39C14F97C6B4E0D88F32E","timeStamp":"2020.04.21_05.51.56","index":22,"n":-860447823,"miner":"111?45678_02"},"hash":"000002860A1817A04E61C420D727646F"},{"b":{"ts":[]},"h":{"p":"000002860A1817A04E61C420D727646F","timeStamp":"2020.04.21_05.52.00","index":23,"n":911471951,"miner":"111?45678_02"},"hash":"00000009236BCC67A70EA3E8D02E6EBC"},{"b":{"ts":[]},"h":{"p":"00000009236BCC67A70EA3E8D02E6EBC","timeStamp":"2020.04.21_05.52.02","index":24,"n":-1353081849,"miner":"111?45678_02"},"hash":"0000099CC036C4334BC3AC4519A2A4F2"},{"b":{"ts":[]},"h":{"p":"0000099CC036C4334BC3AC4519A2A4F2","timeStamp":"2020.04.21_05.52.05","index":25,"n":-1701714472,"miner":"111?45678_01"},"hash":"000003F18D656CD759F90D950F600BBE"},{"b":{"ts":[]},"h":{"p":"000003F18D656CD759F90D950F600BBE","timeStamp":"2020.04.21_05.52.06","index":26,"n":-1552287850,"miner":"111?45678_01"},"hash":"00000A9490CAE774A5D0A219A1E09DD2"}]} to 127.0.0.1:9601
+[BlockchainSyncManager][internal]  Begin to send block list with size 10
+[BlockchainSyncManager][internal]  Succeed to send block list with size 10
+[P2P] Query top block message. Don't forward it
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2P] New packet received with hash: 661A4A445BFB3664D58E6482F0714397
+[P2P] Process new packet
+[P2P] Send network message to network listener (Miner which will process or forward)
+[Miner]  Get network message from 127.0.0.1:9601 {"blocks" :[{"b":{"ts":[]},"h":{"p":"000000F1CFD2686DE67D9912DB95B7B5","timeStamp":"2020.04.21_05.51.36","index":17,"n":1732337029,"miner":"111?45678_02"},"hash":"000005C1104C1941CF5C6264F67BB281"},{"b":{"ts":[]},"h":{"p":"000005C1104C1941CF5C6264F67BB281","timeStamp":"2020.04.21_05.51.44","index":18,"n":-433681700,"miner":"111?45678_01"},"hash":"000002243A8EFA6E3A17063437B3A447"},{"b":{"ts":[]},"h":{"p":"000002243A8EFA6E3A17063437B3A447","timeStamp":"2020.04.21_05.51.50","index":19,"n":2051359048,"miner":"111?45678_01"},"hash":"0000022AF05DE21A8965D49AB609BDB9"},{"b":{"ts":[]},"h":{"p":"0000022AF05DE21A8965D49AB609BDB9","timeStamp":"2020.04.21_05.51.51","index":20,"n":1795439068,"miner":"111?45678_02"},"hash":"000007B616854CF5F769E13477371478"},{"b":{"ts":[]},"h":{"p":"000007B616854CF5F769E13477371478","timeStamp":"2020.04.21_05.51.54","index":21,"n":1364803297,"miner":"111?45678_02"},"hash":"00000B3CE7B39C14F97C6B4E0D88F32E"},{"b":{"ts":[]},"h":{"p":"00000B3CE7B39C14F97C6B4E0D88F32E","timeStamp":"2020.04.21_05.51.56","index":22,"n":-860447823,"miner":"111?45678_02"},"hash":"000002860A1817A04E61C420D727646F"},{"b":{"ts":[]},"h":{"p":"000002860A1817A04E61C420D727646F","timeStamp":"2020.04.21_05.52.00","index":23,"n":911471951,"miner":"111?45678_02"},"hash":"00000009236BCC67A70EA3E8D02E6EBC"},{"b":{"ts":[]},"h":{"p":"00000009236BCC67A70EA3E8D02E6EBC","timeStamp":"2020.04.21_05.52.02","index":24,"n":-1353081849,"miner":"111?45678_02"},"hash":"0000099CC036C4334BC3AC4519A2A4F2"},{"b":{"ts":[]},"h":{"p":"0000099CC036C4334BC3AC4519A2A4F2","timeStamp":"2020.04.21_05.52.05","index":25,"n":-1701714472,"miner":"111?45678_01"},"hash":"000003F18D656CD759F90D950F600BBE"},{"b":{"ts":[]},"h":{"p":"000003F18D656CD759F90D950F600BBE","timeStamp":"2020.04.21_05.52.06","index":26,"n":-1552287850,"miner":"111?45678_01"},"hash":"00000A9490CAE774A5D0A219A1E09DD2"}]} at time 2020-04-21 17:52:07:344
+[BlockchainSyncManagerSelector]  The block is not from external address or does not contain external block and use internal BlockchainSyncManager
+[BlockchainSyncManager][internal]  Message is not to query top block message: 661A4A445BFB3664D58E6482F0714397
+[BlockchainSyncManager][internal]  Peer blockchain length 10 with latest index 26 is not longer than ours 26 (selfLatestBlock.getBlockIndex())
+[BlockchainSyncManager][internal] Received block list is not valid or not longer than us: 661A4A445BFB3664D58E6482F0714397
+[Miner] Msg is not processed 661A4A445BFB3664D58E6482F0714397
+[P2P] Listen transaction packet
+[P2PThread] Finish to send transaction message
+[P2PThread] Finish to send transaction message
+[CommandServiceThread] command scan error
