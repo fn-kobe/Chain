@@ -1,0 +1,1000 @@
+ 1007  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1008  vi generatedMultipleAnyBCSerialization.pl 
+ 1009  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1010  perl sendToRemote.pl 
+ 1011  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1012  perl sendToRemote.pl 
+ 1013  rm -rf [1-9]*
+ 1014  ll
+ 1015  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1016  perl sendToRemote.pl 
+ 1017  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1018  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1019  perl sendToRemote.pl 
+ 1020  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1021  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1022  perl sendToRemote.pl 
+ 1023  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1024  cd topo/
+ 1025  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1026  perl sendToRemote.pl 
+ 1027  vi generatedMultipleAnyCenteredBCSerialization.pl 
+ 1028  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1029  cd topo/
+ 1030  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1031  cd topo/
+ 1032  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1033  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1034  perl sendToRemote.pl 
+ 1035  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1036  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1037  perl sendToRemote.pl 
+ 1038  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1039  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1040  perl sendToRemote.pl 
+ 1041  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1042  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1043  perl sendToRemote.pl 
+ 1044  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1045  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1046  perl sendToRemote.pl 
+ 1047  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1048  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1049  perl sendToRemote.pl 
+ 1050  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1051  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1052  perl sendToRemote.pl 
+ 1053  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1054  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1055  vi generatedMultipleAnyBCSerialization.pl 
+ 1056  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1057  perl sendToRemote.pl 
+ 1058  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1059  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1060  perl sendToRemote.pl 
+ 1061  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1062  perl generatedMultipleAnyCenteredBCSerialization.pl 3 3 0
+ 1063  perl sendToRemote.pl 
+ 1064  perl testSequenceRemote.pl 9 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:4:7;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1065  cd multiple_blockchain_connect/
+ 1066  perl testSequenceRemote.pl 16 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action         1:5:9:13;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1067  perl testSequenceRemote.pl 16 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:5:9:13;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1068  perl generatedMultipleAnyBCSerialization.pl 4 4
+ 1069  perl sendToRemote.pl 
+ 1070  perl testSequenceRemote.pl 16 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:5:9:13;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1071  cd multiple_blockchain_connect/
+ 1072  ll
+ 1073  cp ../topo/*.pl .
+ 1074  cp ../topo/*.jar >
+ 1075  cp ../topo/*.jar .
+ 1076  ll
+ 1077  perl generatedMultipleAnyBCSerialization.pl 4 4
+ 1078  cp ../topo/*.pm .
+ 1079  vi generatedMultipleAnyBCSerialization.pl 
+ 1080  perl generatedMultipleAnyBCSerialization.pl 4 4
+ 1081  perl sendToRemote.pl 
+ 1082  perl testSequenceRemote.pl 16 1 1800 ";;7-9;log***-Succeed-to-execute-ACP-action 1:5:9:13;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1083  ll
+ 1084  cp -r acp acp_test_recover
+ 1085  cd acp_test_recover/
+ 1086  ll
+ 1087  rm -r 1*
+ 1088  rm -rf 2*
+ 1089  rm -rf 3*
+ 1090  rm -rf 4*
+ 1091  rm -rf 5*
+ 1092  rm -rf backup
+ 1093  ll
+ 1094  rm sendToRemote.tar.gz 
+ 1095  ll ..
+ 1096  history > command
+ 1097  perl generatedMultipleAnyBCSerialization.pl 3 3
+ 1098  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1099  rm -r 333
+ 1100  ll
+ 1101  #perl sendToRemote.pl 
+ 1102  vi generatedMultipleAnyBCSerialization.pl 
+ 1103  perl sendToRemote.pl 
+ 1104  ll ../acp/test*
+ 1105  cp ../acp/testSequenceRemoteCommon.pm .
+ 1106  perl sendToRemote.pl 
+ 1107  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1108  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1109  perl sendToRemote.pl 
+ 1110  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1111  cp ../topo/blockchain.jar .
+ 1112  ll
+ 1113  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1114  perl sendToRemote.pl 
+ 1115  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1116  cd ../topo/*.p* .
+ 1117  cp ../topo/*.p* .
+ 1118  ll
+ 1119  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1120  vi 111/1/externalChainProducer 
+ 1121  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1122  perl sendToRemote.pl 
+ 1123  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1124  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1125  perl sendToRemote.pl 
+ 1126  cd acp_test_recover/
+ 1127  vi generatedMultipleAnyBCSerialization.pl 
+ 1128  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1129  perl sendToRemote.pl 
+ 1130  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1131  cd ..
+ 1132  find blockchain.jar
+ 1133  man find
+ 1134  find . -name blockchain.jar
+ 1135  find . -name blockchain.jar
+ 1136  ll ./acp_test_recover/blockchain.jar
+ 1137  ll ./burden/blockchain.jar
+ 1138  ll ./acp/blockchain.jar
+ 1139  ll ./bl/9-19/blockchain.jar
+ 1140  ll ./bl/5-28/blockchain.jar
+ 1141  ll ./bl/07_12/blockchain.jar
+ 1142  ll ./bl/2020-1-8/blockchain.jar
+ 1143  ll ./bl/8_16/blockchain.jar
+ 1144  ll ./bl/7_12_2/blockchain.jar
+ 1145  ll ./bl/9-20-3/blockchain.jar
+ 1146  ll ./bl/1113/blockchain.jar
+ 1147  ll ./topo/blockchain.jar
+ 1148  ll ./instantiation/blockchain.jar
+ 1149  ll ./bc/blockchain.jar
+ 1150  ll ./multiple_blockchain_connect/blockchain.jar
+ 1151  history
+ 1152  cd acp_test_recover/
+ 1153  ll
+ 1154  vi generatedMultipleAnyBCSerialization.pl 
+ 1155  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1156  perl sendToRemote.pl 
+ 1157  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1158  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1159  perl sendToRemote.pl 
+ 1160  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1161  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; " | tee 1.txt
+ 1162  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1163  vi testSequenceRemote.pl 
+ 1164  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;" | tee 2.txt
+ 1165  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;" | tee 2.txt
+ 1166  vi testSequenceRemote.pl 
+ 1167  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;" | tee 2.txt
+ 1168  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1169  vi testSequenceRemote.pl 
+ 1170  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1171  vi testSequenceRemote.pl 
+ 1172  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1173  vi testSequenceRemote.pl 
+ 1174  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1175  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;; "
+ 1176  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action   1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;"
+ 1177  vi testSequenceRemote.pl 
+ 1178  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;" | tee 3.txt
+ 1179  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1180  perl sendToRemote.pl 
+ 1181  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;" | tee 4.txt
+ 1182  perl generatedMultipleAnyBCSerialization.pl 2 3
+ 1183  perl sendToRemote.pl 
+ 1184  perl testSequenceRemote.pl 6 1 1800 ";;4-6;log***-Succeed-to-execute-ACP-action 1:4;sendcomct-10081-notary_second_tx-789004-789004-0;;" | tee 4.txt
+ 1185  cd lifecycle/
+ 1186  history
+ 1187  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1188  perl sendToRemote.pl 
+ 1189  perl testSequenceRemote.pl 3 1 1800 ";;1-3;log***-Test-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0;;"
+ 1190  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1191  perl sendToRemote.pl 
+ 1192  perl testSequenceRemote.pl 3 1 1800 ";;1-3;log***-Test-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0;;"
+ 1193  cd lifecycle/
+ 1194  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1195  perl sendToRemote.pl 
+ 1196  perl testSequenceRemote.pl 3 1 1800 ";;1-3;log***-Test-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0;;"
+ 1197  perl testSequenceRemote.pl 3 1 1800 ";;1-3;logTest-function-called-successfully"  "1;send-lck:v:n#TestPuttingCode,i#instance2,m#method1-789001-789002-0;1-3;logSucceed-to-instantiate"    "1;send-lck:i:n#TestPuttingCode,i#instance2-789001-789002-0;1-3;logSucceed-to-put-code"    "1;send-lck:c:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=-789001-789002-0-gas#10000000;;"
+ 1198  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1199  perl sendToRemote.pl 
+ 1200  perl testSequenceRemote.pl 3 1 1800 ";;1-3;logTest-function-called-successfully"  "1;send-lck:v:n#TestPuttingCode,i#instance2,m#method1-789001-789002-0;1-3;logSucceed-to-instantiate"    "1;send-lck:i:n#TestPuttingCode,i#instance2-789001-789002-0;1-3;logSucceed-to-put-code"    "1;send-lck:c:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=-789001-789002-0-gas#10000000;;"
+ 1201  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1202  perl sendToRemote.pl 
+ 1203  perl testSequenceRemote.pl 3 1 1800 ";;1-3;logTest-function-called-successfully"  "1;send-lck:v:n#TestPuttingCode,i#instance2,m#method1-789001-789002-0;1-3;logSucceed-to-instantiate"    "1;send-lck:i:n#TestPuttingCode,i#instance2-789001-789002-0;1-3;logSucceed-to-put-code"    "1;send-lck:c:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=-789001-789002-0-gas#10000000;;"
+ 1204  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1205  perl sendToRemote.pl 
+ 1206  perl testSequenceRemote.pl 8 1 1800 ";;1-8;logTest-function-called-successfully"  "1;send-lck:v:n#TestPuttingCode,i#instance2,m#method1-789001-789002-0;1-8;logSucceed-to-instantiate"    "1;send-lck:i:n#TestPuttingCode,i#instance2-789001-789002-0;1-8;logSucceed-to-put-code"    "1;send-lck:c:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=-789001-789002-0-gas#10000000;;"
+ 1207  perl generatedMultipleAnyBCSerialization.pl 1 16
+ 1208  perl sendToRemote.pl 
+ 1209  perl testSequenceRemote.pl 16 1 1800 ";;1-16;logTest-function-called-successfully"  "1;send-lck:v:n#TestPuttingCode,i#instance2,m#method1-789001-789002-0;1-16;logSucceed-to-instantiate"    "1;send-lck:i:n#TestPuttingCode,i#instance2-789001-789002-0;1-16;logSucceed-to-put-code"    "1;send-lck:c:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=-789001-789002-0-gas#10000000;;"
+ 1210  perl generatedMultipleAnyBCSerialization.pl 1 12
+ 1211  perl sendToRemote.pl 
+ 1212  ll
+ 1213  perl testSequenceRemote.pl 12 1 1800 ";;1-12;logTest-function-called-successfully"  "1;send-lck:v:n#TestPuttingCode,i#instance2,m#method1-789001-789002-0;1-12;logSucceed-to-instantiate"    "1;send-lck:i:n#TestPuttingCode,i#instance2-789001-789002-0;1-12;logSucceed-to-put-code"    "1;send-lck:c:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=-789001-789002-0-gas#10000000;;"
+ 1214  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1215  perl sendToRemote.pl 
+ 1216  perl testSequenceRemote.pl 8 1 1800 ";;1-8;logTest-function-called-successfully"  "1;send-lck:v:n#TestPuttingCode,i#instance2,m#method1-789001-789002-0;1-8;logSucceed-to-instantiate"    "1;send-lck:i:n#TestPuttingCode,i#instance2-789001-789002-0;1-8;logSucceed-to-put-code"    "1;send-lck:c:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=-789001-789002-0-gas#10000000;;"
+ 1217  ll
+ 1218  chmod +x combined_test_civ_8.sh 
+ 1219  ./combined_test_civ_8.sh 
+ 1220  ll
+ 1221  find . -name "2020-*"
+ 1222  find . -name "2020-*" > 1.txt
+ 1223  cd lifecycle/
+ 1224  ll
+ 1225  tar xcvf testlog.tar,gz civ c_iv c_i_v ci_v 
+ 1226  man tart
+ 1227  man tar
+ 1228  grep -ni "tar.gz"
+ 1229  vi sendToRemote.pl 
+ 1230  tar czvf testlog.tar,gz civ c_iv c_i_v ci_v 
+ 1231  rm -rf civ c_iv c_i_v ci_v 
+ 1232  ll
+ 1233  mv testlog.tar,gz testlog_9_16.tar,gz 
+ 1234  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1235  perl sendToRemote.pl 
+ 1236  cd lifecycle/
+ 1237  vi t.pl
+ 1238  perl t.pl 
+ 1239  cat t.pl 
+ 1240  touch       if (-z "externalChainProducer"){
+ 1241  ll
+ 1242  touch externalChainProducer
+ 1243  touch       if (-z "externalChainProducer"){
+ 1244  perl t.pl 
+ 1245  vi t.pl 
+ 1246  perl t.pl 
+ 1247  cp 1 externalChainProducer .
+ 1248  rm externalChainProducer 
+ 1249  cp 1 externalChainProducer .
+ 1250  cp externalChainProducer .
+ 1251  cp 1/externalChainProducer .
+ 1252  perl t.pl 
+ 1253  rm externalChainProducer 
+ 1254  perl t.pl 
+ 1255  cd lifecycle/
+ 1256  ll
+ 1257  cd backup/
+ 1258  tar czvf backup9-16.tar.gz 2020-09-16*
+ 1259  cd test/
+ 1260  cd random
+ 1261  ll
+ 1262  cd lifecycle/
+ 1263  vi testSequenceRemote.pl 
+ 1264  ll *\blockchain.jar
+ 1265  ll
+ 1266  ll 1/
+ 1267  cp 1 externalChainProducer .
+ 1268  cd 1
+ 1269  javaSp -jar blockchain.jar
+ 1270  ll
+ 1271  cd .
+ 1272  cd lifecycle/
+ 1273  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1274  perl sendToRemote.pl 
+ 1275  cp combined_test_civ_8.sh combined_test_civ111.sh
+ 1276  vi combined_test_civ111.sh 
+ 1277  ./combined_test_civ111.sh 
+ 1278  cat combined_test_civ111.sh 
+ 1279  ./combined_test_civ111.sh 
+ 1280  cat combined_test_civ111.sh 
+ 1281  perl testSequenceRemoteWithName.pl 3 1 1800 civ_manual_test ";;1-3;logTest-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0-gas#10000000;;"
+ 1282  history
+ 1283  ll
+ 1284  vi generatedMultipleAnyBCSerialization.pl 
+ 1285  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1286  perl sendToRemote.pl 
+ 1287  perl testSequenceRemoteWithName.pl 3 1 1800 civ_manual_test ";;1-3;logTest-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0-gas#10000000;;"
+ 1288  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1289  perl sendToRemote.pl 
+ 1290  perl testSequenceRemoteWithName.pl 3 1 1800 civ_manual_test ";;1-3;logTest-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0-gas#10000000;;"
+ 1291  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1292  perl sendToRemote.pl 
+ 1293  perl testSequenceRemoteWithName.pl 3 1 1800 civ_manual_test ";;1-3;logTest-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0-gas#10000000;;"
+ 1294  ./combined_test_civ111.sh 
+ 1295  perl generatedMultipleAnyBCSerialization.pl 1 3
+ 1296  perl sendToRemote.pl 
+ 1297  perl testSequenceRemoteWithName.pl 3 1 1800 civ_manual_test ";;1-3;logTest-function-called-successfully"    "1;send-lck:civ:n#TestPuttingCode,c#cHVibGljIGNsYXNzIFRlc3RQdXR0aW5nQ29kZSB7CmludCBpID0gMDsKcHVibGljIHZvaWQgbWV0aG9kMSgpewpTeXN0ZW0ub3V0LnByaW50ZigiW1Rlc3RdW0lORk9dWyoqKioqKioqKioqXSBtZXRob2QxIGluIFRlc3RQdXR0aW5nQ29kZS4gVGVzdCBmdW5jdGlvbiBjYWxsZWQgc3VjY2Vzc2Z1bGx5IVxuIik7Cn0KfQo=,i#instance1,m#method1-789001-789002-0-gas#10000000;;"
+ 1298  bash build.sh 
+ 1299  sudo bash build.sh 
+ 1300  shutdown -r
+ 1301  sudo shutdown -r
+ 1302  sudo shutdown -r -t 0
+ 1303  man curl
+ 1304  cd demo/
+ 1305  sudo bash build.sh 
+ 1306  error log
+ 1307  Error log
+ 1308  vi log/error.log
+ 1309  tree
+ 1310  sudo apt install tree
+ 1311  tree
+ 1312  ll
+ 1313  apt-get update
+ 1314  su
+ 1315  history
+ 1316  exit
+ 1317  su
+ 1318  sudo passwd
+ 1319  su
+ 1320  cd /root/
+ 1321  cd wecross/
+ 1322  cd routers-paymentSH/
+ 1323  cd 127.0.0.1-8250-25500/
+ 1324  tail -f logs/info.log |grep "active resources"
+ 1325  cat logs/info.log |grep "active resources"
+ 1326  tail -f logs/info.log |grep "active resources"
+ 1327  cd ~
+ 1328  mkdir wetest
+ 1329  cd wetest/
+ 1330  git clone https://github.com/WeBankFinTech/WeCross-Fabric1-Stub.git
+ 1331  tar czvf proxy.tar.gz *
+ 1332  curl -X POST --data '{"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":1}' http://127.0.0.1:8545 |jq
+ 1333  sudo apt install jq
+ 1334  curl -X POST --data '{"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":1}' http://127.0.0.1:8545 |jq
+ 1335  man jq
+ 1336  curl -X POST --data '{"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":1}' http://127.0.0.1:8545 |jq
+ 1337  java -version
+ 1338  wget https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/WeBASE/releases/download/v1.4.1/webase-front.zip
+ 1339  unzip webase-front.zip 
+ 1340  cd webase-front/
+ 1341  ll
+ 1342  cp /root/wecross/bcos/nodes/127.0.0.1/sdk/ca.crt conf/
+ 1343  cp /root/wecross/bcos/nodes/127.0.0.1/sdk/node.crt conf/
+ 1344  cp /root/wecross/bcos/nodes/127.0.0.1/sdk/node.key conf/
+ 1345  chmod +x *.sh
+ 1346  ./status.sh 
+ 1347  ./start.sh 
+ 1348  exprot
+ 1349  export
+ 1350  which java
+ 1351  ll /usr/bin/java
+ 1352  ll /etc/alternatives/
+ 1353  ll /etc/alternatives/java
+ 1354  vi /etc/profile
+ 1355  sudo vi /etc/profile
+ 1356  source /etc/profile
+ 1357  ./start.sh 
+ 1358  ./status.sh 
+ 1359  shoutdown -r -t 0
+ 1360  shutdown -r -t 0
+ 1361  su
+ 1362  su
+ 1363  cd p2
+ 1364  cd p2psc/
+ 1365  ll
+ 1366  rm ci*
+ 1367  rm -rf ci*
+ 1368  rm -rf c_i*
+ 1369  ll
+ 1370  rm -rf backup
+ 1371  ll
+ 1372  rm alllifetest.tar.gz 
+ 1373  ll
+ 1374  rm -rf backup
+ 1375  ll
+ 1376  rm -rf backup
+ 1377  ll
+ 1378  perl generatedMultipleAnyBCSerialization.pl 
+ 1379  perl generatedMultipleAnyBCSerialization.pl  1 6
+ 1380  vi generatedMultipleAnyBCSerialization.pl 
+ 1381  perl sendToRemote.pl 
+ 1382  perl testSequenceRemoteWithName.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "1;P2PSC:group:234:asset#lock#1:asset#lock#2:OP_log(giving-2-assets-for-1-asset);;" "3;P2PSC:group:234:asset#lock#2:asset#lock#1:OP_log(giving-1-assets-for-2-asset);;" 
+ 1383  perl testSequenceRemoteWithName.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "send-1;P2PSC:group:234:asset#lock#1:asset#lock#2:OP_log(giving-2-assets-for-1-asset);;" "3;P2PSC:group:234:asset#lock#2:asset#lock#1:OP_log(giving-1-assets-for-2-asset);;"
+ 1384  perl testSequenceRemoteWithName.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "1;send-P2PSC:group:234:asset#lock#1:asset#lock#2:OP_log(giving-2-assets-for-1-asset);;" "3;P2PSC:group:234:asset#lock#2:asset#lock#1:OP_log(giving-1-assets-for-2-asset);;" 
+ 1385  perl testSequenceRemoteWithName.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "1;send-P2PSC:group:234:asset#lock#1:asset#lock#2:OP_log(giving-2-assets-for-1-asset);;" "3;send-P2PSC:group:234:asset#lock#2:asset#lock#1:OP_log(giving-1-assets-for-2-asset);;"
+ 1386  perl testSequenceRemoteWithName.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "1;send-P2PSC:group:234:asset#lock#1:asset#lock#2:OP_log(giving_2_assets_for_1_asset)-789001-789002-0;;" "3;send-P2PSC:group:234:asset#lock#2:asset#lock#1:OP_log(giving_1_assets_for_2_asset)-789001-789002-0;;"
+ 1387  perl testSequenceRemote.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "1;send-P2PSC:group:234:asset#lock#1:asset#lock#2:OP_log(giving_2_assets_for_1_asset)-789001-789002-0;;" "3;send-P2PSC:group:234:asset#lock#2:asset#lock#1:OP_log(giving_1_assets_for_2_asset)-789001-789002-0;;"
+ 1388  perl testSequenceRemote.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "1;send-P2PSC:group:234:asset#lock#1:asset#lock#2:OP_log(giving_2_assets_for_1_asset)-789001-789002-0;;" "3;send-P2PSC:group:234:asset#lock#2:asset#lock#1:OP_log(giving_1_assets_for_2_asset)-789002-789001-0;;"
+ 1389  perl testSequenceRemote.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-group_234-has-completed"    "1;send-P2PSC:address:234:address#789002::OP_log(requiring_789002_to_do_next_task)-789001-789002-0;;" "3;send-P2PSC:address:234::address#789002:OP_log(task_from_789002)-789002-789001-0;;"
+ 1390  perl testSequenceRemote.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-address_234-has-completed" "3;send-P2PSC:address:234::address#789002:OP_log(task_from_789002)-789002-789001-0;;" "1;send-P2PSC:address:234:address#789002::OP_log(requiring_789002_to_do_next_task)-789001-789002-0;;"
+ 1391  perl testSequenceRemote.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-address_234-has-completed" "1;send-P2PSC:address:234:address#789002::OP_log(requiring_789002_to_do_next_task)-789001-789002-0;;" "3;send-P2PSC:address:234::address#789002:OP_log(task_from_789002)-789002-789001-0;;"
+ 1392  perl testSequenceRemote.pl 4 1 1800 $name ";;1-4;logP2P-smart-contract-address_234-has-completed" "3;send-P2PSC:address:234::address#789002:OP_log(task_from_789002)-789002-789001-0;1-1;requiring_789002_to_do_next_task" "1;send-P2PSC:address:234:address#789002::OP_log(requiring_789002_to_do_next_task)-789001-789002-0;;"
+ 1393  perl testSequenceRemote.pl 4 1 1800 $name ";;1-4;logOne-path-of-P2P-smart-contract-all_0-path-has-completed"    "1;send-P2PSC:all:0:asset#lock#1:asset#lock#2:OP_log(giving_2_assets_for_1_asset)-789001-789002-0;1-4;giving_1_assets_for_2_asset" "3;send-P2PSC:all:0:asset#lock#2:asset#lock#1:OP_log(giving_1_assets_for_2_asset)-789002-789001-0;;"
+ 1394  ll
+ 1395  chmmod +x ./combined_test_p2p_3.sh 
+ 1396  chmod +x ./combined_test_p2p_3.sh 
+ 1397  ./combined_test_p2p_3.sh 
+ 1398  perl testSequenceRemoteName.pl 4 1 1800 $name ";;1-4;logOne-path-of-P2P-smart-contract-all_0-path-has-completed"    "1;send-P2PSC:all:0:asset#lock#1:asset#lock#2:OP_log(giving_2_assets_for_1_asset)-789001-789002-0;1-4;giving_1_assets_for_2_asset" "3;send-P2PSC:all:0:asset#lock#2:asset#lock#1:OP_log(giving_1_assets_for_2_asset)-789002-789001-0;;"
+ 1399  perl sendToRemote.pl 
+ 1400  ./combined_test_p2p_3.sh 
+ 1401  cd bc
+ 1402  ll
+ 1403  cd test/
+ 1404  vi test.pl
+ 1405  perl test.pl 
+ 1406  cat test.pl 
+ 1407  vi test.pl 
+ 1408  cat test.pl 
+ 1409  perl test.pl 
+ 1410  vi dd.sh
+ 1411  chmod +x dd.sh 
+ 1412  ./dd.sh 
+ 1413  perl test.pl 
+ 1414  vi test.pl 
+ 1415  perl test.pl 
+ 1416  clear
+ 1417  perl test.pl 
+ 1418  vi perl.pl
+ 1419  ll
+ 1420  vi test.pl 
+ 1421  perl test.pl 
+ 1422  ./dd.sh 
+ 1423  vi tesst.pl
+ 1424  vi test.pl 
+ 1425  perl test.pl 
+ 1426  vi test.pl 
+ 1427  perl test.pl 
+ 1428  cd ..
+ 1429  ll
+ 1430  cd ../p2psc/
+ 1431  chmod +x ./combined_test_p2p_7.sh 
+ 1432  ./combined_test_p2p_7.sh 
+ 1433  clear
+ 1434  ./combined_test_p2p_7.sh 
+ 1435  clear
+ 1436  ./combined_test_p2p_7.sh 
+ 1437  clear
+ 1438  ./combined_test_p2p_7.sh 
+ 1439  clear
+ 1440  ./combined_test_p2p_7.sh 
+ 1441  vi combined_test_p2p_7.sh 
+ 1442  ./combined_test_p2p_7.sh 
+ 1443  chmod +x ./combined_test_p2p_
+ 1444  chmod +x ./combined_test_p2p_7.sh 
+ 1445  ./combined_test_p2p_7.sh 
+ 1446  vi ./combined_test_p2p_7.sh 
+ 1447  ./combined_test_p2p_7.sh 
+ 1448  cp ./combined_test_p2p_7.sh combined_test_p2p_7a.sh
+ 1449  vi combined_test_p2p_7a.sh 
+ 1450  ./combined_test_p2p_7a.sh > 1.txt 
+ 1451  ll
+ 1452  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log(giving_8_assets_for_4_asset)-789008-789004-0;;[1] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log(giving_8_assets_for_4_asset)-789008-789004-0;;[2] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log(giving_8_assets_for_4_asset)-789008-789004-0;;[3] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log(giving_8_assets_for_4_asset)-789008-789004-0;;[4] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log(giving_8_assets_for_4_asset)-789008-789004-0;;[5] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log(giving_8_assets_for_4_asset)-789008-789004-0;;[6] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log(giving_8_assets_for_4_asset)-789008-789004-0;;[7] | tee pairByPairSC/pairByPairSC_0.log
+ 1453  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log_giving_8_assets_for_4_asset_-789008-789004-0;;[1] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log_giving_8_assets_for_4_asset_-789008-789004-0;;[2] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log_giving_8_assets_for_4_asset_-789008-789004-0;;[3] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log_giving_8_assets_for_4_asset_-789008-789004-0;;[4] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log_giving_8_assets_for_4_asset_-789008-789004-0;;[5] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log_giving_8_assets_for_4_asset_-789008-789004-0;;[6] 3;send-P2PSC:group:200:asset#lock#4:asset#lock#8:OP_log_giving_8_assets_for_4_asset_-789008-789004-0;;[7] | tee pairByPairSC/pairByPairSC_0.log
+ 1454  vi ./combined_test_p2p_7a.sh 
+ 1455  ./combined_test_p2p_7a.sh > 2.txt
+ 1456  vi 2.txt 
+ 1457  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log(giving_7_assets_for_3_asset)-789007-789003-0;; 3;send-P2PSC:group:200:asset#lock#2:asset#lock#6:OP_log(giving_6_assets_for_2_asset)-789006-789002-0;; 3;send-P2PSC:group:200:asset#lock#1:asset#lock#5:OP_log(giving_5_assets_for_1_asset)-789005-789001-0;; 3;send-P2PSC:group:200:asset#lock#8:asset#lock#4:OP_log(giving_4_assets_for_8_asset)-789004-789008-0;; 3;send-P2PSC:group:200:asset#lock#7:asset#lock#3:OP_log(giving_3_assets_for_7_asset)-789003-789007-0;; 3;send-P2PSC:group:200:asset#lock#6:asset#lock#2:OP_log(giving_2_assets_for_6_asset)-789002-789006-0;; 3;send-P2PSC:group:200:asset#lock#5:asset#lock#1:OP_log(giving_1_assets_for_5_asset)-789001-789005-0;; | tee pairByPairSC/pairByPairSC_0.log
+ 1458  ./combined_test_p2p_7.sh > 3.txt
+ 1459  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0;; 3;send-P2PSC:group:200:asset#lock#2:asset#lock#6:OP_log_giving_6_assets_for_2_asset_-789006-789002-0;; 3;send-P2PSC:group:200:asset#lock#1:asset#lock#5:OP_log_giving_5_assets_for_1_asset_-789005-789001-0;; 3;send-P2PSC:group:200:asset#lock#8:asset#lock#4:OP_log_giving_4_assets_for_8_asset_-789004-789008-0;; 3;send-P2PSC:group:200:asset#lock#7:asset#lock#3:OP_log_giving_3_assets_for_7_asset_-789003-789007-0;; 3;send-P2PSC:group:200:asset#lock#6:asset#lock#2:OP_log_giving_2_assets_for_6_asset_-789002-789006-0;; 3;send-P2PSC:group:200:asset#lock#5:asset#lock#1:OP_log_giving_1_assets_for_5_asset_-789001-789005-0;; | tee pairByPairSC/pairByPairSC_0.log
+ 1460  clear
+ 1461  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0;; 3;send-P2PSC:group:200:asset#lock#2:asset#lock#6:OP_log_giving_6_assets_for_2_asset_-789006-789002-0;; 3;send-P2PSC:group:200:asset#lock#1:asset#lock#5:OP_log_giving_5_assets_for_1_asset_-789005-789001-0;; 3;send-P2PSC:group:200:asset#lock#8:asset#lock#4:OP_log_giving_4_assets_for_8_asset_-789004-789008-0;; 3;send-P2PSC:group:200:asset#lock#7:asset#lock#3:OP_log_giving_3_assets_for_7_asset_-789003-789007-0;; 3;send-P2PSC:group:200:asset#lock#6:asset#lock#2:OP_log_giving_2_assets_for_6_asset_-789002-789006-0;; 3;send-P2PSC:group:200:asset#lock#5:asset#lock#1:OP_log_giving_1_assets_for_5_asset_-789001-789005-0;; | tee pairByPairSC/pairByPairSC_0.log
+ 1462  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0;; 3;send-P2PSC:group:200:asset#lock#2:asset#lock#6:OP_log_giving_6_assets_for_2_asset_-789006-789002-0;; 3;send-P2PSC:group:200:asset#lock#1:asset#lock#5:OP_log_giving_5_assets_for_1_asset_-789005-789001-0;; 3;send-P2PSC:group:200:asset#lock#8:asset#lock#4:OP_log_giving_4_assets_for_8_asset_-789004-789008-0;; 3;send-P2PSC:group:200:asset#lock#7:asset#lock#3:OP_log_giving_3_assets_for_7_asset_-789003-789007-0;; 3;send-P2PSC:group:200:asset#lock#6:asset#lock#2:OP_log_giving_2_assets_for_6_asset_-789002-789006-0;; 3;send-P2PSC:group:200:asset#lock#5:asset#lock#1:OP_log_giving_1_assets_for_5_asset_-789001-789005-0;;
+ 1463  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0;; 
+ 1464  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7
+ 1465  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0
+ 1466  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0;; 
+ 1467  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0;;
+ 1468  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0; ;
+ 1469  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0 ; ;
+ 1470  ll
+ 1471  ./combined_test_p2p_7.sh > 4.txt
+ 1472  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  "3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_-789007-789003-0;;" "3;send-P2PSC:group:200:asset#lock#2:asset#lock#6:OP_log_giving_6_assets_for_2_asset_-789006-789002-0;;" "3;send-P2PSC:group:200:asset#lock#1:asset#lock#5:OP_log_giving_5_assets_for_1_asset_-789005-789001-0;;" "3;send-P2PSC:group:200:asset#lock#8:asset#lock#4:OP_log_giving_4_assets_for_8_asset_-789004-789008-0;;" "3;send-P2PSC:group:200:asset#lock#7:asset#lock#3:OP_log_giving_3_assets_for_7_asset_-789003-789007-0;;" "3;send-P2PSC:group:200:asset#lock#6:asset#lock#2:OP_log_giving_2_assets_for_6_asset_-789002-789006-0;;" "3;send-P2PSC:group:200:asset#lock#5:asset#lock#1:OP_log_giving_1_assets_for_5_asset_-789001-789005-0;;" | tee pairByPairSC/pairByPairSC_0.log
+ 1473  ./combined_test_p2p_8.sh > 8.txt
+ 1474  chmod +x ./combined_test_p2p_8.sh 
+ 1475  ./combined_test_p2p_8.sh > 8.txt
+ 1476  vi 8.txt 
+ 1477  chmod +x ./combined_test_p2p_9.sh 
+ 1478  ./combined_test_p2p_9.sh > 9.txt
+ 1479  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  "3;send-P2PSC:group:200:asset#lock#3:asset#lock#7:OP_log(giving_7_assets_for_3_asset)-789007-789003-0;;" "3;send-P2PSC:group:200:asset#lock#2:asset#lock#6:OP_log(giving_6_assets_for_2_asset)-789006-789002-0;;" "3;send-P2PSC:group:200:asset#lock#1:asset#lock#5:OP_log(giving_5_assets_for_1_asset)-789005-789001-0;;" "3;send-P2PSC:group:200:asset#lock#8:asset#lock#4:OP_log(giving_4_assets_for_8_asset)-789004-789008-0;;" "3;send-P2PSC:group:200:asset#lock#7:asset#lock#3:OP_log(giving_3_assets_for_7_asset)-789003-789007-0;;" "3;send-P2PSC:group:200:asset#lock#6:asset#lock#2:OP_log(giving_2_assets_for_6_asset)-789002-789006-0;;" "3;send-P2PSC:group:200:asset#lock#5:asset#lock#1:OP_log(giving_1_assets_for_5_asset)-789001-789005-0;;" | tee pairByPairSC/pairByPairSC_0.log
+ 1480  ./combined_test_p2p_9.sh > 9.txt
+ 1481  chmod +x ./combined_test_p2p_10.sh 
+ 1482  ./combined_test_p2p_10.sh > 10.txt
+ 1483  vi 10.txt 
+ 1484  ./combined_test_p2p_10.sh > 10.txt
+ 1485  vi 10.txt 
+ 1486  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  ";;1-4;logout-of-work" "3;send-P2PSC:group:104:asset#lock#4:asset#lock#8:out_of_work-789008-789004-0;;" "3;send-P2PSC:group:103:asset#lock#3:asset#lock#7:OP_log(giving_7_assets_for_3_asset)-789007-789003-0;;" "3;send-P2PSC:group:102:asset#lock#2:asset#lock#6:OP_log(giving_6_assets_for_2_asset)-789006-789002-0;;" "3;send-P2PSC:group:101:asset#lock#1:asset#lock#5:OP_log(giving_5_assets_for_1_asset)-789005-789001-0;;" "3;send-P2PSC:group:104:asset#lock#8:asset#lock#4:OP_log(giving_4_assets_for_8_asset)-789004-789008-0;;" "3;send-P2PSC:group:103:asset#lock#7:asset#lock#3:OP_log(giving_3_assets_for_7_asset)-789003-789007-0;;" "3;send-P2PSC:group:102:asset#lock#6:asset#lock#2:OP_log(giving_2_assets_for_6_asset)-789002-789006-0;;" "3;send-P2PSC:group:100:asset#lock#5:asset#lock#1:OP_log(giving_1_assets_for_5_asset)-789001-789005-0;;" | tee pairByPairSC/pairByPairSC_0.log
+ 1487  cat 10.txt 
+ 1488  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  ";;1-4;logout-of-work" "3;send-P2PSC:group:104:asset#lock#4:asset#lock#8:out_of_work-789008-789004-0;;" "3;send-P2PSC:group:103:asset#lock#3:asset#lock#7:OP_log(giving_7_assets_for_3_asset)-789007-789003-0;;" "3;send-P2PSC:group:102:asset#lock#2:asset#lock#6:OP_log(giving_6_assets_for_2_asset)-789006-789002-0;;" "3;send-P2PSC:group:101:asset#lock#1:asset#lock#5:OP_log(giving_5_assets_for_1_asset)-789005-789001-0;;" "3;send-P2PSC:group:104:asset#lock#8:asset#lock#4:OP_log(giving_4_assets_for_8_asset)-789004-789008-0;;" "3;send-P2PSC:group:103:asset#lock#7:asset#lock#3:OP_log(giving_3_assets_for_7_asset)-789003-789007-0;;" "3;send-P2PSC:group:102:asset#lock#6:asset#lock#2:OP_log(giving_2_assets_for_6_asset)-789002-789006-0;;" "3;send-P2PSC:group:100:asset#lock#5:asset#lock#1:OP_log(giving_1_assets_for_5_asset)-789001-789005-0;;" | tee pairByPairSC/pairByPairSC_0.log
+ 1489  ll
+ 1490  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  ";;1-4;logout-of-work" "3;send-P2PSC:group:104:asset#lock#4:asset#lock#8:out_of_work-789008-789004-0;;" "3;send-P2PSC:group:103:asset#lock#3:asset#lock#7:OP_log(giving_7_assets_for_3_asset)-789007-789003-0;;" "3;send-P2PSC:group:102:asset#lock#2:asset#lock#6:OP_log(giving_6_assets_for_2_asset)-789006-789002-0;;" "3;send-P2PSC:group:101:asset#lock#1:asset#lock#5:OP_log(giving_5_assets_for_1_asset)-789005-789001-0;;" "3;send-P2PSC:group:104:asset#lock#8:asset#lock#4:OP_log(giving_4_assets_for_8_asset)-789004-789008-0;;" "3;send-P2PSC:group:103:asset#lock#7:asset#lock#3:OP_log(giving_3_assets_for_7_asset)-789003-789007-0;;" "3;send-P2PSC:group:102:asset#lock#6:asset#lock#2:OP_log(giving_2_assets_for_6_asset)-789002-789006-0;;" "3;send-P2PSC:group:100:asset#lock#5:asset#lock#1:OP_log(giving_1_assets_for_5_asset)-789001-789005-0;;" | tee pairByPairSC/pairByPairSC_0.log
+ 1491  ./combined_test_p2p_10.sh > 10.txt
+ 1492  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  ";;1-4;logout-of-work" "3;send-P2PSC:group:104:asset#lock#4:asset#lock#8:out_of_work-789008-789004-0;;" "3;send-P2PSC:group:103:asset#lock#3:asset#lock#7:OP_log(giving_7_assets_for_3_asset)-789007-789003-0;1-4;giving_6_assets_for_2_asset" "3;send-P2PSC:group:102:asset#lock#2:asset#lock#6:OP_log(giving_6_assets_for_2_asset)-789006-789002-0;1-4;giving_5_assets_for_1_asset" "3;send-P2PSC:group:101:asset#lock#1:asset#lock#5:OP_log(giving_5_assets_for_1_asset)-789005-789001-0;1-4;giving_4_assets_for_8_asset" "3;send-P2PSC:group:104:asset#lock#8:asset#lock#4:OP_log(giving_4_assets_for_8_asset)-789004-789008-0;1-4;giving_3_assets_for_7_asset" "3;send-P2PSC:group:103:asset#lock#7:asset#lock#3:OP_log(giving_3_assets_for_7_asset)-789003-789007-0;1-4;giving_2_assets_for_6_asset" "3;send-P2PSC:group:102:asset#lock#6:asset#lock#2:OP_log(giving_2_assets_for_6_asset)-789002-789006-0;1-4;giving_1_assets_for_5_asset" "3;send-P2PSC:group:100:asset#lock#5:asset#lock#1:OP_log(giving_1_assets_for_5_asset)-789001-789005-0;;" | tee pairByPairSC/pairByPairSC_0.log
+ 1493  ll
+ 1494  cd bc
+ 1495  ll
+ 1496  perl sendToRemote.pl 
+ 1497  cd ..
+ 1498  cd p2psc/
+ 1499  perl sendToRemote.pl 
+ 1500  chmod +x ./combined_test_p2p_11.sh 
+ 1501  ./combined_test_p2p_11 > 11.txt
+ 1502  ./combined_test_p2p_11.sh > 11.txt
+ 1503  cd p2psc/
+ 1504  ll
+ 1505  vi combined_test_p2p_15.sh 
+ 1506  ./combined_test_p2p_15.sh 
+ 1507  chmod +x ./combined_test_p2p_16.sh 
+ 1508  ./combined_test_p2p_16.sh 
+ 1509  chmod +x ./combined_test_p2p_17.sh 
+ 1510  ./combined_test_p2p_17.sh 
+ 1511  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC ";;1-4;key_done" "3:;send-key_done_789001-789001-789005-0;1-4;key_789008" "3;send-P2PSC:group:104:asset#lock#4:asset#lock#8:out_of_work_key_789008-789008-789004-0;1-4;key_789007" "3;send-P2PSC:group:103:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_key_789007-789007-789003-0;1-4;key_789006" "3;send-P2PSC:group:102:asset#lock#2:asset#lock#6:OP_log_giving_6_assets_for_2_asset_key_789006-789006-789002-0;1-4;key_789005" "3;send-P2PSC:group:101:asset#lock#1:asset#lock#5:OP_log_giving_5_assets_for_1_asset_key_789005-789005-789001-0;1-4;key_789004" "3;send-P2PSC:group:104:asset#lock#8:asset#lock#4:OP_log_giving_4_assets_for_8_asset_key_789004-789004-789008-0;1-4;key_789003" "3;send-P2PSC:group:103:asset#lock#7:asset#lock#3:OP_log_giving_3_assets_for_7_asset_key_789003-789003-789007-0;1-4;key_789002" "3;send-P2PSC:group:102:asset#lock#6:asset#lock#2:OP_log_giving_2_assets_for_6_asset_key_789002-789002-789006-0;1-4;key_789001" "3;send-P2PSC:group:100:asset#lock#5:asset#lock#1:OP_log_giving_1_assets_for_5_asset_key_789001-789001-789005-0;;" tee pairByPairSC/pairByPairSC_0.log
+ 1512  ./combined_test_p2p_17.sh 
+ 1513  vi combined_test_p2p_17.sh 
+ 1514  vi combined_test_p2p_16.sh 
+ 1515  vi combined_test_p2p_15.sh 
+ 1516  ./combined_test_p2p_15.sh > 15.txt
+ 1517  perl testSequenceRemoteWithName.pl 4 1 1800 pairByPairSC  ";;1-4;key_done" "3:;send-key_done_789001-789001-789005-0;1-4;key_789008" "3;send-P2PSC:group:104:asset#lock#4:asset#lock#8:out_of_work_key_789008-789008-789004-0;1-4;key_789007" "3;send-P2PSC:group:103:asset#lock#3:asset#lock#7:OP_log_giving_7_assets_for_3_asset_key_789007-789007-789003-0;1-4;key_789006" "3;send-P2PSC:group:102:asset#lock#2:asset#lock#6:OP_log_giving_6_assets_for_2_asset_key_789006-789006-789002-0;1-4;key_789005" "3;send-P2PSC:group:101:asset#lock#1:asset#lock#5:OP_log_giving_5_assets_for_1_asset_key_789005-789005-789001-0;1-4;key_789004" "3;send-P2PSC:group:104:asset#lock#8:asset#lock#4:OP_log_giving_4_assets_for_8_asset_key_789004-789004-789008-0;1-4;key_789003" "3;send-P2PSC:group:103:asset#lock#7:asset#lock#3:OP_log_giving_3_assets_for_7_asset_key_789003-789003-789007-0;1-4;key_789002" "3;send-P2PSC:group:102:asset#lock#6:asset#lock#2:OP_log_giving_2_assets_for_6_asset_key_789002-789002-789006-0;1-4;key_789001" "3;send-P2PSC:group:100:asset#lock#5:asset#lock#1:OP_log_giving_1_assets_for_5_asset_key_789001-789001-789005-0;;" | tee pairByPairSC/pairByPairSC_0.log
+ 1518  ./combined_test_p2p_17.sh 
+ 1519  vi ./combined_test_p2p_17.sh 
+ 1520  ./combined_test_p2p_17.sh 
+ 1521  vi ./combined_test_p2p_17.sh 
+ 1522  ./combined_test_p2p_17.sh 
+ 1523  vi ./combined_test_p2p_17.sh 
+ 1524  ./combined_test_p2p_17.sh 
+ 1525  vi ./combined_test_p2p_17.sh 
+ 1526  ./combined_test_p2p_17.sh 
+ 1527  vi ./combined_test_p2p_17.sh 
+ 1528  ./combined_test_p2p_17.sh 
+ 1529  vi testSequenceRemoteCommon.pm 
+ 1530  cd p2psc/
+ 1531  grep -ni "Backup folder has been created" *
+ 1532  vi testSequenceRemoteCommon.pm 
+ 1533  grep -ni "Clean the environment on node"
+ 1534  ./combined_test_p2p_17.sh 
+ 1535  reboot
+ 1536  sudo reboot
+ 1537  cd p2psc/
+ 1538  vi combined_test_p2p_17.sh 
+ 1539  vi testSequenceRemoteCommon.pm
+ 1540  cd p2psc/
+ 1541  ./combined_test_p2p_17.sh 
+ 1542  vi ./combined_test_p2p_17.sh 
+ 1543  vi ./combined_test_p2p_3.sh 
+ 1544  ./combined_test_p2p_3.sh 
+ 1545  cd p2psc/
+ 1546  ll
+ 1547  cd backup/
+ 1548  ll
+ 1549  tar czvf p2pSC.tar,gz 2020-12-29_16_*
+ 1550  cd  p2psc/
+ 1551  perl sendToRemote.pl 
+ 1552  uname
+ 1553  ll
+ 1554  find . -name *.sh
+ 1555  mkdir embed
+ 1556  cd embed/
+ 1557  cp ../p2psc/*.p* .
+ 1558  ll
+ 1559  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1560  perl sendToRemote.pl 
+ 1561  copy ../p2psc/*.jar .
+ 1562  cp ../p2psc/blockchain.jar .
+ 1563  perl sendToRemote.pl 
+ 1564  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";;1-8;embed" "1;send-embed-789001-789002-0;;"
+ 1565  perl generatedMultipleAnyBCSerialization.pl 1 16
+ 1566  perl sendToRemote.pl 
+ 1567  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";;1-8;embed" "1;send-embed-789001-789002-0;;"
+ 1568  perl testSequenceRemoteWithName.pl 16 1 1800 $name ";;1-16;embed" "1;send-embed-789001-789002-0;;"
+ 1569  vi generatedMultipleAnyBCSerialization.pl 
+ 1570  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1571  perl sendToRemote.pl 
+ 1572  rm ./1*
+ 1573  rm -rf ./1*
+ 1574  rm -rf ./9 
+ 1575  ll
+ 1576  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1577  perl sendToRemote.pl 
+ 1578  perl testSequenceRemoteWithName.pl 16 1 1800 $name ";;1-16;embed" "1;send-embed-789001-789002-0;;"
+ 1579  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";;1-8;embed" "1;send-embed-789001-789002-0;;"
+ 1580  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";;1-8;separateEnd" "1;send-separateEnd-789001-789002-0;;" "1;send-separateStart-789001-789002-0;;"
+ 1581  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";;1-8;separateEnd" "1;send-separateEnd-789001-789002-0;1-8;separateStart" "1;send-separateStart-789001-789002-0;;"
+ 1582  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";1-8;separateEnd" "1;send-separateEnd-789001-789002-0;1-8;separateStart" "1;send-separateStart-789001-789002-0;;"
+ 1583  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";;1-8;separateEnd" "1;send-separateEnd-789001-789002-0;1-8;separateStart" "1;send-separateStart-789001-789002-0;;"
+ 1584  perl testSequenceRemoteWithName.pl 8 1 1800 name ";;1-8;separateEnd" "1;send-separateEnd-789001-789002-0;1-8;separateStart" "1;send-separateStart-789001-789002-0;;"
+ 1585  vi combined_test.sh 
+ 1586  chmod +x ./combined_test.sh 
+ 1587  ./combined_test.sh 
+ 1588  cd embed/
+ 1589  vi combined_test.sh 
+ 1590  ./combined_test.sh 
+ 1591  perl testSequenceRemoteWithName.pl 8 1 1800 $name ";;1-8;embedUser2" "1;send-embedUser2-789002-789001-0;1-8;embedUser1" "1;send-embedUser1-789001-789002-0;;"
+ 1592  chmod +x ./combined_test_total_time_2tx_3tx.sh 
+ 1593  ./combined_test_total_time_2tx_3tx.sh 
+ 1594  cd embed/
+ 1595  vi cost_fee_test.pl 
+ 1596  vi combined_test
+ 1597  vi combined_test.sh 
+ 1598  ./combined_test.sh 
+ 1599  cd embed/
+ 1600  ./combined_test
+ 1601  vi ./combined_test.sh 
+ 1602  ./combined_test.sh 
+ 1603  dump
+ 1604  ./combined_test.sh 
+ 1605  cd perl
+ 1606  mkdir perlTest
+ 1607  cd perl
+ 1608  cd perlTest/
+ 1609  vi random.pl
+ 1610  perl random.pl 
+ 1611  perl install Math::Random
+ 1612  pip install Math::Random
+ 1613  sudo apt install python-pip
+ 1614  pip install Math::Random
+ 1615  sudo apt install perl-pip
+ 1616  ppm install Math-Random
+ 1617  sudo apt-install ppm
+ 1618  sudo apt install ppm
+ 1619  sudo apt-get install ppm
+ 1620  perl -v
+ 1621  cpan
+ 1622  perl random.pl 
+ 1623  ll
+ 1624  vi rand.xls 
+ 1625  cd ../visible_chain/
+ 1626  perl testCommand.pl 
+ 1627  vi testCommand.pl 
+ 1628  perl testCommand.pl 
+ 1629  vi testCommand.pl 
+ 1630  perl ./testCommand.pl 
+ 1631  vi testCommand.pl 
+ 1632  perl ./testCommand.pl 
+ 1633  vi testCommand.pl 
+ 1634  perl ./testCommand.pl 
+ 1635  vi testCommand.pl 
+ 1636  perl ./testCommand.pl 
+ 1637  vi testCommand.pl 
+ 1638  perl ./testCommand.pl 
+ 1639  cd visible_chain/
+ 1640  ll
+ 1641  perl testCommand.pl 
+ 1642  perl testCommand.pl > 1.txt
+ 1643  vi testCommand.pl 
+ 1644  perl testCommand.pl > 1.txt
+ 1645  vi testCommand.pl 
+ 1646  perl testCommand.pl > 1.txt
+ 1647  vi testCommand.pl 
+ 1648  perl testCommand.pl > 1.txt
+ 1649  vi testCommand.pl 
+ 1650  perl testCommand.pl > 1.txt
+ 1651  perl testCommand.pl
+ 1652  vi testCommand.pl 
+ 1653  perl testCommand.pl > 1.txt
+ 1654  vi testCommand.pl 
+ 1655  perl testCommand.pl > 1.txt
+ 1656  perl testCommand.pl > raw.txt
+ 1657  vi testCommand.pl 
+ 1658  perl testCommand.pl > raw.txt
+ 1659  perl testCommandKownFactor.pl > factor.txt
+ 1660  top -b -n -1 top.txt
+ 1661  top -b -n 1 top.txt
+ 1662  top -b -n 1 > top.txt
+ 1663  vi top.txt 
+ 1664  top | grep sys
+ 1665  top -b -n 10 | grep sys > t1
+ 1666  cat t1
+ 1667  perl
+ 1668  perl testCPU_Mem_Net.pl 
+ 1669  cat sshd 
+ 1670  perl testCPU_Mem_Net.pl 
+ 1671  cat sshd 
+ 1672  perl testCPU_Mem_Net.pl 
+ 1673  cat sshd 
+ 1674  perl testCPU_Mem_Net.pl 
+ 1675  cat sshd 
+ 1676  perl testCPU_Mem_Net.pl 
+ 1677  cat sshd 
+ 1678  perl testCPU_Mem_Net.pl 
+ 1679  clear
+ 1680  perl testCPU_Mem_Net.pl 
+ 1681  cat sshd 
+ 1682  perl testCPU_Mem_Net.pl 
+ 1683  cat sshd 
+ 1684  perl testCPU_Mem_Net.pl 
+ 1685  cat sshd 
+ 1686  perl testCPU_Mem_Net.pl 
+ 1687  cat sshd 
+ 1688  rm sshd 
+ 1689  perl testCPU_Mem_Net.pl 
+ 1690  cat sshd 
+ 1691  perl testCPU_Mem_Net.pl 
+ 1692  ll
+ 1693  cat sshd 
+ 1694  perl testCPU_Mem_Net.pl 
+ 1695  perl testCPU_Mem_Net.pl sshd
+ 1696  perl testCPU_Mem_Net.pl 
+ 1697  perl testCPU_Mem_Net.pl sshd
+ 1698  cat sshd 
+ 1699  perl testCPU_Mem_Net.pl sshd
+ 1700  cat sshd 
+ 1701  perl testCPU_Mem_Net.pl sshd
+ 1702  cat sshd 
+ 1703  top
+ 1704  perl testCPU_Mem_Net.pl sshd system
+ 1705  ll
+ 1706  cat sshd 
+ 1707  cat system 
+ 1708  ps -ef | grep 4042
+ 1709  perl testCPU_Mem_Net.pl sshd system
+ 1710  ll
+ 1711  cat sshdNet 
+ 1712  :q
+ 1713  perl testCPU_Mem_Net.pl sshd system
+ 1714  cat sshdNet 
+ 1715  cat systemNet 
+ 1716  perl testCPU_Mem_Net.pl sshd system
+ 1717  man top
+ 1718  top -b -n 1 -d 1
+ 1719  top -b -n 1 -d 10
+ 1720  top
+ 1721  vnstat -i eth0 -l
+ 1722  sudo apt install vnstat
+ 1723  sudo apt install nethogs
+ 1724  nethogs
+ 1725  sudo nethogs
+ 1726  sudo nethogs 
+ 1727  qqqq:q
+ 1728  man nethogs
+ 1729  sudo nethogs -c 3 
+ 1730  sudo nethogs -c 3 > n1
+ 1731  cat n1
+ 1732  sudo  nethogs -d 5 | sed 's/[^[:print:][:cntrl:]]//g' > output.txt 
+ 1733  cat output.txt 
+ 1734  sudo  nethogs  | sed 's/[^[:print:][:cntrl:]]//g' > output.txt 
+ 1735  sudo nethogs -c 3 
+ 1736  vi t.pl
+ 1737  cd visible_chain/
+ 1738  ll
+ 1739  cp testCommand.pl y.pl
+ 1740  vi y.pl 
+ 1741  perl y.pl 
+ 1742  vi y.pl 
+ 1743  perl y.pl 
+ 1744  vi y.pl 
+ 1745  sudo perl y.pl 
+ 1746  perl y.pl 
+ 1747  vi y.pl 
+ 1748  perl y.pl 
+ 1749  vi y.pl 
+ 1750  perl y.pl 
+ 1751  ps -ef | grep java
+ 1752  ps -ef 
+ 1753  perl sleep(10)
+ 1754  perl sleep 10
+ 1755  ps -ef | grrep perl
+ 1756  ps -ef | grep perl
+ 1757  clear
+ 1758  top -b -n 1
+ 1759  man top 
+ 1760  top -b -n 1| grep sshd
+ 1761  ll
+ 1762  perl ./testCPU_Mem_Net.pl 
+ 1763  ll
+ 1764  cat sshd 
+ 1765  vi testCPU_Mem_Net.pl 
+ 1766  perl ./testCPU_Mem_Net.pl 
+ 1767  vi testCPU_Mem_Net.pl 
+ 1768  perl ./testCPU_Mem_Net.pl 
+ 1769  vi testCPU_Mem_Net.pl 
+ 1770  perl ./testCPU_Mem_Net.pl 
+ 1771  vi testCPU_Mem_Net.pl 
+ 1772  history
+ 1773  sudo nethogs -c 3
+ 1774  sudo nethogs -c 30
+ 1775  ll
+ 1776  cat sshd
+ 1777  cat system
+ 1778  cd visible_chain/
+ 1779  perl testCommandKownFactor.pl 
+ 1780  ll
+ 1781  perl testCommandKownFactor.pl 
+ 1782  ll
+ 1783  perl testCommandKownFactor.pl > factor.txt
+ 1784  top
+ 1785  sudo nethogs
+ 1786  top
+ 1787  nethogs
+ 1788  sudo nethogs
+ 1789  cp -r embed embedNew
+ 1790  cd embedNew/
+ 1791  ls
+ 1792  rm -rf embed separate/
+ 1793  ll
+ 1794  perl cost_fee_test.pl 
+ 1795  perl cost_fee_test.pl  > cost_fee_test.txt
+ 1796  sudo dmidecode -t system
+ 1797  ll
+ 1798  find .. -name 'cost_fee_test.pl'
+ 1799  perl cost_fee_test.pl  > cost_fee_test.txt
+ 1800  vi cost_fee_test.pl 
+ 1801  cp ../embed/cost_fee_test.pl cost_fee_test_old.pl
+ 1802  perl cost_fee_test_old.pl 
+ 1803  vi cost_fee_test_old.pl 
+ 1804  perl cost_fee_test_old.pl 
+ 1805  vi cost_fee_test.pl 
+ 1806  perl cost_fee_test.pl cost_fee_test.txt
+ 1807  perl cost_fee_test.pl > cost_fee_test.txt
+ 1808  ll
+ 1809  perl caccumulated_fee.pl 
+ 1810  perl caccumulated_fee.pl > cost_fee_cost.txt
+ 1811  perl caccumulated_fee.pl > cost_fee_test.txt
+ 1812  perl accumulated_fee.pl > cost_fee_test.txt 
+ 1813  vi accumulated_fee.pl 
+ 1814  perl accumulated_fee.pl > cost_fee_test.txt 
+ 1815  vi accumulated_fee.pl 
+ 1816  perl accumulated_fee.pl > cost_fee_test.txt 
+ 1817  vi accumulated_fee.pl 
+ 1818  perl accumulated_fee.pl > cost_fee_test.txt 
+ 1819  vi accumulated_fee.pl 
+ 1820  perl accumulated_fee.pl > cost_fee_test.txt 
+ 1821  vi accumulated_fee.pl 
+ 1822  perl accumulated_fee.pl > cost_fee_test.txt 
+ 1823  vi accumulated_fee.pl 
+ 1824  ls
+ 1825  perl cost_fee_test_more_user.pl > cost_fee_test_more_user.txt
+ 1826  vi cost_fee_test_more_user.pl
+ 1827  perl cost_fee_test_more_user.pl > cost_fee_test_more_user.txt
+ 1828  perl cost_per_smart_contract_logic.pl > cost_per_smart_contract_logic.txt
+ 1829  ll
+ 1830  perl generatedMultipleAnyBCSerialization.pl 
+ 1831  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1832  perl sendToRemote.pl 
+ 1833  vi sendToRemote.pl 
+ 1834  ssh 192.168.1.186
+ 1835  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1836  vi generatedMultipleAnyBCSerialization.pl 
+ 1837  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1838  perl sendToRemote.pl 
+ 1839  ls
+ 1840  rm -rf  1* 2 3 4 5 6 7 8
+ 1841  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1842  perl sendToRemote.pl 
+ 1843  ssh 192.168.1.185
+ 1844  perl sendToRemote.pl 
+ 1845  ll
+ 1846  ./combined_test_total_time_2tx_3tx.sh 
+ 1847  ll
+ 1848  vi combined_test.sh 
+ 1849  ./combined_test_total_time_2tx_3tx.sh 
+ 1850  cd embedNew/
+ 1851  ll
+ 1852  mv backup backup_5_13
+ 1853  chmod +x ./combined_test_first_user_1tx_2tx.sh 
+ 1854  ./combined_test_first_user_1tx_2tx.sh 
+ 1855  pip install ipython[all]
+ 1856  git clone https://github.com/pjreddie/darknet
+ 1857  ll
+ 1858  cd bc
+ 1859  ll
+ 1860  cd ..
+ 1861  ll
+ 1862  cp -r embedNew cross-chain_new
+ 1863  cd cross-chain_new/
+ 1864  rm -rf backup/
+ 1865  ll
+ 1866  cp ../embedNew/blockchain.jar .
+ 1867  cd cross-chain_new/
+ 1868  ll
+ 1869  perl generatedMultipleAnyBCSerialization.pl 
+ 1870  perl generatedMultipleAnyBCSerialization.pl 2 6
+ 1871  perl sendToRemote.pl 
+ 1872  perl testSequence.pl 6 30 600 ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  1;sendcmt-10001-variable-789003-789001-assetType3-10-222:789001:789002:assetType1:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;; > ct_2bc_3tx_4_24_1.log
+ 1873  vi t.bat
+ 1874  chmod +x ./t.bat
+ 1875  ./t.bat 
+ 1876  ll
+ 1877  vi combined_test.sh 
+ 1878  ./combined_test.sh 
+ 1879  cd cross-chain_new/
+ 1880  perl testSequenceRemoteSeparateSteps.pl 
+ 1881  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i pv
+ 1882  perl testSequenceRemoteSeparateSteps.pl 6 1 600 lfc:ict ;;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  1;sendcmt-10001-variable-789003-789001-assetType3-10-222:789001:789002:assetType1:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;; > ct_2bc_3tx_4_24_1.log
+ 1883  perl testSequenceRemoteSeparateSteps.pl 6 1 600 lfc:ict ";;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  1;sendcmt-10001-variable-789003-789001-assetType3-10-222:789001:789002:assetType1:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;" > ct_2bc_3tx_4_24_1.log
+ 1884  perl testSequenceRemoteSeparateSteps.pl 6 1 600 lfc:ict ";;1-6;ct003 ;;1-6;ct002 ;;1-6;ct001  1;sendcmt-10001-variable-789003-789001-assetType3-10-222:789001:789002:assetType1:10-ct003;; 4;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;; 1;sendcmt-10001-variable-789001-789002-assetType1-10-222:789002:789003:assetType2:10-ct001;;" 
+ 1885  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i
+ 1886  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i init
+ 1887  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:c ;;1;78900 1;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;; 
+ 1888  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:c ;;1;78900 1;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002; 
+ 1889  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:c ";;1;78900 1;sendcmt-10001-variable-789002-789003-assetType2-10-111:789003:789001:assetType3:10-ct002;;"
+ 1890  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:t
+ 1891  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:t "t"
+ 1892  perl testSequenceRemoteSeparateSteps.pl 6 30 1200 ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1893  perl testSequenceRemoteSeparateSteps.pl 6 30 1200 lfc:c ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1894  perl testSequenceRemoteSeparateSteps.pl 6 1 1200 lfc:c ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1895  perl testSequenceRemoteSeparateSteps.pl 6 1 1200 lfc:c hashlocking ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1896  perl testSequenceRemoteSeparateSteps.pl 6 2 1200 lfc:c hashlocking ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1897  perl testSequenceRemoteSeparateSteps.pl 6 2 1200 lfc:c hashlocking ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3c==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3c==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1898  perl testSequenceRemoteSeparateSteps.pl 6 1 1800 testCaseName ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_1001_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_1001_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1899  perl testSequenceRemoteSeparateSteps.pl 6 1 1800 lfc:c testCaseName ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_1001_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;hashLockingData 1;send-hashLockingData_1001_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;hashLockingSetting 4;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1900  perl testSequenceRemoteSeparateSteps.pl lfc:c 6 1 1800 $testCaseName ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_1001_1001Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;1001Step21 1;send-hashLockingData_1001_1001Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;1001 4;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1901  perl testSequenceRemoteSeparateSteps.pl 6 1 1800 lfc:c $testCaseName ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_1001_1001Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;1001Step21 1;send-hashLockingData_1001_1001Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;1001 4;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1902  perl testSequenceRemoteSeparateSteps.pl 6 1 1800 lfc:c testCaseName ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_1001_1001Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;1001Step21 1;send-hashLockingData_1001_1001Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;1001 4;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_1001_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1903  perl testSequenceRemoteSeparateSteps.pl 6 1 1800 lfc:c testCaseName ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_1002_1002Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;1002Step21 1;send-hashLockingData_1002_1002Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;1002 4;send-hashLockingSetting_1002_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_1002_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1904  perl testSequenceRemoteSeparateSteps.pl 6 1 1800 lfc:c testCaseName ";;1-6;log[HashLockingProcessor][INFO]-***-Hashlocking-completes 4;send-hashLockingData_1003_1003Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-3;1003Step21 1;send-hashLockingData_1003_1003Step21_mqZfCHWcuoEBFqrk41R3MY8eYEm/4ZSWcHinPK7b41cggjtIoDXO/AjWz7BDvFPOUhxpukfK0iuspDmFQisk3w==-789004-789004-0;1-6;1003 4;send-hashLockingSetting_1003_RSA512a.pub_hashLockingKeyword-789002-789001-2;; 1;send-hashLockingSetting_1003_RSA512a.pub_hashLockingKeyword-789001-789002-2;;"
+ 1905  cd cross-chain_new/
+ 1906  vi t.pl
+ 1907  perl t.pl 
+ 1908  vi t.pl
+ 1909  perl t.pl 
+ 1910  vi t.pl
+ 1911  perl t.pl 
+ 1912  vi t.pl
+ 1913  perl t.pl 
+ 1914  vi t.pl
+ 1915  perl generatedMultipleAnyBCSerialization.pl 
+ 1916  perl generatedMultipleAnyBCSerialization.pl 1 6
+ 1917  perl sendToRemote.pl 
+ 1918  perl testSequence.pl 6 30 1200 lfc:i
+ 1919  perl testSequenceRemoteSeparateSteps.pl 
+ 1920  perl testSequenceRemoteSeparateSteps.pl 6 1 30 lfc:i
+ 1921  perl testSequenceRemoteSeparateSteps.pl 6 1 30 lfc:i ;;;
+ 1922  perl testSequenceRemoteSeparateSteps.pl 6 1 30 lfc:i bv
+ 1923  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1924  vi testSequenceRemoteSeparateSteps.pl 
+ 1925  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1926  vi testSequenceRemoteSeparateSteps.pl 
+ 1927  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1928  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv > 1.txt
+ 1929  vi testSequenceRemoteSeparateSteps.pl 
+ 1930  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1931  vi testSequenceRemoteSeparateSteps.pl 
+ 1932  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1933  vi testSequenceRemoteSeparateSteps.pl 
+ 1934  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1935  vi testSequenceRemoteSeparateSteps.pl 
+ 1936  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1937  vi testSequenceRemoteSeparateSteps.pl 
+ 1938  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1939  vi testSequenceRemoteSeparateSteps.pl 
+ 1940  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1941  vi testSequenceRemoteSeparateSteps.pl 
+ 1942  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i bv
+ 1943  vi testSequenceRemoteSeparateSteps.pl 
+ 1944  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i
+ 1945  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:t
+ 1946  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:t 't'
+ 1947  ll
+ 1948  rm sendToRemote.tar.gz 
+ 1949  perl sendToRemote.pl 
+ 1950  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i initialization
+ 1951  perl sendToRemote.pl 
+ 1952  rm sendToRemote.tar.gz 
+ 1953  perl sendToRemote.pl 
+ 1954  perl copyJarCleanAndPub.pl 
+ 1955  vi copyJarCleanAndPub.pl 
+ 1956  perl copyJarCleanAndPub.pl 
+ 1957  vi copyJarCleanAndPub.pl 
+ 1958  perl copyJarCleanAndPub.pl 
+ 1959  perl sendToRemote.pl 
+ 1960  cat sendToRemote.pl 
+ 1961  vi copyJarCleanAndPub.pl 
+ 1962  perl sendToRemote.pl 
+ 1963  ll
+ 1964  rm sendToRemote.tar.gz 
+ 1965  perl sendToRemote.pl 
+ 1966  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:t termination
+ 1967  perl sendToRemote.pl 
+ 1968  ll
+ 1969  perl sendToRemote.pl 
+ 1970  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i initialization
+ 1971  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:t t
+ 1972  perl sendToRemote.pl 
+ 1973  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i initialization
+ 1974  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:t t
+ 1975  perl sendToRemote.pl 
+ 1976  perl testSequenceRemoteSeparateSteps.pl 6 1 60 lfc:i initializatio
+ 1977  pwd
+ 1978  ls
+ 1979  cd embed_sc_new/
+ 1980  ll
+ 1981  hostory
+ 1982  history
+ 1983  history > 1.txt
+ 1984  perl generatedMultipleAnyBCSerialization.pl 1 8
+ 1985  ll
+ 1986  perl sendToRemote.pl 
+ 1987  ls *.sh
+ 1988  ll 1
+ 1989  rm -rf 1 2 3 4 5 6 7 8 111 222
+ 1990  ll
+ 1991  ls
+ 1992  cd ..
+ 1993  rm -rf embed_sc_new/
+ 1994  cp -r embedNew embed0221New
+ 1995  cd embed0221New/
+ 1996  ll
+ 1997  chmod +x ./combined_test*
+ 1998  ./combined_test_total_time_from_2_user_to_32_user_2_times.sh 
+ 1999  cd bc
+ 2000  ll
+ 2001  perl sendToRemote.pl 
+ 2002  tar czvf test.tar.gz *.pl *.sh
+ 2003  cd ../
+ 2004  cd cross-chain_new/
+ 2005  tar czvf test.tar.gz *.pl *.sh
+ 2006  history > history_e01_scu
